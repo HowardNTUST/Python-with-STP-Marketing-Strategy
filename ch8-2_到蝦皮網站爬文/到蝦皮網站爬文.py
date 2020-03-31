@@ -72,6 +72,7 @@ def goods_comments(item_id, shop_id):
 
 
 container = pd.DataFrame()
+container_comm = pd.DataFrame()
 for i in tqdm(range(page)):
     commentlist = pd.DataFrame()
     articles = []
@@ -94,12 +95,7 @@ for i in tqdm(range(page)):
         SKU.append(product['models'])
         tags.append(product['hashtag_list'])
         
-#        # 查看goods_detail爬下來的資料
-#        articles2 = pd.DataFrame(articles, columns = ['articles'])
-#        SKU2 = pd.DataFrame(product['models'], columns = ['SKU'])
-#        tags2 = pd.DataFrame(product['hashtag_list'], columns = ['tags'])
-#        product2 = pd.concat([SKU2,tags2,articles2], axis= 1)
-        
+
         #評論詳細資料
         iteComment = goods_comments(item_id = itemid, shop_id = shopid)
         userid = [] #使用者ID
@@ -127,59 +123,32 @@ for i in tqdm(range(page)):
                 except:
                     p.append(None)
             product_SKU.append(p)
-            
         
+        comment_dic = pd.DataFrame({
+            '使用者ID':userid,
+            '是否匿名':anonymous,
+            '留言時間':commentTime,
+            '是否隱藏':is_hidden,
+            '訂單編號':orderid,
+            '給星':comment_rating_star,
+            '留言內容':comment,
+            '商品規格':product_SKU
+            })
+    
+        container_comm = pd.concat([container_comm,comment_dic], axis=0)
+        print(len(container_comm))
+
     #做成欄位
     items['articles'] = articles
     items['SKU'] = SKU
     items['hashtag_list'] = tags
-    items3 = items[['articles', 'SKU','hashtag_list']]
     
     
     container = pd.concat([container,items], axis=0)
     time.sleep(random.randint(10,20))
     
-# 蝦皮爬下來的原始資料
-container.to_csv(keyword +'.csv', encoding = 'utf-8-sig') #Mac使用utf-8   
-
-# 本次分析資料的相關欄位
-
-container2 = container[['itemid',
-    'name',
-    'ctime',
-    'price',
-    'discount',
-    'price_before_discount',
-    'price_max',
-    'price_max_before_discount',
-    'price_min',
-    'price_min_before_discount',
-    'brand',
-    'stock',
-    'bundle_deal_label',
-    'IDshopid',
-    'shop_location',
-    'liked_count',
-    'cmt_count',
-    'five_star',
-    'four_star',
-    'three_star',
-    'two_star',
-    'one_star',
-    'rcount_with_context',
-    'rcount_with_image',
-    'historical_sold',
-    'rating_star',
-    'tier_variations',
-    'view_count',
-    'article_list',
-    'SKU_list']]
-
-# 下面這些是沒有的欄位
-['IDshopid', 'one_star', 'three_star', 'SKU_list', 'five_star', 'four_star', 'rcount_with_image', 'rating_star', 'article_list', 'bundle_deal_label', 'two_star', 'rcount_with_context']
-
-container.to_csv(keyword +'.csv', encoding = 'utf-8-sig') #Mac使用utf-8   
-
+container.to_csv(keyword +'_商品資料.csv', encoding = 'utf-8-sig') #Mac使用utf-8   
+container_comm.to_csv(keyword +'_留言資料.csv', encoding = 'utf-8-sig') #Mac使用utf-8 
 
 
 
