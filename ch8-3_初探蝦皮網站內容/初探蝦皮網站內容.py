@@ -39,19 +39,12 @@ plt.grid(True) # grid 開啟
 plt.tight_layout()
 
 
-#--- 蝦皮的評分平均（mean）
-product_Data['評分'].describe()
-
-#--- 評價的平均（mean）
-product_Data['評價數量'].describe()
-
-
 #--- 商品評分評價比較圖
 product_Data_melt_zero = product_Data[product_Data['評分']>3]
 plt.scatter(product_Data_melt_zero['評分'],product_Data_melt_zero['評價數量'], 
             color=colrogroup[0],
             alpha=0.5)
-plt.title("商品評分評價比較圖",fontsize=30)#標題
+plt.title("商品評分與評價數量分析圖",fontsize=30)#標題
 plt.ylabel("評價數量",fontsize=20)#y的標題
 plt.xlabel("評分",fontsize=20) #x的標題
 plt.grid(True) # grid 開啟
@@ -79,8 +72,7 @@ plt.tight_layout()
 
 #--- 消費者購買力剖析（價格區間）
 consumerPower_Interval = pd.DataFrame(consumerPower['平均購買金額'].value_counts())
-consumerPower_Interval.sort_index(inplace=True)  
-consumerPower_Interval.columns = ['每個平均價格下的購買人數']
+consumerPower_Interval.sort_index(inplace=True)
 
 plt.plot(consumerPower_Interval.index,consumerPower_Interval['平均購買金額'],color=colrogroup[0])
 plt.title("消費者購買力剖析（價格區間）",fontsize=30)#標題
@@ -97,15 +89,11 @@ like = []
 sale = []
 for i,l,h in zip(product_Data['Tag'].tolist(), product_Data['喜愛數量'].tolist() ,product_Data['歷史銷售量'].tolist()):
     for j in eval(i):
-        
-        # 如果沒有重複，則將「新的tag」新增進去tag陣列
         if not(j in tag):
             tag.append(j)
             count.append(1)
             like.append(l)
             sale.append(h)
-            
-        # 如果該tag先前已經有重複，則將其從過往的陣列索引（index）中找出，對count、like、sale三個變數再行加總
         else:
             count[tag.index(j)] = count[tag.index(j)]+1
             like[tag.index(j)] = like[tag.index(j)]+l
@@ -132,7 +120,7 @@ plt.tight_layout()
 plt.scatter(TagData['總喜歡數'],TagData['總銷量'],color=colrogroup[0])
 plt.title("Tag的喜歡與總銷量比較圖",fontsize=30)#標題
 for i,j,t in zip(TagData['總喜歡數'],TagData['總銷量'],TagData['Tag']):
-    if i > TagData['總喜歡數'].mean()+TagData['總喜歡數'].std()*5 and j > TagData['總銷量'].mean()+TagData['總銷量'].std()*5:
+    if i > 6000 and j > 125000:
         plt.text(i, j, t, fontsize=10 ) # 最後一天的點上方的標籤文字
 plt.xlabel("總喜歡數",fontsize=20)#y的標題
 plt.ylabel("總銷量",fontsize=20) #x的標題
