@@ -4,7 +4,6 @@ Created on Fri Feb 14 10:41:04 2020
 
 @author: Ivan
 """
-
 from tqdm import tqdm
 import pandas as pd
 import numpy as np
@@ -27,6 +26,7 @@ if theOS == 'Windows':
 else:
     theOS = '/'
     secode = 'utf-8'
+#若無法顯示中文，就必須要指定字體檔案
 myfont = FontProperties(fname='tools'+ theOS + 'msj.ttf')
 
 #讀取檔案
@@ -40,7 +40,7 @@ product_Data['Tag'] = product_Data['Tag'].str.replace("'#運動內衣',","")
 product_Data['Tag'] = product_Data['Tag'].str.replace("'#運動bra',","")
 product_Data['Tag'] = product_Data['Tag'].str.replace("'#運動上衣',","")
 
-#Kmeans分群演算法繪圖
+#Kmeans分類演算法繪圖
 def Kmeans(df, classification):
     #開始訓練
     clf.fit(df[classification].values.tolist())
@@ -53,9 +53,9 @@ def Kmeans(df, classification):
        a = df[df['類群']==i] 
        plt.scatter(a['價格'], a['歷史銷售量'], s=50, c=colors[i],label = i, alpha=.5)
     plt.legend(bbox_to_anchor=(1.03, 0.8), loc=2) # 設置圖例
-    plt.ylabel('歷史銷售量',fontsize=40,fontproperties=myfont)
-    plt.xlabel('價格',fontsize=40,fontproperties=myfont) 
-    plt.title('Kmeans顧客分群',fontsize=60,fontproperties=myfont) 
+    plt.ylabel('歷史銷售量',fontsize=40)
+    plt.xlabel('價格',fontsize=40) 
+    plt.title('價格與商品標籤（Tag）分群圖',fontsize=60) 
     
     return df['類群']
     
@@ -99,9 +99,9 @@ for i in range(crub):
                 color=colors[i], 
                 label = i,
                 alpha=0.5)
-plt.title("消費者購買力分析圖",fontsize=60,fontproperties=myfont)#標題
-plt.xlabel("平均購買金額",fontsize=40,fontproperties=myfont)#y的標題
-plt.ylabel("總購買金額",fontsize=40,fontproperties=myfont) #x的標題
+plt.title("消費者購買力分析圖",fontsize=60)#標題
+plt.xlabel("平均購買金額",fontsize=40)#y的標題
+plt.ylabel("總購買金額",fontsize=40) #x的標題
 plt.legend(bbox_to_anchor=(1.03, 0.8), loc=2) # 設置圖例
 plt.grid(True) # grid 開啟
 plt.tight_layout()
@@ -130,10 +130,10 @@ for  cla in product_Data['類群'].value_counts().index:
     plt.bar(TagData['Tag'][:10],TagData['總使用數量'][:10],
             color=colors[2],
             alpha=0.5)
-    plt.title("第"+str(cla)+"群Tag排名",fontsize=30,fontproperties=myfont)#標題
-    plt.ylabel("總使用數量",fontsize=20,fontproperties=myfont)#y的標題
-    plt.xlabel("Tag",fontsize=20,fontproperties=myfont) #x的標題
-    plt.xticks(fontsize=10,rotation=90,fontproperties=myfont)
+    plt.title("第"+str(cla)+"群Tag排名",fontsize=30)#標題
+    plt.ylabel("總使用數量",fontsize=20)#y的標題
+    plt.xlabel("Tag",fontsize=20) #x的標題
+    plt.xticks(fontsize=10,rotation=90)
     plt.tight_layout()
     plt.savefig('群組'+str(cla)+'.png', dpi=300)
     plt.close()
