@@ -1,0 +1,4385 @@
+product,orderId,clientId,gender,orderdate,grossmarg
+coffee,582,230,female,1/8/2018,45
+coffee,2,276,male,2/18/2018,45
+coffee,725,277,female,2/3/2018,45
+coffee,597,279,male,3/5/2018,45
+coffee,761,92,female,2/8/2018,45
+coffee,95,190,male,4/5/2018,45
+coffee,426,241,male,1/30/2018,45
+coffee,321,115,male,1/18/2018,45
+coffee,239,15,female,3/15/2018,45
+coffee,822,164,female,2/17/2018,45
+coffee,430,167,female,3/16/2018,45
+coffee,519,86,female,3/2/2018,45
+coffee,914,246,male,2/27/2018,45
+coffee,392,106,male,3/8/2018,45
+coffee,505,51,male,3/1/2018,45
+coffee,875,235,female,1/8/2018,45
+coffee,328,115,male,2/5/2018,45
+coffee,76,218,male,3/6/2018,45
+coffee,1,166,male,4/7/2018,45
+coffee,775,143,female,4/11/2018,45
+coffee,135,26,male,1/8/2018,45
+coffee,695,97,female,1/9/2018,45
+coffee,858,295,female,1/15/2018,45
+coffee,364,258,female,1/12/2018,45
+coffee,58,73,male,2/26/2018,45
+coffee,165,225,female,4/2/2018,45
+coffee,987,132,male,2/15/2018,45
+coffee,505,51,male,3/1/2018,45
+coffee,305,275,female,1/17/2018,45
+coffee,786,290,female,2/18/2018,45
+coffee,527,220,female,1/28/2018,45
+coffee,903,196,female,3/12/2018,45
+coffee,14,297,female,1/21/2018,45
+coffee,58,73,male,2/26/2018,45
+coffee,222,284,female,1/19/2018,45
+coffee,82,266,male,3/18/2018,45
+coffee,200,285,male,1/21/2018,45
+coffee,639,260,female,3/12/2018,45
+coffee,448,38,female,3/26/2018,45
+coffee,560,224,female,1/2/2018,45
+coffee,724,174,female,3/25/2018,45
+coffee,113,250,female,1/12/2018,45
+coffee,667,216,male,1/29/2018,45
+coffee,428,31,male,2/22/2018,45
+coffee,139,85,female,3/25/2018,45
+coffee,18,47,male,2/14/2018,45
+coffee,857,21,male,2/7/2018,45
+coffee,751,117,male,3/24/2018,45
+coffee,785,76,female,2/9/2018,45
+coffee,375,72,male,4/4/2018,45
+coffee,267,1,male,2/26/2018,45
+coffee,301,253,female,4/5/2018,45
+coffee,921,148,female,3/5/2018,45
+coffee,534,168,female,2/1/2018,45
+coffee,700,34,male,3/15/2018,45
+coffee,451,175,female,4/5/2018,45
+coffee,265,235,female,4/6/2018,45
+coffee,733,106,male,2/11/2018,45
+coffee,555,156,female,3/21/2018,45
+coffee,518,12,male,2/22/2018,45
+coffee,202,186,female,3/4/2018,45
+coffee,188,202,male,1/18/2018,45
+coffee,161,220,female,1/13/2018,45
+coffee,185,165,female,1/14/2018,45
+coffee,259,104,female,2/16/2018,45
+coffee,662,75,male,1/20/2018,45
+coffee,222,284,female,1/19/2018,45
+coffee,260,239,female,3/15/2018,45
+coffee,675,47,male,1/29/2018,45
+coffee,80,122,male,1/24/2018,45
+coffee,31,43,female,3/28/2018,45
+coffee,925,263,female,1/19/2018,45
+coffee,802,210,female,1/15/2018,45
+coffee,181,165,female,2/19/2018,45
+coffee,444,195,female,3/3/2018,45
+coffee,393,60,male,3/27/2018,45
+coffee,6,34,male,3/16/2018,45
+coffee,507,93,female,1/5/2018,45
+coffee,665,220,female,2/2/2018,45
+coffee,598,79,male,3/12/2018,45
+coffee,539,175,female,4/8/2018,45
+coffee,487,130,male,1/19/2018,45
+coffee,640,252,female,3/31/2018,45
+coffee,699,119,male,1/16/2018,45
+coffee,83,88,female,1/3/2018,45
+coffee,929,23,male,2/17/2018,45
+coffee,18,47,male,2/14/2018,45
+coffee,237,298,female,2/26/2018,45
+coffee,588,83,male,3/13/2018,45
+coffee,460,108,male,2/17/2018,45
+coffee,292,213,male,3/12/2018,45
+coffee,145,258,female,3/18/2018,45
+coffee,904,90,female,3/4/2018,45
+coffee,209,274,male,2/1/2018,45
+coffee,155,219,female,3/12/2018,45
+coffee,519,86,female,3/2/2018,45
+coffee,20,77,female,1/9/2018,45
+coffee,365,289,female,3/2/2018,45
+coffee,302,171,female,1/8/2018,45
+coffee,195,119,male,4/8/2018,45
+coffee,748,97,female,3/5/2018,45
+coffee,341,153,male,4/4/2018,45
+coffee,728,142,female,1/27/2018,45
+coffee,167,295,female,3/22/2018,45
+coffee,333,282,female,3/12/2018,45
+coffee,375,72,male,4/4/2018,45
+coffee,623,224,female,3/11/2018,45
+coffee,132,110,male,2/26/2018,45
+coffee,916,27,male,3/9/2018,45
+coffee,271,215,male,2/2/2018,45
+coffee,233,116,female,3/1/2018,45
+coffee,169,71,female,1/23/2018,45
+coffee,180,207,female,3/3/2018,45
+coffee,852,218,male,4/8/2018,45
+coffee,181,165,female,2/19/2018,45
+coffee,870,60,male,3/18/2018,45
+coffee,327,200,male,1/16/2018,45
+coffee,523,281,female,1/16/2018,45
+coffee,15,280,female,3/11/2018,45
+coffee,796,185,male,2/3/2018,45
+coffee,25,138,female,3/30/2018,45
+coffee,580,120,female,1/10/2018,45
+coffee,715,15,female,3/21/2018,45
+coffee,349,77,female,2/13/2018,45
+coffee,291,253,female,1/13/2018,45
+coffee,144,3,female,2/21/2018,45
+coffee,941,268,male,1/20/2018,45
+coffee,209,274,male,2/1/2018,45
+coffee,18,47,male,2/14/2018,45
+coffee,432,174,female,4/8/2018,45
+coffee,425,106,male,2/16/2018,45
+coffee,573,127,male,3/17/2018,45
+coffee,417,116,female,2/21/2018,45
+coffee,799,283,male,3/3/2018,45
+coffee,800,296,male,2/27/2018,45
+coffee,276,210,female,1/31/2018,45
+coffee,331,163,female,3/26/2018,45
+coffee,602,49,female,1/7/2018,45
+coffee,393,60,male,3/27/2018,45
+coffee,279,13,male,1/27/2018,45
+coffee,719,289,female,1/8/2018,45
+coffee,1000,273,female,1/6/2018,45
+coffee,776,218,male,4/1/2018,45
+coffee,343,3,female,4/10/2018,45
+coffee,315,76,female,4/3/2018,45
+coffee,131,4,female,2/1/2018,45
+coffee,195,119,male,4/8/2018,45
+coffee,365,289,female,3/2/2018,45
+coffee,869,202,male,1/23/2018,45
+coffee,758,208,male,1/7/2018,45
+coffee,749,279,male,3/21/2018,45
+coffee,957,199,female,2/20/2018,45
+coffee,48,239,female,3/23/2018,45
+coffee,677,139,female,1/19/2018,45
+coffee,359,62,female,4/10/2018,45
+coffee,71,208,male,1/4/2018,45
+coffee,335,62,female,3/27/2018,45
+coffee,58,73,male,2/26/2018,45
+coffee,780,139,female,3/3/2018,45
+coffee,475,136,male,3/29/2018,45
+coffee,308,91,female,3/22/2018,45
+coffee,781,279,male,1/27/2018,45
+coffee,226,162,female,2/13/2018,45
+coffee,449,36,female,2/21/2018,45
+coffee,725,277,female,2/3/2018,45
+coffee,208,293,female,4/11/2018,45
+coffee,18,47,male,2/14/2018,45
+coffee,441,60,male,3/12/2018,45
+coffee,773,250,female,2/4/2018,45
+coffee,319,293,female,2/18/2018,45
+coffee,518,12,male,2/22/2018,45
+coffee,220,123,female,4/10/2018,45
+coffee,837,96,female,2/5/2018,45
+coffee,451,175,female,4/5/2018,45
+coffee,145,258,female,3/18/2018,45
+coffee,312,225,female,2/12/2018,45
+coffee,592,229,female,4/1/2018,45
+coffee,534,168,female,2/1/2018,45
+coffee,117,20,male,1/28/2018,45
+coffee,54,52,female,3/10/2018,45
+coffee,746,171,female,3/5/2018,45
+coffee,176,281,female,3/7/2018,45
+coffee,867,87,male,1/23/2018,45
+coffee,454,43,female,2/27/2018,45
+coffee,463,185,male,1/20/2018,45
+coffee,513,132,male,4/9/2018,45
+coffee,513,132,male,4/9/2018,45
+coffee,231,292,female,3/25/2018,45
+coffee,46,88,female,1/28/2018,45
+coffee,769,267,female,2/17/2018,45
+coffee,179,81,female,3/9/2018,45
+coffee,396,264,male,3/14/2018,45
+coffee,447,172,female,1/30/2018,45
+coffee,804,147,male,4/11/2018,45
+coffee,335,62,female,3/27/2018,45
+coffee,32,57,female,2/26/2018,45
+coffee,235,209,male,1/19/2018,45
+coffee,515,148,female,2/19/2018,45
+coffee,124,66,female,1/27/2018,45
+coffee,42,205,female,2/5/2018,45
+coffee,843,288,male,3/14/2018,45
+coffee,318,205,female,3/18/2018,45
+coffee,457,28,female,1/2/2018,45
+coffee,181,165,female,2/19/2018,45
+coffee,408,153,male,3/16/2018,45
+coffee,82,266,male,3/18/2018,45
+coffee,590,83,male,2/20/2018,45
+coffee,487,130,male,1/19/2018,45
+coffee,95,190,male,4/5/2018,45
+coffee,459,164,female,4/8/2018,45
+coffee,1,166,male,4/7/2018,45
+coffee,115,25,female,1/7/2018,45
+coffee,682,81,female,3/29/2018,45
+coffee,708,281,female,1/27/2018,45
+coffee,541,49,female,4/8/2018,45
+coffee,183,108,male,2/28/2018,45
+coffee,817,147,male,3/12/2018,45
+coffee,381,272,male,1/21/2018,45
+coffee,461,74,male,1/27/2018,45
+coffee,20,77,female,1/9/2018,45
+coffee,593,6,female,2/13/2018,45
+coffee,575,261,male,1/28/2018,45
+coffee,462,59,female,3/3/2018,45
+coffee,914,246,male,2/27/2018,45
+coffee,147,148,female,1/2/2018,45
+coffee,575,261,male,1/28/2018,45
+coffee,712,274,male,3/7/2018,45
+coffee,383,182,female,1/14/2018,45
+coffee,222,284,female,1/19/2018,45
+coffee,803,160,female,1/7/2018,45
+coffee,100,243,male,3/29/2018,45
+coffee,90,62,female,2/17/2018,45
+coffee,346,13,male,3/16/2018,45
+coffee,485,3,female,2/28/2018,45
+coffee,870,60,male,3/18/2018,45
+coffee,297,174,female,1/11/2018,45
+coffee,686,14,male,3/18/2018,45
+coffee,188,202,male,1/18/2018,45
+coffee,968,173,male,4/7/2018,45
+coffee,494,53,male,2/7/2018,45
+coffee,415,178,male,1/28/2018,45
+coffee,549,97,female,3/11/2018,45
+coffee,467,88,female,1/22/2018,45
+coffee,161,220,female,1/13/2018,45
+coffee,416,151,female,3/26/2018,45
+coffee,264,230,female,1/31/2018,45
+coffee,901,60,male,1/9/2018,45
+coffee,275,297,female,4/8/2018,45
+coffee,773,250,female,2/4/2018,45
+coffee,610,113,male,3/27/2018,45
+coffee,199,256,male,4/2/2018,45
+coffee,127,133,male,2/25/2018,45
+coffee,998,42,male,3/20/2018,45
+coffee,913,263,female,2/9/2018,45
+coffee,972,85,female,1/30/2018,45
+coffee,164,264,male,2/26/2018,45
+coffee,717,49,female,3/27/2018,45
+coffee,856,38,female,2/23/2018,45
+coffee,418,141,female,4/7/2018,45
+coffee,54,52,female,3/10/2018,45
+coffee,392,106,male,3/8/2018,45
+coffee,470,187,female,3/1/2018,45
+coffee,526,7,female,1/22/2018,45
+coffee,453,11,male,1/19/2018,45
+coffee,839,140,female,3/25/2018,45
+coffee,286,156,female,2/26/2018,45
+coffee,10,59,female,4/3/2018,45
+coffee,674,278,male,2/8/2018,45
+coffee,89,13,male,2/19/2018,45
+coffee,63,229,female,2/22/2018,45
+coffee,535,152,male,3/21/2018,45
+coffee,759,25,female,3/23/2018,45
+coffee,334,119,male,1/18/2018,45
+coffee,737,210,female,4/8/2018,45
+coffee,465,16,female,1/13/2018,45
+coffee,169,71,female,1/23/2018,45
+coffee,31,43,female,3/28/2018,45
+coffee,197,232,male,2/23/2018,45
+coffee,779,73,male,1/18/2018,45
+coffee,779,73,male,1/18/2018,45
+coffee,638,224,female,3/28/2018,45
+coffee,871,29,female,4/11/2018,45
+coffee,198,39,female,1/22/2018,45
+coffee,752,67,male,2/4/2018,45
+coffee,698,117,male,3/1/2018,45
+coffee,254,190,male,4/11/2018,45
+coffee,507,93,female,1/5/2018,45
+coffee,282,103,female,2/26/2018,45
+coffee,836,255,male,3/6/2018,45
+coffee,808,232,male,3/6/2018,45
+coffee,988,112,female,3/20/2018,45
+coffee,855,93,female,4/4/2018,45
+coffee,837,96,female,2/5/2018,45
+coffee,114,79,male,2/14/2018,45
+coffee,311,159,male,4/8/2018,45
+coffee,311,159,male,4/8/2018,45
+coffee,86,73,male,3/26/2018,45
+coffee,983,5,male,1/17/2018,45
+coffee,9,93,female,1/16/2018,45
+coffee,670,159,male,1/23/2018,45
+coffee,259,104,female,2/16/2018,45
+coffee,285,98,male,3/27/2018,45
+coffee,867,87,male,1/23/2018,45
+coffee,410,200,male,2/10/2018,45
+coffee,443,276,male,3/20/2018,45
+coffee,480,43,female,1/12/2018,45
+coffee,684,28,female,4/3/2018,45
+coffee,45,124,male,1/9/2018,45
+coffee,818,10,male,2/1/2018,45
+coffee,629,46,female,1/12/2018,45
+coffee,606,281,female,2/6/2018,45
+coffee,965,254,female,3/24/2018,45
+coffee,786,290,female,2/18/2018,45
+coffee,422,134,male,3/18/2018,45
+coffee,31,43,female,3/28/2018,45
+coffee,376,126,male,2/18/2018,45
+coffee,13,105,male,3/24/2018,45
+coffee,205,197,female,2/17/2018,45
+coffee,646,108,male,1/28/2018,45
+coffee,348,194,female,2/16/2018,45
+coffee,625,211,female,1/28/2018,45
+coffee,438,295,female,3/13/2018,45
+coffee,93,102,male,2/14/2018,45
+coffee,732,57,female,3/22/2018,45
+coffee,125,234,female,1/26/2018,45
+coffee,788,197,female,2/15/2018,45
+coffee,153,93,female,3/26/2018,45
+coffee,626,23,male,2/11/2018,45
+coffee,125,234,female,1/26/2018,45
+coffee,43,64,female,3/15/2018,45
+coffee,43,64,female,3/15/2018,45
+coffee,755,83,male,1/8/2018,45
+coffee,408,153,male,3/16/2018,45
+coffee,409,270,male,3/16/2018,45
+coffee,789,95,female,1/17/2018,45
+coffee,913,263,female,2/9/2018,45
+coffee,612,54,male,2/25/2018,45
+coffee,627,172,female,3/1/2018,45
+coffee,409,270,male,3/16/2018,45
+coffee,683,227,female,2/2/2018,45
+coffee,542,149,female,2/5/2018,45
+coffee,69,113,male,2/27/2018,45
+coffee,20,77,female,1/9/2018,45
+coffee,138,294,female,1/19/2018,45
+coffee,784,293,female,1/5/2018,45
+coffee,69,113,male,2/27/2018,45
+coffee,62,213,male,1/5/2018,45
+coffee,46,88,female,1/28/2018,45
+coffee,184,283,male,1/5/2018,45
+coffee,130,62,female,2/6/2018,45
+coffee,314,240,female,1/8/2018,45
+coffee,481,36,female,1/4/2018,45
+coffee,935,34,male,2/1/2018,45
+coffee,288,245,female,2/10/2018,45
+coffee,841,204,female,2/23/2018,45
+coffee,187,67,male,3/1/2018,45
+coffee,242,125,male,1/12/2018,45
+coffee,384,78,female,2/6/2018,45
+coffee,242,125,male,1/12/2018,45
+coffee,494,53,male,2/7/2018,45
+coffee,298,106,male,3/7/2018,45
+coffee,570,146,female,1/19/2018,45
+coffee,189,192,male,3/31/2018,45
+coffee,386,198,female,3/18/2018,45
+coffee,607,67,male,1/29/2018,45
+coffee,639,260,female,3/12/2018,45
+coffee,416,151,female,3/26/2018,45
+coffee,580,120,female,1/10/2018,45
+coffee,360,281,female,2/17/2018,45
+coffee,362,27,male,3/5/2018,45
+coffee,885,256,male,4/4/2018,45
+coffee,762,170,female,1/31/2018,45
+coffee,52,75,male,4/10/2018,45
+coffee,136,28,female,1/27/2018,45
+coffee,137,28,female,1/19/2018,45
+coffee,311,159,male,4/8/2018,45
+coffee,894,165,female,3/26/2018,45
+coffee,913,263,female,2/9/2018,45
+coffee,340,163,female,3/3/2018,45
+coffee,330,60,male,3/27/2018,45
+coffee,824,296,male,3/11/2018,45
+coffee,526,7,female,1/22/2018,45
+coffee,279,13,male,1/27/2018,45
+coffee,622,115,male,1/13/2018,45
+coffee,627,172,female,3/1/2018,45
+coffee,166,116,female,4/1/2018,45
+coffee,933,283,male,3/1/2018,45
+coffee,672,187,female,3/25/2018,45
+coffee,434,119,male,1/3/2018,45
+coffee,905,220,female,2/25/2018,45
+coffee,323,248,female,2/24/2018,45
+coffee,880,168,female,2/15/2018,45
+coffee,287,70,male,1/24/2018,45
+coffee,224,18,male,3/23/2018,45
+coffee,793,268,male,3/13/2018,45
+coffee,557,69,male,3/29/2018,45
+coffee,890,24,male,2/14/2018,45
+coffee,224,18,male,3/23/2018,45
+coffee,141,227,female,3/1/2018,45
+coffee,977,39,female,3/28/2018,45
+coffee,638,224,female,3/28/2018,45
+coffee,994,87,male,2/1/2018,45
+coffee,262,141,female,1/11/2018,45
+coffee,891,85,female,1/21/2018,45
+coffee,950,138,female,1/24/2018,45
+coffee,733,106,male,2/11/2018,45
+coffee,368,93,female,1/27/2018,45
+coffee,639,260,female,3/12/2018,45
+coffee,508,234,female,2/13/2018,45
+coffee,467,88,female,1/22/2018,45
+coffee,835,79,male,1/5/2018,45
+coffee,59,98,male,2/13/2018,45
+coffee,533,294,female,1/5/2018,45
+coffee,451,175,female,4/5/2018,45
+coffee,619,28,female,3/20/2018,45
+coffee,136,28,female,1/27/2018,45
+coffee,469,47,male,3/9/2018,45
+coffee,37,221,male,3/16/2018,45
+coffee,633,218,male,2/15/2018,45
+coffee,784,293,female,1/5/2018,45
+coffee,866,13,male,1/24/2018,45
+coffee,952,124,male,3/7/2018,45
+coffee,642,148,female,2/5/2018,45
+coffee,543,189,male,2/22/2018,45
+coffee,827,117,male,1/17/2018,45
+coffee,991,264,male,2/1/2018,45
+coffee,818,10,male,2/1/2018,45
+coffee,491,130,male,2/4/2018,45
+coffee,810,110,male,2/10/2018,45
+coffee,184,283,male,1/5/2018,45
+coffee,130,62,female,2/6/2018,45
+coffee,675,47,male,1/29/2018,45
+coffee,357,170,female,4/6/2018,45
+coffee,595,97,female,1/6/2018,45
+coffee,616,66,female,2/20/2018,45
+coffee,955,265,female,1/26/2018,45
+coffee,514,42,male,1/19/2018,45
+coffee,957,199,female,2/20/2018,45
+coffee,646,108,male,1/28/2018,45
+coffee,869,202,male,1/23/2018,45
+coffee,42,205,female,2/5/2018,45
+coffee,499,94,female,4/3/2018,45
+coffee,549,97,female,3/11/2018,45
+coffee,957,199,female,2/20/2018,45
+coffee,407,176,male,3/24/2018,45
+coffee,631,9,female,2/23/2018,45
+coffee,42,205,female,2/5/2018,45
+coffee,571,182,female,4/6/2018,45
+coffee,900,7,female,3/7/2018,45
+coffee,667,216,male,1/29/2018,45
+coffee,632,176,male,3/22/2018,45
+coffee,988,112,female,3/20/2018,45
+coffee,854,274,male,2/7/2018,45
+coffee,76,218,male,3/6/2018,45
+coffee,211,206,female,2/7/2018,45
+coffee,425,106,male,2/16/2018,45
+coffee,255,219,female,1/7/2018,45
+coffee,469,47,male,3/9/2018,45
+coffee,641,123,female,1/27/2018,45
+coffee,351,72,male,1/8/2018,45
+coffee,128,286,female,2/10/2018,45
+coffee,293,58,male,3/7/2018,45
+coffee,848,296,male,3/12/2018,45
+coffee,222,284,female,1/19/2018,45
+coffee,175,99,male,1/17/2018,45
+coffee,221,270,male,1/26/2018,45
+coffee,962,236,female,3/20/2018,45
+coffee,523,281,female,1/16/2018,45
+coffee,98,3,female,2/25/2018,45
+coffee,220,123,female,4/10/2018,45
+coffee,356,7,female,2/15/2018,45
+coffee,433,67,male,4/4/2018,45
+coffee,513,132,male,4/9/2018,45
+coffee,435,231,female,3/21/2018,45
+coffee,204,280,female,3/8/2018,45
+coffee,71,208,male,1/4/2018,45
+coffee,215,44,female,4/8/2018,45
+coffee,546,83,male,2/24/2018,45
+coffee,578,289,female,3/2/2018,45
+coffee,696,293,female,3/5/2018,45
+coffee,145,258,female,3/18/2018,45
+coffee,726,251,male,1/26/2018,45
+coffee,905,220,female,2/25/2018,45
+coffee,218,115,male,2/14/2018,45
+coffee,910,264,male,2/11/2018,45
+coffee,398,137,male,1/22/2018,45
+coffee,589,268,male,2/8/2018,45
+coffee,969,159,male,3/12/2018,45
+coffee,853,161,female,1/29/2018,45
+coffee,988,112,female,3/20/2018,45
+coffee,550,109,female,2/11/2018,45
+coffee,822,164,female,2/17/2018,45
+coffee,837,96,female,2/5/2018,45
+coffee,627,172,female,3/1/2018,45
+coffee,490,47,male,2/22/2018,45
+coffee,136,28,female,1/27/2018,45
+coffee,716,80,male,3/24/2018,45
+coffee,533,294,female,1/5/2018,45
+coffee,509,73,male,3/28/2018,45
+coffee,951,247,female,1/27/2018,45
+coffee,104,300,male,1/7/2018,45
+coffee,29,204,female,3/5/2018,45
+coffee,302,171,female,1/8/2018,45
+coffee,838,191,female,1/12/2018,45
+coffee,905,220,female,2/25/2018,45
+coffee,184,283,male,1/5/2018,45
+coffee,456,24,male,3/3/2018,45
+coffee,64,117,male,4/4/2018,45
+coffee,629,46,female,1/12/2018,45
+coffee,783,64,female,1/15/2018,45
+coffee,706,225,female,3/9/2018,45
+coffee,639,260,female,3/12/2018,45
+coffee,712,274,male,3/7/2018,45
+coffee,869,202,male,1/23/2018,45
+coffee,703,228,female,4/4/2018,45
+coffee,889,294,female,2/8/2018,45
+coffee,141,227,female,3/1/2018,45
+coffee,804,147,male,4/11/2018,45
+coffee,80,122,male,1/24/2018,45
+coffee,182,177,female,3/15/2018,45
+coffee,497,209,male,4/7/2018,45
+coffee,510,168,female,1/11/2018,45
+coffee,199,256,male,4/2/2018,45
+coffee,283,130,male,1/23/2018,45
+coffee,699,119,male,1/16/2018,45
+coffee,687,167,female,2/10/2018,45
+coffee,570,146,female,1/19/2018,45
+coffee,475,136,male,3/29/2018,45
+coffee,853,161,female,1/29/2018,45
+coffee,360,281,female,2/17/2018,45
+coffee,225,160,female,4/11/2018,45
+coffee,951,247,female,1/27/2018,45
+coffee,325,147,male,2/28/2018,45
+coffee,713,15,female,2/8/2018,45
+coffee,366,244,female,1/22/2018,45
+coffee,822,164,female,2/17/2018,45
+coffee,754,167,female,3/1/2018,45
+coffee,630,286,female,3/23/2018,45
+coffee,317,69,male,4/1/2018,45
+coffee,429,210,female,3/24/2018,45
+coffee,371,70,male,4/8/2018,45
+coffee,810,110,male,2/10/2018,45
+coffee,402,33,male,4/6/2018,45
+coffee,817,147,male,3/12/2018,45
+coffee,302,171,female,1/8/2018,45
+coffee,246,193,male,2/9/2018,45
+coffee,274,113,male,2/21/2018,45
+coffee,190,135,female,1/7/2018,45
+coffee,23,233,male,3/18/2018,45
+coffee,103,74,male,4/7/2018,45
+coffee,338,106,male,2/14/2018,45
+coffee,199,256,male,4/2/2018,45
+coffee,786,290,female,2/18/2018,45
+coffee,819,1,male,3/17/2018,45
+coffee,344,129,female,3/18/2018,45
+coffee,71,208,male,1/4/2018,45
+coffee,596,26,male,2/18/2018,45
+coffee,132,110,male,2/26/2018,45
+coffee,894,165,female,3/26/2018,45
+coffee,280,96,female,4/11/2018,45
+coffee,493,214,female,3/18/2018,45
+coffee,653,160,female,1/31/2018,45
+coffee,387,71,female,1/12/2018,45
+coffee,425,106,male,2/16/2018,45
+coffee,46,88,female,1/28/2018,45
+coffee,315,76,female,4/3/2018,45
+coffee,327,200,male,1/16/2018,45
+coffee,235,209,male,1/19/2018,45
+coffee,189,192,male,3/31/2018,45
+coffee,241,223,female,3/27/2018,45
+coffee,470,187,female,3/1/2018,45
+coffee,976,229,female,1/31/2018,45
+coffee,271,215,male,2/2/2018,45
+coffee,151,74,male,1/17/2018,45
+coffee,57,33,male,1/21/2018,45
+coffee,737,210,female,4/8/2018,45
+coffee,559,81,female,1/18/2018,45
+coffee,624,275,female,1/30/2018,45
+coffee,868,83,male,2/23/2018,45
+coffee,47,229,female,1/19/2018,45
+coffee,784,293,female,1/5/2018,45
+coffee,663,136,male,1/28/2018,45
+coffee,849,254,female,1/9/2018,45
+oatmeal bread,1,166,male,4/7/2018,50
+oatmeal bread,582,230,female,1/8/2018,50
+oatmeal bread,744,275,female,3/28/2018,50
+oatmeal bread,247,19,female,1/20/2018,50
+oatmeal bread,501,215,male,4/9/2018,50
+oatmeal bread,248,206,female,1/8/2018,50
+oatmeal bread,166,116,female,4/1/2018,50
+oatmeal bread,746,171,female,3/5/2018,50
+oatmeal bread,2,276,male,2/18/2018,50
+oatmeal bread,2,276,male,2/18/2018,50
+oatmeal bread,747,50,male,2/13/2018,50
+oatmeal bread,748,97,female,3/5/2018,50
+oatmeal bread,78,91,female,2/1/2018,50
+oatmeal bread,585,116,female,1/13/2018,50
+oatmeal bread,249,39,female,1/25/2018,50
+oatmeal bread,79,80,male,1/23/2018,50
+oatmeal bread,4,95,female,3/28/2018,50
+oatmeal bread,250,14,male,1/2/2018,50
+oatmeal bread,250,14,male,1/2/2018,50
+oatmeal bread,749,279,male,3/21/2018,50
+oatmeal bread,79,80,male,1/23/2018,50
+oatmeal bread,4,95,female,3/28/2018,50
+oatmeal bread,663,136,male,1/28/2018,50
+oatmeal bread,252,136,male,2/3/2018,50
+oatmeal bread,252,136,male,2/3/2018,50
+oatmeal bread,5,253,female,1/27/2018,50
+oatmeal bread,750,184,male,1/13/2018,50
+oatmeal bread,5,253,female,1/27/2018,50
+oatmeal bread,252,136,male,2/3/2018,50
+oatmeal bread,589,268,male,2/8/2018,50
+oatmeal bread,507,93,female,1/5/2018,50
+oatmeal bread,6,34,male,3/16/2018,50
+oatmeal bread,82,266,male,3/18/2018,50
+oatmeal bread,753,57,female,1/25/2018,50
+oatmeal bread,508,234,female,2/13/2018,50
+oatmeal bread,254,190,male,4/11/2018,50
+oatmeal bread,7,215,male,4/8/2018,50
+oatmeal bread,8,230,female,4/1/2018,50
+oatmeal bread,591,211,female,2/5/2018,50
+oatmeal bread,510,168,female,1/11/2018,50
+oatmeal bread,9,93,female,1/16/2018,50
+oatmeal bread,510,168,female,1/11/2018,50
+oatmeal bread,838,191,female,1/12/2018,50
+oatmeal bread,257,47,male,2/6/2018,50
+oatmeal bread,511,89,male,1/21/2018,50
+oatmeal bread,511,89,male,1/21/2018,50
+oatmeal bread,592,229,female,4/1/2018,50
+oatmeal bread,9,93,female,1/16/2018,50
+oatmeal bread,10,59,female,4/3/2018,50
+oatmeal bread,10,59,female,4/3/2018,50
+oatmeal bread,512,130,male,2/19/2018,50
+oatmeal bread,839,140,female,3/25/2018,50
+oatmeal bread,10,59,female,4/3/2018,50
+oatmeal bread,10,59,female,4/3/2018,50
+oatmeal bread,89,13,male,2/19/2018,50
+oatmeal bread,259,104,female,2/16/2018,50
+oatmeal bread,11,202,male,1/8/2018,50
+oatmeal bread,513,132,male,4/9/2018,50
+oatmeal bread,514,42,male,1/19/2018,50
+oatmeal bread,924,266,male,3/8/2018,50
+oatmeal bread,12,234,female,2/21/2018,50
+oatmeal bread,13,105,male,3/24/2018,50
+oatmeal bread,514,42,male,1/19/2018,50
+oatmeal bread,515,148,female,2/19/2018,50
+oatmeal bread,261,276,male,2/6/2018,50
+oatmeal bread,625,211,female,1/28/2018,50
+oatmeal bread,760,272,male,3/30/2018,50
+oatmeal bread,515,148,female,2/19/2018,50
+oatmeal bread,842,169,male,2/3/2018,50
+oatmeal bread,515,148,female,2/19/2018,50
+oatmeal bread,15,280,female,3/11/2018,50
+oatmeal bread,348,194,female,2/16/2018,50
+oatmeal bread,15,280,female,3/11/2018,50
+oatmeal bread,94,268,male,3/12/2018,50
+oatmeal bread,762,170,female,1/31/2018,50
+oatmeal bread,17,280,female,1/31/2018,50
+oatmeal bread,517,256,male,3/13/2018,50
+oatmeal bread,18,47,male,2/14/2018,50
+oatmeal bread,600,142,female,2/22/2018,50
+oatmeal bread,517,256,male,3/13/2018,50
+oatmeal bread,600,142,female,2/22/2018,50
+oatmeal bread,183,108,male,2/28/2018,50
+oatmeal bread,266,58,male,2/21/2018,50
+oatmeal bread,764,212,female,4/4/2018,50
+oatmeal bread,602,49,female,1/7/2018,50
+oatmeal bread,19,144,female,1/9/2018,50
+oatmeal bread,519,86,female,3/2/2018,50
+oatmeal bread,269,246,male,3/15/2018,50
+oatmeal bread,932,3,female,1/12/2018,50
+oatmeal bread,269,246,male,3/15/2018,50
+oatmeal bread,184,283,male,1/5/2018,50
+oatmeal bread,20,77,female,1/9/2018,50
+oatmeal bread,269,246,male,3/15/2018,50
+oatmeal bread,520,43,female,1/24/2018,50
+oatmeal bread,21,75,male,4/8/2018,50
+oatmeal bread,520,43,female,1/24/2018,50
+oatmeal bread,520,43,female,1/24/2018,50
+oatmeal bread,22,117,male,3/26/2018,50
+oatmeal bread,22,117,male,3/26/2018,50
+oatmeal bread,22,117,male,3/26/2018,50
+oatmeal bread,521,82,female,3/25/2018,50
+oatmeal bread,521,82,female,3/25/2018,50
+oatmeal bread,521,82,female,3/25/2018,50
+oatmeal bread,271,215,male,2/2/2018,50
+oatmeal bread,522,8,female,1/9/2018,50
+oatmeal bread,272,14,male,1/17/2018,50
+oatmeal bread,24,53,male,1/12/2018,50
+oatmeal bread,272,14,male,1/17/2018,50
+oatmeal bread,771,36,female,3/11/2018,50
+oatmeal bread,272,14,male,1/17/2018,50
+oatmeal bread,523,281,female,1/16/2018,50
+oatmeal bread,771,36,female,3/11/2018,50
+oatmeal bread,102,161,female,3/13/2018,50
+oatmeal bread,523,281,female,1/16/2018,50
+oatmeal bread,26,42,male,4/11/2018,50
+oatmeal bread,854,274,male,2/7/2018,50
+oatmeal bread,274,113,male,2/21/2018,50
+oatmeal bread,27,10,male,4/8/2018,50
+oatmeal bread,27,10,male,4/8/2018,50
+oatmeal bread,855,93,female,4/4/2018,50
+oatmeal bread,27,10,male,4/8/2018,50
+oatmeal bread,104,300,male,1/7/2018,50
+oatmeal bread,27,10,male,4/8/2018,50
+oatmeal bread,774,290,female,3/24/2018,50
+oatmeal bread,28,238,female,3/29/2018,50
+oatmeal bread,526,7,female,1/22/2018,50
+oatmeal bread,277,17,female,2/6/2018,50
+oatmeal bread,29,204,female,3/5/2018,50
+oatmeal bread,106,298,female,2/26/2018,50
+oatmeal bread,613,40,male,4/11/2018,50
+oatmeal bread,106,298,female,2/26/2018,50
+oatmeal bread,775,143,female,4/11/2018,50
+oatmeal bread,444,195,female,3/3/2018,50
+oatmeal bread,30,19,female,3/20/2018,50
+oatmeal bread,613,40,male,4/11/2018,50
+oatmeal bread,694,82,female,2/8/2018,50
+oatmeal bread,614,42,male,1/16/2018,50
+oatmeal bread,108,237,male,3/21/2018,50
+oatmeal bread,527,220,female,1/28/2018,50
+oatmeal bread,31,43,female,3/28/2018,50
+oatmeal bread,778,294,female,1/10/2018,50
+oatmeal bread,109,32,female,2/16/2018,50
+oatmeal bread,528,48,female,1/16/2018,50
+oatmeal bread,778,294,female,1/10/2018,50
+oatmeal bread,280,96,female,4/11/2018,50
+oatmeal bread,32,57,female,2/26/2018,50
+oatmeal bread,529,292,female,1/19/2018,50
+oatmeal bread,32,57,female,2/26/2018,50
+oatmeal bread,281,90,female,1/12/2018,50
+oatmeal bread,198,39,female,1/22/2018,50
+oatmeal bread,282,103,female,2/26/2018,50
+oatmeal bread,949,55,female,1/21/2018,50
+oatmeal bread,282,103,female,2/26/2018,50
+oatmeal bread,113,250,female,1/12/2018,50
+oatmeal bread,33,232,male,2/19/2018,50
+oatmeal bread,532,298,female,3/21/2018,50
+oatmeal bread,368,93,female,1/27/2018,50
+oatmeal bread,34,169,male,1/18/2018,50
+oatmeal bread,34,169,male,1/18/2018,50
+oatmeal bread,34,169,male,1/18/2018,50
+oatmeal bread,533,294,female,1/5/2018,50
+oatmeal bread,35,99,male,3/22/2018,50
+oatmeal bread,620,171,female,2/22/2018,50
+oatmeal bread,865,177,female,3/28/2018,50
+oatmeal bread,115,25,female,1/7/2018,50
+oatmeal bread,36,222,female,2/1/2018,50
+oatmeal bread,372,49,female,3/9/2018,50
+oatmeal bread,37,221,male,3/16/2018,50
+oatmeal bread,37,221,male,3/16/2018,50
+oatmeal bread,37,221,male,3/16/2018,50
+oatmeal bread,534,168,female,2/1/2018,50
+oatmeal bread,534,168,female,2/1/2018,50
+oatmeal bread,117,20,male,1/28/2018,50
+oatmeal bread,867,87,male,1/23/2018,50
+oatmeal bread,785,76,female,2/9/2018,50
+oatmeal bread,39,91,female,3/10/2018,50
+oatmeal bread,535,152,male,3/21/2018,50
+oatmeal bread,287,70,male,1/24/2018,50
+oatmeal bread,202,186,female,3/4/2018,50
+oatmeal bread,287,70,male,1/24/2018,50
+oatmeal bread,287,70,male,1/24/2018,50
+oatmeal bread,121,60,male,1/7/2018,50
+oatmeal bread,121,60,male,1/7/2018,50
+oatmeal bread,624,275,female,1/30/2018,50
+oatmeal bread,122,133,male,3/8/2018,50
+oatmeal bread,786,290,female,2/18/2018,50
+oatmeal bread,64,117,male,4/4/2018,50
+oatmeal bread,41,99,male,3/25/2018,50
+oatmeal bread,538,5,male,3/26/2018,50
+oatmeal bread,539,175,female,4/8/2018,50
+oatmeal bread,539,175,female,4/8/2018,50
+oatmeal bread,457,28,female,1/2/2018,50
+oatmeal bread,539,175,female,4/8/2018,50
+oatmeal bread,872,73,male,1/10/2018,50
+oatmeal bread,540,291,female,3/10/2018,50
+oatmeal bread,291,253,female,1/13/2018,50
+oatmeal bread,788,197,female,2/15/2018,50
+oatmeal bread,291,253,female,1/13/2018,50
+oatmeal bread,291,253,female,1/13/2018,50
+oatmeal bread,626,23,male,2/11/2018,50
+oatmeal bread,126,124,male,1/17/2018,50
+oatmeal bread,43,64,female,3/15/2018,50
+oatmeal bread,541,49,female,4/8/2018,50
+oatmeal bread,43,64,female,3/15/2018,50
+oatmeal bread,44,182,female,2/24/2018,50
+oatmeal bread,210,108,male,2/19/2018,50
+oatmeal bread,44,182,female,2/24/2018,50
+oatmeal bread,44,182,female,2/24/2018,50
+oatmeal bread,128,286,female,2/10/2018,50
+oatmeal bread,876,294,female,3/24/2018,50
+oatmeal bread,44,182,female,2/24/2018,50
+oatmeal bread,543,189,male,2/22/2018,50
+oatmeal bread,543,189,male,2/22/2018,50
+oatmeal bread,45,124,male,1/9/2018,50
+oatmeal bread,295,274,male,1/7/2018,50
+oatmeal bread,295,274,male,1/7/2018,50
+oatmeal bread,46,88,female,1/28/2018,50
+oatmeal bread,295,274,male,1/7/2018,50
+oatmeal bread,964,286,female,2/12/2018,50
+oatmeal bread,793,268,male,3/13/2018,50
+oatmeal bread,383,182,female,1/14/2018,50
+oatmeal bread,712,274,male,3/7/2018,50
+oatmeal bread,546,83,male,2/24/2018,50
+oatmeal bread,47,229,female,1/19/2018,50
+oatmeal bread,48,239,female,3/23/2018,50
+oatmeal bread,48,239,female,3/23/2018,50
+oatmeal bread,547,46,female,3/6/2018,50
+oatmeal bread,48,239,female,3/23/2018,50
+oatmeal bread,297,174,female,1/11/2018,50
+oatmeal bread,795,166,male,3/8/2018,50
+oatmeal bread,796,185,male,2/3/2018,50
+oatmeal bread,49,118,female,2/1/2018,50
+oatmeal bread,134,234,female,3/8/2018,50
+oatmeal bread,218,115,male,2/14/2018,50
+oatmeal bread,550,109,female,2/11/2018,50
+oatmeal bread,49,118,female,2/1/2018,50
+oatmeal bread,50,226,female,2/1/2018,50
+oatmeal bread,136,28,female,1/27/2018,50
+oatmeal bread,300,139,female,2/18/2018,50
+oatmeal bread,51,5,male,3/12/2018,50
+oatmeal bread,51,5,male,3/12/2018,50
+oatmeal bread,300,139,female,2/18/2018,50
+oatmeal bread,52,75,male,4/10/2018,50
+oatmeal bread,52,75,male,4/10/2018,50
+oatmeal bread,53,87,male,1/5/2018,50
+oatmeal bread,53,87,male,1/5/2018,50
+oatmeal bread,392,106,male,3/8/2018,50
+oatmeal bread,301,253,female,4/5/2018,50
+oatmeal bread,53,87,male,1/5/2018,50
+oatmeal bread,634,53,male,1/26/2018,50
+oatmeal bread,553,207,female,2/19/2018,50
+oatmeal bread,635,87,male,1/18/2018,50
+oatmeal bread,555,156,female,3/21/2018,50
+oatmeal bread,886,162,female,2/3/2018,50
+oatmeal bread,332,204,female,2/22/2018,50
+oatmeal bread,555,156,female,3/21/2018,50
+oatmeal bread,167,295,female,3/22/2018,50
+oatmeal bread,305,275,female,1/17/2018,50
+oatmeal bread,56,1,male,4/3/2018,50
+oatmeal bread,56,1,male,4/3/2018,50
+oatmeal bread,140,133,male,2/6/2018,50
+oatmeal bread,305,275,female,1/17/2018,50
+oatmeal bread,306,94,female,2/8/2018,50
+oatmeal bread,57,33,male,1/21/2018,50
+oatmeal bread,306,94,female,2/8/2018,50
+oatmeal bread,557,69,male,3/29/2018,50
+oatmeal bread,141,227,female,3/1/2018,50
+oatmeal bread,558,156,female,2/11/2018,50
+oatmeal bread,307,253,female,4/1/2018,50
+oatmeal bread,475,136,male,3/29/2018,50
+oatmeal bread,559,81,female,1/18/2018,50
+oatmeal bread,806,244,female,3/7/2018,50
+oatmeal bread,724,174,female,3/25/2018,50
+oatmeal bread,143,174,female,2/19/2018,50
+oatmeal bread,309,120,female,1/15/2018,50
+oatmeal bread,59,98,male,2/13/2018,50
+oatmeal bread,807,147,male,3/9/2018,50
+oatmeal bread,807,147,male,3/9/2018,50
+oatmeal bread,477,244,female,2/27/2018,50
+oatmeal bread,59,98,male,2/13/2018,50
+oatmeal bread,59,98,male,2/13/2018,50
+oatmeal bread,562,112,female,1/31/2018,50
+oatmeal bread,400,172,female,2/24/2018,50
+oatmeal bread,809,172,female,3/30/2018,50
+oatmeal bread,562,112,female,1/31/2018,50
+oatmeal bread,809,172,female,3/30/2018,50
+oatmeal bread,60,70,male,1/9/2018,50
+oatmeal bread,312,225,female,2/12/2018,50
+oatmeal bread,146,222,female,2/26/2018,50
+oatmeal bread,146,222,female,2/26/2018,50
+oatmeal bread,894,165,female,3/26/2018,50
+oatmeal bread,61,80,male,2/15/2018,50
+oatmeal bread,61,80,male,2/15/2018,50
+oatmeal bread,984,116,female,4/1/2018,50
+oatmeal bread,62,213,male,1/5/2018,50
+oatmeal bread,566,184,male,2/28/2018,50
+oatmeal bread,566,184,male,2/28/2018,50
+oatmeal bread,63,229,female,2/22/2018,50
+oatmeal bread,63,229,female,2/22/2018,50
+oatmeal bread,986,142,female,3/23/2018,50
+oatmeal bread,567,275,female,2/23/2018,50
+oatmeal bread,147,148,female,1/2/2018,50
+oatmeal bread,63,229,female,2/22/2018,50
+oatmeal bread,316,106,male,3/6/2018,50
+oatmeal bread,316,106,male,3/6/2018,50
+oatmeal bread,64,117,male,4/4/2018,50
+oatmeal bread,569,68,female,3/22/2018,50
+oatmeal bread,760,272,male,3/30/2018,50
+oatmeal bread,317,69,male,4/1/2018,50
+oatmeal bread,647,146,female,1/20/2018,50
+oatmeal bread,65,180,female,1/16/2018,50
+oatmeal bread,65,180,female,1/16/2018,50
+oatmeal bread,65,180,female,1/16/2018,50
+oatmeal bread,65,180,female,1/16/2018,50
+oatmeal bread,647,146,female,1/20/2018,50
+oatmeal bread,65,180,female,1/16/2018,50
+oatmeal bread,408,153,male,3/16/2018,50
+oatmeal bread,571,182,female,4/6/2018,50
+oatmeal bread,66,115,male,1/25/2018,50
+oatmeal bread,815,153,male,2/6/2018,50
+oatmeal bread,66,115,male,1/25/2018,50
+oatmeal bread,67,171,female,4/4/2018,50
+oatmeal bread,572,87,male,3/20/2018,50
+oatmeal bread,648,93,female,4/1/2018,50
+oatmeal bread,649,135,female,1/17/2018,50
+oatmeal bread,67,171,female,4/4/2018,50
+oatmeal bread,154,26,male,3/28/2018,50
+oatmeal bread,68,233,male,3/3/2018,50
+oatmeal bread,68,233,male,3/3/2018,50
+oatmeal bread,904,90,female,3/4/2018,50
+oatmeal bread,574,224,female,2/17/2018,50
+oatmeal bread,156,171,female,2/8/2018,50
+oatmeal bread,321,115,male,1/18/2018,50
+oatmeal bread,322,14,male,2/26/2018,50
+oatmeal bread,239,15,female,3/15/2018,50
+oatmeal bread,323,248,female,2/24/2018,50
+oatmeal bread,323,248,female,2/24/2018,50
+oatmeal bread,69,113,male,2/27/2018,50
+oatmeal bread,70,57,female,4/11/2018,50
+oatmeal bread,70,57,female,4/11/2018,50
+oatmeal bread,411,237,male,4/7/2018,50
+oatmeal bread,71,208,male,1/4/2018,50
+oatmeal bread,71,208,male,1/4/2018,50
+oatmeal bread,71,208,male,1/4/2018,50
+oatmeal bread,820,137,male,4/10/2018,50
+oatmeal bread,820,137,male,4/10/2018,50
+oatmeal bread,654,81,female,1/4/2018,50
+oatmeal bread,160,123,female,2/24/2018,50
+oatmeal bread,413,294,female,1/24/2018,50
+oatmeal bread,654,81,female,1/4/2018,50
+oatmeal bread,821,200,male,2/22/2018,50
+oatmeal bread,160,123,female,2/24/2018,50
+oatmeal bread,821,200,male,2/22/2018,50
+oatmeal bread,73,153,male,1/14/2018,50
+oatmeal bread,73,153,male,1/14/2018,50
+oatmeal bread,327,200,male,1/16/2018,50
+oatmeal bread,656,103,female,3/17/2018,50
+oatmeal bread,163,106,male,2/12/2018,50
+oatmeal bread,996,48,female,2/5/2018,50
+oatmeal bread,580,120,female,1/10/2018,50
+oatmeal bread,75,39,female,4/10/2018,50
+oatmeal bread,75,39,female,4/10/2018,50
+oatmeal bread,329,270,male,2/2/2018,50
+oatmeal bread,163,106,male,2/12/2018,50
+oatmeal bread,76,218,male,3/6/2018,50
+oatmeal bread,658,83,male,3/17/2018,50
+oatmeal bread,76,218,male,3/6/2018,50
+oatmeal bread,582,230,female,1/8/2018,50
+oatmeal bread,582,230,female,1/8/2018,50
+oatmeal bread,165,225,female,4/2/2018,50
+oatmeal bread,745,141,female,2/11/2018,50
+oatmeal bread,583,122,male,3/13/2018,50
+oatmeal bread,77,218,male,2/28/2018,50
+oatmeal bread,827,117,male,1/17/2018,50
+oatmeal bread,166,116,female,4/1/2018,50
+oatmeal bread,856,38,female,2/23/2018,50
+oatmeal bread,1000,273,female,1/6/2018,50
+oatmeal bread,139,85,female,3/25/2018,50
+oatmeal bread,78,91,female,2/1/2018,50
+oatmeal bread,662,75,male,1/20/2018,50
+oatmeal bread,829,188,female,1/19/2018,50
+oatmeal bread,333,282,female,3/12/2018,50
+oatmeal bread,586,234,female,4/4/2018,50
+oatmeal bread,587,54,male,1/13/2018,50
+oatmeal bread,168,198,female,2/16/2018,50
+oatmeal bread,80,122,male,1/24/2018,50
+oatmeal bread,831,150,male,2/14/2018,50
+oatmeal bread,80,122,male,1/24/2018,50
+oatmeal bread,918,56,male,2/17/2018,50
+oatmeal bread,80,122,male,1/24/2018,50
+oatmeal bread,81,77,female,1/29/2018,50
+oatmeal bread,81,77,female,1/29/2018,50
+oatmeal bread,336,263,female,2/8/2018,50
+oatmeal bread,751,117,male,3/24/2018,50
+oatmeal bread,531,220,female,2/11/2018,50
+oatmeal bread,82,266,male,3/18/2018,50
+oatmeal bread,424,147,male,2/10/2018,50
+oatmeal bread,589,268,male,2/8/2018,50
+oatmeal bread,337,108,male,4/9/2018,50
+oatmeal bread,83,88,female,1/3/2018,50
+oatmeal bread,590,83,male,2/20/2018,50
+oatmeal bread,171,195,female,3/28/2018,50
+oatmeal bread,172,53,male,3/6/2018,50
+oatmeal bread,425,106,male,2/16/2018,50
+oatmeal bread,84,292,female,1/30/2018,50
+oatmeal bread,668,214,female,2/28/2018,50
+oatmeal bread,173,93,female,1/16/2018,50
+oatmeal bread,339,18,male,2/3/2018,50
+oatmeal bread,838,191,female,1/12/2018,50
+oatmeal bread,426,241,male,1/30/2018,50
+oatmeal bread,921,148,female,3/5/2018,50
+oatmeal bread,87,170,female,3/7/2018,50
+oatmeal bread,512,130,male,2/19/2018,50
+oatmeal bread,593,6,female,2/13/2018,50
+oatmeal bread,340,163,female,3/3/2018,50
+oatmeal bread,923,209,male,1/19/2018,50
+oatmeal bread,923,209,male,1/19/2018,50
+oatmeal bread,672,187,female,3/25/2018,50
+oatmeal bread,177,176,male,2/10/2018,50
+oatmeal bread,674,278,male,2/8/2018,50
+oatmeal bread,840,45,female,2/19/2018,50
+oatmeal bread,89,13,male,2/19/2018,50
+oatmeal bread,90,62,female,2/17/2018,50
+oatmeal bread,595,97,female,1/6/2018,50
+oatmeal bread,841,204,female,2/23/2018,50
+oatmeal bread,596,26,male,2/18/2018,50
+oatmeal bread,180,207,female,3/3/2018,50
+oatmeal bread,428,31,male,2/22/2018,50
+oatmeal bread,205,197,female,2/17/2018,50
+oatmeal bread,957,199,female,2/20/2018,50
+oatmeal bread,597,279,male,3/5/2018,50
+oatmeal bread,842,169,male,2/3/2018,50
+oatmeal bread,760,272,male,3/30/2018,50
+oatmeal bread,348,194,female,2/16/2018,50
+oatmeal bread,93,102,male,2/14/2018,50
+oatmeal bread,263,20,male,3/14/2018,50
+oatmeal bread,680,101,female,2/7/2018,50
+oatmeal bread,680,101,female,2/7/2018,50
+oatmeal bread,349,77,female,2/13/2018,50
+oatmeal bread,844,225,female,2/22/2018,50
+oatmeal bread,430,167,female,3/16/2018,50
+oatmeal bread,349,77,female,2/13/2018,50
+oatmeal bread,182,177,female,3/15/2018,50
+oatmeal bread,208,293,female,4/11/2018,50
+oatmeal bread,182,177,female,3/15/2018,50
+oatmeal bread,209,274,male,2/1/2018,50
+oatmeal bread,600,142,female,2/22/2018,50
+oatmeal bread,95,190,male,4/5/2018,50
+oatmeal bread,541,49,female,4/8/2018,50
+oatmeal bread,602,49,female,1/7/2018,50
+oatmeal bread,847,171,female,3/23/2018,50
+oatmeal bread,353,37,female,2/27/2018,50
+oatmeal bread,461,74,male,1/27/2018,50
+oatmeal bread,97,169,male,1/11/2018,50
+oatmeal bread,766,251,male,3/26/2018,50
+oatmeal bread,98,3,female,2/25/2018,50
+oatmeal bread,98,3,female,2/25/2018,50
+oatmeal bread,98,3,female,2/25/2018,50
+oatmeal bread,185,165,female,1/14/2018,50
+oatmeal bread,849,254,female,1/9/2018,50
+oatmeal bread,99,148,female,2/19/2018,50
+oatmeal bread,185,165,female,1/14/2018,50
+oatmeal bread,357,170,female,4/6/2018,50
+oatmeal bread,186,95,female,2/23/2018,50
+oatmeal bread,271,215,male,2/2/2018,50
+oatmeal bread,768,67,male,2/17/2018,50
+oatmeal bread,384,78,female,2/6/2018,50
+oatmeal bread,606,281,female,2/6/2018,50
+oatmeal bread,359,62,female,4/10/2018,50
+oatmeal bread,359,62,female,4/10/2018,50
+oatmeal bread,102,161,female,3/13/2018,50
+oatmeal bread,188,202,male,1/18/2018,50
+oatmeal bread,438,295,female,3/13/2018,50
+oatmeal bread,102,161,female,3/13/2018,50
+oatmeal bread,360,281,female,2/17/2018,50
+oatmeal bread,102,161,female,3/13/2018,50
+oatmeal bread,189,192,male,3/31/2018,50
+oatmeal bread,103,74,male,4/7/2018,50
+oatmeal bread,103,74,male,4/7/2018,50
+oatmeal bread,190,135,female,1/7/2018,50
+oatmeal bread,854,274,male,2/7/2018,50
+oatmeal bread,609,249,female,2/18/2018,50
+oatmeal bread,941,268,male,1/20/2018,50
+oatmeal bread,191,270,male,3/4/2018,50
+oatmeal bread,855,93,female,4/4/2018,50
+oatmeal bread,391,141,female,1/24/2018,50
+oatmeal bread,690,121,female,1/5/2018,50
+oatmeal bread,104,300,male,1/7/2018,50
+oatmeal bread,364,258,female,1/12/2018,50
+oatmeal bread,193,124,male,3/2/2018,50
+oatmeal bread,612,54,male,2/25/2018,50
+oatmeal bread,443,276,male,3/20/2018,50
+oatmeal bread,193,124,male,3/2/2018,50
+oatmeal bread,193,124,male,3/2/2018,50
+oatmeal bread,194,271,female,1/13/2018,50
+oatmeal bread,856,38,female,2/23/2018,50
+oatmeal bread,801,167,female,1/27/2018,50
+oatmeal bread,857,21,male,2/7/2018,50
+oatmeal bread,195,119,male,4/8/2018,50
+oatmeal bread,333,282,female,3/12/2018,50
+oatmeal bread,195,119,male,4/8/2018,50
+oatmeal bread,858,295,female,1/15/2018,50
+oatmeal bread,365,289,female,3/2/2018,50
+oatmeal bread,614,42,male,1/16/2018,50
+oatmeal bread,366,244,female,1/22/2018,50
+oatmeal bread,196,205,female,3/22/2018,50
+oatmeal bread,110,119,male,3/29/2018,50
+oatmeal bread,366,244,female,1/22/2018,50
+oatmeal bread,111,67,male,3/17/2018,50
+oatmeal bread,697,74,male,3/31/2018,50
+oatmeal bread,617,196,female,1/23/2018,50
+oatmeal bread,367,54,male,1/17/2018,50
+oatmeal bread,111,67,male,3/17/2018,50
+oatmeal bread,530,116,female,2/9/2018,50
+oatmeal bread,112,1,male,2/23/2018,50
+oatmeal bread,723,57,female,2/27/2018,50
+oatmeal bread,112,1,male,2/23/2018,50
+oatmeal bread,950,138,female,1/24/2018,50
+oatmeal bread,198,39,female,1/22/2018,50
+oatmeal bread,368,93,female,1/27/2018,50
+oatmeal bread,699,119,male,1/16/2018,50
+oatmeal bread,113,250,female,1/12/2018,50
+oatmeal bread,114,79,male,2/14/2018,50
+oatmeal bread,369,6,female,2/3/2018,50
+oatmeal bread,865,177,female,3/28/2018,50
+oatmeal bread,115,25,female,1/7/2018,50
+oatmeal bread,783,64,female,1/15/2018,50
+oatmeal bread,700,34,male,3/15/2018,50
+oatmeal bread,400,172,female,2/24/2018,50
+oatmeal bread,116,100,male,3/16/2018,50
+oatmeal bread,199,256,male,4/2/2018,50
+oatmeal bread,564,248,female,4/3/2018,50
+oatmeal bread,117,20,male,1/28/2018,50
+oatmeal bread,622,115,male,1/13/2018,50
+oatmeal bread,452,37,female,3/31/2018,50
+oatmeal bread,622,115,male,1/13/2018,50
+oatmeal bread,201,289,female,2/22/2018,50
+oatmeal bread,374,32,female,1/11/2018,50
+oatmeal bread,454,43,female,2/27/2018,50
+oatmeal bread,623,224,female,3/11/2018,50
+oatmeal bread,623,224,female,3/11/2018,50
+oatmeal bread,119,186,female,3/11/2018,50
+oatmeal bread,566,184,male,2/28/2018,50
+oatmeal bread,375,72,male,4/4/2018,50
+oatmeal bread,455,79,male,2/13/2018,50
+oatmeal bread,704,12,male,3/21/2018,50
+oatmeal bread,204,280,female,3/8/2018,50
+oatmeal bread,456,24,male,3/3/2018,50
+oatmeal bread,204,280,female,3/8/2018,50
+oatmeal bread,233,116,female,3/1/2018,50
+oatmeal bread,148,5,male,1/6/2018,50
+oatmeal bread,123,264,male,3/30/2018,50
+oatmeal bread,123,264,male,3/30/2018,50
+oatmeal bread,206,50,male,2/18/2018,50
+oatmeal bread,206,50,male,2/18/2018,50
+oatmeal bread,706,225,female,3/9/2018,50
+oatmeal bread,207,21,male,3/12/2018,50
+oatmeal bread,787,214,female,2/15/2018,50
+oatmeal bread,872,73,male,1/10/2018,50
+oatmeal bread,378,13,male,3/26/2018,50
+oatmeal bread,873,235,female,1/4/2018,50
+oatmeal bread,125,234,female,1/26/2018,50
+oatmeal bread,208,293,female,4/11/2018,50
+oatmeal bread,208,293,female,4/11/2018,50
+oatmeal bread,648,93,female,4/1/2018,50
+oatmeal bread,379,187,female,1/28/2018,50
+oatmeal bread,816,82,female,2/1/2018,50
+oatmeal bread,127,133,male,2/25/2018,50
+oatmeal bread,379,187,female,1/28/2018,50
+oatmeal bread,734,197,female,1/15/2018,50
+oatmeal bread,875,235,female,1/8/2018,50
+oatmeal bread,380,244,female,3/3/2018,50
+oatmeal bread,211,206,female,2/7/2018,50
+oatmeal bread,155,219,female,3/12/2018,50
+oatmeal bread,627,172,female,3/1/2018,50
+oatmeal bread,711,225,female,3/7/2018,50
+oatmeal bread,877,91,female,3/22/2018,50
+oatmeal bread,461,74,male,1/27/2018,50
+oatmeal bread,382,133,male,1/18/2018,50
+oatmeal bread,382,133,male,1/18/2018,50
+oatmeal bread,628,65,female,2/17/2018,50
+oatmeal bread,628,65,female,2/17/2018,50
+oatmeal bread,544,163,female,1/9/2018,50
+oatmeal bread,131,4,female,2/1/2018,50
+oatmeal bread,214,11,male,3/14/2018,50
+oatmeal bread,712,274,male,3/7/2018,50
+oatmeal bread,384,78,female,2/6/2018,50
+oatmeal bread,654,81,female,1/4/2018,50
+oatmeal bread,132,110,male,2/26/2018,50
+oatmeal bread,713,15,female,2/8/2018,50
+oatmeal bread,881,215,male,2/1/2018,50
+oatmeal bread,630,286,female,3/23/2018,50
+oatmeal bread,714,296,male,3/13/2018,50
+oatmeal bread,385,2,male,3/31/2018,50
+oatmeal bread,631,9,female,2/23/2018,50
+oatmeal bread,134,234,female,3/8/2018,50
+oatmeal bread,466,48,female,3/30/2018,50
+oatmeal bread,883,103,female,2/27/2018,50
+oatmeal bread,467,88,female,1/22/2018,50
+oatmeal bread,387,71,female,1/12/2018,50
+oatmeal bread,883,103,female,2/27/2018,50
+oatmeal bread,219,272,male,1/30/2018,50
+oatmeal bread,633,218,male,2/15/2018,50
+oatmeal bread,136,28,female,1/27/2018,50
+oatmeal bread,390,230,female,1/22/2018,50
+oatmeal bread,391,141,female,1/24/2018,50
+oatmeal bread,246,193,male,2/9/2018,50
+oatmeal bread,885,256,male,4/4/2018,50
+oatmeal bread,391,141,female,1/24/2018,50
+oatmeal bread,972,85,female,1/30/2018,50
+oatmeal bread,972,85,female,1/30/2018,50
+oatmeal bread,633,218,male,2/15/2018,50
+oatmeal bread,634,53,male,1/26/2018,50
+oatmeal bread,469,47,male,3/9/2018,50
+oatmeal bread,635,87,male,1/18/2018,50
+oatmeal bread,470,187,female,3/1/2018,50
+oatmeal bread,974,139,female,2/20/2018,50
+oatmeal bread,249,39,female,1/25/2018,50
+oatmeal bread,1000,273,female,1/6/2018,50
+oatmeal bread,914,246,male,2/27/2018,50
+oatmeal bread,944,165,female,3/20/2018,50
+oatmeal bread,636,153,male,3/31/2018,50
+oatmeal bread,471,259,female,2/19/2018,50
+oatmeal bread,394,202,male,4/4/2018,50
+oatmeal bread,975,277,female,2/19/2018,50
+oatmeal bread,141,227,female,3/1/2018,50
+oatmeal bread,637,257,female,3/17/2018,50
+oatmeal bread,638,224,female,3/28/2018,50
+oatmeal bread,721,201,male,3/11/2018,50
+oatmeal bread,141,227,female,3/1/2018,50
+oatmeal bread,721,201,male,3/11/2018,50
+oatmeal bread,225,160,female,4/11/2018,50
+oatmeal bread,474,27,male,3/27/2018,50
+oatmeal bread,805,13,male,2/8/2018,50
+oatmeal bread,723,57,female,2/27/2018,50
+oatmeal bread,891,85,female,1/21/2018,50
+oatmeal bread,475,136,male,3/29/2018,50
+oatmeal bread,724,174,female,3/25/2018,50
+oatmeal bread,398,137,male,1/22/2018,50
+oatmeal bread,398,137,male,1/22/2018,50
+oatmeal bread,477,244,female,2/27/2018,50
+oatmeal bread,981,24,male,2/8/2018,50
+oatmeal bread,919,31,male,1/6/2018,50
+oatmeal bread,399,48,female,3/13/2018,50
+oatmeal bread,226,162,female,2/13/2018,50
+oatmeal bread,400,172,female,2/24/2018,50
+oatmeal bread,982,219,female,4/6/2018,50
+oatmeal bread,145,258,female,3/18/2018,50
+oatmeal bread,478,19,female,1/10/2018,50
+oatmeal bread,865,177,female,3/28/2018,50
+oatmeal bread,400,172,female,2/24/2018,50
+oatmeal bread,145,258,female,3/18/2018,50
+oatmeal bread,756,32,female,2/7/2018,50
+oatmeal bread,479,139,female,3/2/2018,50
+oatmeal bread,727,68,female,2/19/2018,50
+oatmeal bread,727,68,female,2/19/2018,50
+oatmeal bread,642,148,female,2/5/2018,50
+oatmeal bread,313,28,female,3/29/2018,50
+oatmeal bread,403,203,male,1/31/2018,50
+oatmeal bread,403,203,male,1/31/2018,50
+oatmeal bread,481,36,female,1/4/2018,50
+oatmeal bread,231,292,female,3/25/2018,50
+oatmeal bread,147,148,female,1/2/2018,50
+oatmeal bread,178,103,female,2/21/2018,50
+oatmeal bread,898,8,female,1/28/2018,50
+oatmeal bread,484,159,male,4/4/2018,50
+oatmeal bread,147,148,female,1/2/2018,50
+oatmeal bread,179,81,female,3/9/2018,50
+oatmeal bread,147,148,female,1/2/2018,50
+oatmeal bread,148,5,male,1/6/2018,50
+oatmeal bread,924,266,male,3/8/2018,50
+oatmeal bread,376,126,male,2/18/2018,50
+oatmeal bread,899,18,male,2/20/2018,50
+oatmeal bread,569,68,female,3/22/2018,50
+oatmeal bread,900,7,female,3/7/2018,50
+oatmeal bread,150,148,female,1/26/2018,50
+oatmeal bread,487,130,male,1/19/2018,50
+oatmeal bread,151,74,male,1/17/2018,50
+oatmeal bread,988,112,female,3/20/2018,50
+oatmeal bread,152,11,male,3/23/2018,50
+oatmeal bread,733,106,male,2/11/2018,50
+oatmeal bread,236,240,female,3/27/2018,50
+oatmeal bread,408,153,male,3/16/2018,50
+oatmeal bread,648,93,female,4/1/2018,50
+oatmeal bread,648,93,female,4/1/2018,50
+oatmeal bread,681,273,female,3/8/2018,50
+oatmeal bread,409,270,male,3/16/2018,50
+oatmeal bread,988,112,female,3/20/2018,50
+oatmeal bread,541,49,female,4/8/2018,50
+oatmeal bread,649,135,female,1/17/2018,50
+oatmeal bread,846,24,male,1/30/2018,50
+oatmeal bread,649,135,female,1/17/2018,50
+oatmeal bread,904,90,female,3/4/2018,50
+oatmeal bread,320,197,female,3/9/2018,50
+oatmeal bread,432,174,female,4/8/2018,50
+oatmeal bread,790,274,male,3/28/2018,50
+oatmeal bread,156,171,female,2/8/2018,50
+oatmeal bread,575,261,male,1/28/2018,50
+oatmeal bread,991,264,male,2/1/2018,50
+oatmeal bread,240,184,male,2/3/2018,50
+oatmeal bread,736,262,male,2/23/2018,50
+oatmeal bread,410,200,male,2/10/2018,50
+oatmeal bread,240,184,male,2/3/2018,50
+oatmeal bread,157,208,male,2/17/2018,50
+oatmeal bread,240,184,male,2/3/2018,50
+oatmeal bread,158,172,female,2/14/2018,50
+oatmeal bread,492,154,female,2/19/2018,50
+oatmeal bread,159,56,male,2/28/2018,50
+oatmeal bread,215,44,female,4/8/2018,50
+oatmeal bread,159,56,male,2/28/2018,50
+oatmeal bread,241,223,female,3/27/2018,50
+oatmeal bread,738,94,female,1/22/2018,50
+oatmeal bread,412,85,female,2/15/2018,50
+oatmeal bread,909,223,female,1/6/2018,50
+oatmeal bread,160,123,female,2/24/2018,50
+oatmeal bread,414,218,male,2/15/2018,50
+oatmeal bread,655,138,female,2/25/2018,50
+oatmeal bread,161,220,female,1/13/2018,50
+oatmeal bread,415,178,male,1/28/2018,50
+oatmeal bread,415,178,male,1/28/2018,50
+oatmeal bread,244,217,female,1/11/2018,50
+oatmeal bread,740,204,female,2/27/2018,50
+oatmeal bread,274,113,male,2/21/2018,50
+oatmeal bread,163,106,male,2/12/2018,50
+oatmeal bread,163,106,male,2/12/2018,50
+oatmeal bread,657,1,male,3/25/2018,50
+oatmeal bread,657,1,male,3/25/2018,50
+oatmeal bread,468,53,male,2/6/2018,50
+oatmeal bread,164,264,male,2/26/2018,50
+oatmeal bread,417,116,female,2/21/2018,50
+oatmeal bread,164,264,male,2/26/2018,50
+oatmeal bread,659,230,female,3/8/2018,50
+oatmeal bread,999,16,female,3/20/2018,50
+oatmeal bread,824,296,male,3/11/2018,50
+oatmeal bread,659,230,female,3/8/2018,50
+oatmeal bread,692,91,female,4/6/2018,50
+oatmeal bread,660,237,male,3/10/2018,50
+oatmeal bread,166,116,female,4/1/2018,50
+oatmeal bread,693,116,female,1/20/2018,50
+oatmeal bread,693,116,female,1/20/2018,50
+oatmeal bread,746,171,female,3/5/2018,50
+oatmeal bread,944,165,female,3/20/2018,50
+oatmeal bread,420,38,female,2/26/2018,50
+oatmeal bread,585,116,female,1/13/2018,50
+oatmeal bread,420,38,female,2/26/2018,50
+oatmeal bread,250,14,male,1/2/2018,50
+oatmeal bread,168,198,female,2/16/2018,50
+oatmeal bread,749,279,male,3/21/2018,50
+oatmeal bread,695,97,female,1/9/2018,50
+oatmeal bread,168,198,female,2/16/2018,50
+oatmeal bread,447,172,female,1/30/2018,50
+oatmeal bread,663,136,male,1/28/2018,50
+oatmeal bread,506,165,female,1/14/2018,50
+oatmeal bread,832,253,female,4/8/2018,50
+oatmeal bread,750,184,male,1/13/2018,50
+oatmeal bread,448,38,female,3/26/2018,50
+oatmeal bread,919,31,male,1/6/2018,50
+oatmeal bread,588,83,male,3/13/2018,50
+oatmeal bread,367,54,male,1/17/2018,50
+oatmeal bread,170,37,female,4/10/2018,50
+oatmeal bread,253,133,male,2/10/2018,50
+oatmeal bread,425,106,male,2/16/2018,50
+oatmeal bread,667,216,male,1/29/2018,50
+oatmeal bread,781,279,male,1/27/2018,50
+oatmeal bread,920,112,female,3/14/2018,50
+oatmeal bread,254,190,male,4/11/2018,50
+oatmeal bread,254,190,male,4/11/2018,50
+oatmeal bread,509,73,male,3/28/2018,50
+oatmeal bread,920,112,female,3/14/2018,50
+oatmeal bread,255,219,female,1/7/2018,50
+oatmeal bread,400,172,female,2/24/2018,50
+oatmeal bread,478,19,female,1/10/2018,50
+oatmeal bread,426,241,male,1/30/2018,50
+oatmeal bread,534,168,female,2/1/2018,50
+oatmeal bread,756,32,female,2/7/2018,50
+oatmeal bread,670,159,male,1/23/2018,50
+oatmeal bread,593,6,female,2/13/2018,50
+oatmeal bread,922,195,female,4/3/2018,50
+oatmeal bread,176,281,female,3/7/2018,50
+oatmeal bread,867,87,male,1/23/2018,50
+oatmeal bread,952,124,male,3/7/2018,50
+oatmeal bread,259,104,female,2/16/2018,50
+oatmeal bread,513,132,male,4/9/2018,50
+oatmeal bread,594,189,male,4/4/2018,50
+oatmeal bread,703,228,female,4/4/2018,50
+oatmeal bread,178,103,female,2/21/2018,50
+oatmeal bread,179,81,female,3/9/2018,50
+oatmeal bread,840,45,female,2/19/2018,50
+oatmeal bread,536,8,female,4/7/2018,50
+oatmeal bread,260,239,female,3/15/2018,50
+oatmeal bread,260,239,female,3/15/2018,50
+oatmeal bread,759,25,female,3/23/2018,50
+oatmeal bread,646,108,male,1/28/2018,50
+oatmeal bread,624,275,female,1/30/2018,50
+oatmeal bread,428,31,male,2/22/2018,50
+oatmeal bread,678,90,female,3/4/2018,50
+oatmeal bread,870,60,male,3/18/2018,50
+oatmeal bread,679,22,female,2/14/2018,50
+oatmeal bread,429,210,female,3/24/2018,50
+oatmeal bread,957,199,female,2/20/2018,50
+oatmeal bread,457,28,female,1/2/2018,50
+oatmeal bread,457,28,female,1/2/2018,50
+oatmeal bread,182,177,female,3/15/2018,50
+oatmeal bread,844,225,female,2/22/2018,50
+oatmeal bread,458,36,female,3/13/2018,50
+oatmeal bread,182,177,female,3/15/2018,50
+oatmeal bread,458,36,female,3/13/2018,50
+oatmeal bread,959,95,female,1/30/2018,50
+oatmeal bread,707,171,female,1/23/2018,50
+oatmeal bread,572,87,male,3/20/2018,50
+oatmeal bread,682,81,female,3/29/2018,50
+oatmeal bread,379,187,female,1/28/2018,50
+oatmeal bread,960,81,female,1/9/2018,50
+oatmeal bread,649,135,female,1/17/2018,50
+oatmeal bread,764,212,female,4/4/2018,50
+oatmeal bread,791,40,male,4/6/2018,50
+oatmeal bread,764,212,female,4/4/2018,50
+oatmeal bread,932,3,female,1/12/2018,50
+oatmeal bread,603,177,female,3/23/2018,50
+oatmeal bread,684,28,female,4/3/2018,50
+oatmeal bread,684,28,female,4/3/2018,50
+oatmeal bread,185,165,female,1/14/2018,50
+oatmeal bread,848,296,male,3/12/2018,50
+oatmeal bread,434,119,male,1/3/2018,50
+oatmeal bread,685,198,female,2/26/2018,50
+oatmeal bread,544,163,female,1/9/2018,50
+oatmeal bread,186,95,female,2/23/2018,50
+oatmeal bread,767,69,male,2/18/2018,50
+oatmeal bread,435,231,female,3/21/2018,50
+oatmeal bread,492,154,female,2/19/2018,50
+oatmeal bread,464,217,female,2/26/2018,50
+oatmeal bread,436,7,female,2/5/2018,50
+oatmeal bread,522,8,female,1/9/2018,50
+oatmeal bread,437,189,male,3/13/2018,50
+oatmeal bread,187,67,male,3/1/2018,50
+oatmeal bread,607,67,male,1/29/2018,50
+oatmeal bread,218,115,male,2/14/2018,50
+oatmeal bread,714,296,male,3/13/2018,50
+oatmeal bread,938,147,male,1/10/2018,50
+oatmeal bread,439,290,female,3/20/2018,50
+oatmeal bread,360,281,female,2/17/2018,50
+oatmeal bread,439,290,female,3/20/2018,50
+oatmeal bread,688,192,male,2/14/2018,50
+oatmeal bread,219,272,male,1/30/2018,50
+oatmeal bread,689,147,male,4/2/2018,50
+oatmeal bread,190,135,female,1/7/2018,50
+oatmeal bread,940,214,female,1/20/2018,50
+oatmeal bread,220,123,female,4/10/2018,50
+oatmeal bread,741,284,female,2/14/2018,50
+oatmeal bread,971,58,male,2/25/2018,50
+oatmeal bread,610,113,male,3/27/2018,50
+oatmeal bread,441,60,male,3/12/2018,50
+oatmeal bread,193,124,male,3/2/2018,50
+oatmeal bread,526,7,female,1/22/2018,50
+oatmeal bread,442,294,female,2/22/2018,50
+oatmeal bread,221,270,male,1/26/2018,50
+oatmeal bread,718,253,female,3/31/2018,50
+oatmeal bread,612,54,male,2/25/2018,50
+oatmeal bread,692,91,female,4/6/2018,50
+oatmeal bread,886,162,female,2/3/2018,50
+oatmeal bread,419,201,male,3/27/2018,50
+oatmeal bread,443,276,male,3/20/2018,50
+oatmeal bread,952,124,male,3/7/2018,50
+oatmeal bread,703,228,female,4/4/2018,50
+oatmeal bread,720,104,female,4/7/2018,50
+oatmeal bread,695,97,female,1/9/2018,50
+oatmeal bread,802,210,female,1/15/2018,50
+oatmeal bread,720,104,female,4/7/2018,50
+oatmeal bread,196,205,female,3/22/2018,50
+oatmeal bread,472,123,female,2/21/2018,50
+oatmeal bread,947,15,female,2/13/2018,50
+oatmeal bread,556,36,female,1/4/2018,50
+oatmeal bread,696,293,female,3/5/2018,50
+oatmeal bread,778,294,female,1/10/2018,50
+oatmeal bread,947,15,female,2/13/2018,50
+oatmeal bread,448,38,female,3/26/2018,50
+oatmeal bread,722,102,male,2/12/2018,50
+oatmeal bread,367,54,male,1/17/2018,50
+oatmeal bread,948,282,female,1/28/2018,50
+oatmeal bread,806,244,female,3/7/2018,50
+oatmeal bread,617,196,female,1/23/2018,50
+oatmeal bread,367,54,male,1/17/2018,50
+oatmeal bread,862,18,male,2/6/2018,50
+oatmeal bread,532,298,female,3/21/2018,50
+oatmeal bread,919,31,male,1/6/2018,50
+oatmeal bread,450,285,male,1/7/2018,50
+oatmeal bread,198,39,female,1/22/2018,50
+oatmeal bread,199,256,male,4/2/2018,50
+oatmeal bread,283,130,male,1/23/2018,50
+oatmeal bread,865,177,female,3/28/2018,50
+oatmeal bread,369,6,female,2/3/2018,50
+oatmeal bread,591,211,female,2/5/2018,50
+oatmeal bread,982,219,female,4/6/2018,50
+oatmeal bread,865,177,female,3/28/2018,50
+oatmeal bread,479,139,female,3/2/2018,50
+oatmeal bread,983,5,male,1/17/2018,50
+oatmeal bread,285,98,male,3/27/2018,50
+oatmeal bread,200,285,male,1/21/2018,50
+oatmeal bread,534,168,female,2/1/2018,50
+oatmeal bread,200,285,male,1/21/2018,50
+oatmeal bread,984,116,female,4/1/2018,50
+oatmeal bread,985,290,female,2/28/2018,50
+oatmeal bread,792,272,male,3/13/2018,50
+oatmeal bread,963,143,female,2/2/2018,50
+oatmeal bread,923,209,male,1/19/2018,50
+oatmeal bread,986,142,female,3/23/2018,50
+oatmeal bread,923,209,male,1/19/2018,50
+oatmeal bread,455,79,male,2/13/2018,50
+oatmeal bread,954,88,female,3/4/2018,50
+oatmeal bread,730,121,female,2/26/2018,50
+oatmeal bread,375,72,male,4/4/2018,50
+oatmeal bread,704,12,male,3/21/2018,50
+oatmeal bread,869,202,male,1/23/2018,50
+oatmeal bread,759,25,female,3/23/2018,50
+oatmeal bread,486,170,female,2/1/2018,50
+oatmeal bread,457,28,female,1/2/2018,50
+oatmeal bread,289,88,female,1/15/2018,50
+oatmeal bread,486,170,female,2/1/2018,50
+oatmeal bread,787,214,female,2/15/2018,50
+oatmeal bread,814,93,female,4/3/2018,50
+oatmeal bread,235,209,male,1/19/2018,50
+oatmeal bread,407,176,male,3/24/2018,50
+oatmeal bread,647,146,female,1/20/2018,50
+oatmeal bread,958,66,female,1/20/2018,50
+oatmeal bread,872,73,male,1/10/2018,50
+oatmeal bread,236,240,female,3/27/2018,50
+oatmeal bread,378,13,male,3/26/2018,50
+oatmeal bread,929,23,male,2/17/2018,50
+oatmeal bread,488,163,female,2/18/2018,50
+oatmeal bread,901,60,male,1/9/2018,50
+oatmeal bread,581,202,male,1/14/2018,50
+oatmeal bread,460,108,male,2/17/2018,50
+oatmeal bread,489,27,male,3/14/2018,50
+oatmeal bread,789,95,female,1/17/2018,50
+oatmeal bread,885,256,male,4/4/2018,50
+oatmeal bread,211,206,female,2/7/2018,50
+oatmeal bread,292,213,male,3/12/2018,50
+oatmeal bread,961,131,male,1/12/2018,50
+oatmeal bread,710,267,female,4/5/2018,50
+oatmeal bread,792,272,male,3/13/2018,50
+oatmeal bread,211,206,female,2/7/2018,50
+oatmeal bread,792,272,male,3/13/2018,50
+oatmeal bread,914,246,male,2/27/2018,50
+oatmeal bread,230,181,male,3/31/2018,50
+oatmeal bread,964,286,female,2/12/2018,50
+oatmeal bread,295,274,male,1/7/2018,50
+oatmeal bread,576,22,female,2/10/2018,50
+oatmeal bread,214,11,male,3/14/2018,50
+oatmeal bread,463,185,male,1/20/2018,50
+oatmeal bread,324,174,female,2/3/2018,50
+oatmeal bread,849,254,female,1/9/2018,50
+oatmeal bread,241,223,female,3/27/2018,50
+oatmeal bread,296,77,female,4/5/2018,50
+oatmeal bread,629,46,female,1/12/2018,50
+oatmeal bread,909,223,female,1/6/2018,50
+oatmeal bread,217,267,female,1/4/2018,50
+oatmeal bread,967,25,female,1/29/2018,50
+oatmeal bread,243,173,male,2/9/2018,50
+oatmeal bread,795,166,male,3/8/2018,50
+oatmeal bread,715,15,female,3/21/2018,50
+oatmeal bread,386,198,female,3/18/2018,50
+oatmeal bread,883,103,female,2/27/2018,50
+oatmeal bread,327,200,male,1/16/2018,50
+oatmeal bread,715,15,female,3/21/2018,50
+oatmeal bread,609,249,female,2/18/2018,50
+oatmeal bread,550,109,female,2/11/2018,50
+oatmeal bread,219,272,male,1/30/2018,50
+oatmeal bread,798,53,male,3/10/2018,50
+oatmeal bread,741,284,female,2/14/2018,50
+oatmeal bread,550,109,female,2/11/2018,50
+oatmeal bread,920,112,female,3/14/2018,50
+oatmeal bread,717,49,female,3/27/2018,50
+oatmeal bread,301,253,female,4/5/2018,50
+oatmeal bread,301,253,female,4/5/2018,50
+oatmeal bread,894,165,female,3/26/2018,50
+oatmeal bread,611,100,male,3/16/2018,50
+oatmeal bread,943,295,female,2/17/2018,50
+oatmeal bread,401,199,female,3/29/2018,50
+oatmeal bread,885,256,male,4/4/2018,50
+oatmeal bread,973,267,female,2/4/2018,50
+oatmeal bread,248,206,female,1/8/2018,50
+oatmeal bread,364,258,female,1/12/2018,50
+oatmeal bread,453,11,male,1/19/2018,50
+oatmeal bread,491,130,male,2/4/2018,50
+oatmeal bread,643,108,male,4/9/2018,50
+oatmeal bread,914,246,male,2/27/2018,50
+oatmeal bread,585,116,female,1/13/2018,50
+oatmeal bread,829,188,female,1/19/2018,50
+oatmeal bread,231,292,female,3/25/2018,50
+oatmeal bread,223,230,female,2/20/2018,50
+oatmeal bread,858,295,female,1/15/2018,50
+oatmeal bread,889,294,female,2/8/2018,50
+oatmeal bread,976,229,female,1/31/2018,50
+oatmeal bread,721,201,male,3/11/2018,50
+oatmeal bread,804,147,male,4/11/2018,50
+oatmeal bread,396,264,male,3/14/2018,50
+oatmeal bread,474,27,male,3/27/2018,50
+oatmeal bread,335,62,female,3/27/2018,50
+oatmeal bread,529,292,female,1/19/2018,50
+oatmeal bread,861,110,male,2/28/2018,50
+oatmeal bread,957,199,female,2/20/2018,50
+oatmeal bread,979,118,female,1/29/2018,50
+oatmeal bread,226,162,female,2/13/2018,50
+oatmeal bread,806,244,female,3/7/2018,50
+oatmeal bread,337,108,male,4/9/2018,50
+oatmeal bread,667,216,male,1/29/2018,50
+oatmeal bread,667,216,male,1/29/2018,50
+oatmeal bread,508,234,female,2/13/2018,50
+oatmeal bread,754,167,female,3/1/2018,50
+oatmeal bread,981,24,male,2/8/2018,50
+oatmeal bread,996,48,female,2/5/2018,50
+oatmeal bread,726,251,male,1/26/2018,50
+oatmeal bread,668,214,female,2/28/2018,50
+oatmeal bread,920,112,female,3/14/2018,50
+oatmeal bread,823,244,female,1/26/2018,50
+oatmeal bread,983,5,male,1/17/2018,50
+oatmeal bread,669,157,female,2/21/2018,50
+oatmeal bread,904,90,female,3/4/2018,50
+oatmeal bread,401,199,female,3/29/2018,50
+oatmeal bread,984,116,female,4/1/2018,50
+oatmeal bread,230,181,male,3/31/2018,50
+oatmeal bread,258,33,male,3/10/2018,50
+oatmeal bread,433,67,male,4/4/2018,50
+oatmeal bread,810,110,male,2/10/2018,50
+oatmeal bread,575,261,male,1/28/2018,50
+oatmeal bread,728,142,female,1/27/2018,50
+oatmeal bread,757,59,female,3/27/2018,50
+oatmeal bread,868,83,male,2/23/2018,50
+oatmeal bread,819,1,male,3/17/2018,50
+oatmeal bread,483,120,female,1/25/2018,50
+oatmeal bread,675,47,male,1/29/2018,50
+oatmeal bread,704,12,male,3/21/2018,50
+oatmeal bread,812,159,male,2/14/2018,50
+oatmeal bread,241,223,female,3/27/2018,50
+oatmeal bread,769,267,female,2/17/2018,50
+oatmeal bread,705,289,female,4/6/2018,50
+oatmeal bread,234,108,male,3/7/2018,50
+oatmeal bread,486,170,female,2/1/2018,50
+oatmeal bread,890,24,male,2/14/2018,50
+oatmeal bread,487,130,male,1/19/2018,50
+oatmeal bread,909,223,female,1/6/2018,50
+oatmeal bread,598,79,male,3/12/2018,50
+oatmeal bread,988,112,female,3/20/2018,50
+oatmeal bread,821,200,male,2/22/2018,50
+oatmeal bread,814,93,female,4/3/2018,50
+oatmeal bread,988,112,female,3/20/2018,50
+oatmeal bread,928,150,male,3/4/2018,50
+oatmeal bread,988,112,female,3/20/2018,50
+oatmeal bread,822,164,female,2/17/2018,50
+oatmeal bread,873,235,female,1/4/2018,50
+oatmeal bread,425,106,male,2/16/2018,50
+oatmeal bread,798,53,male,3/10/2018,50
+oatmeal bread,874,202,male,3/27/2018,50
+oatmeal bread,930,280,female,3/24/2018,50
+oatmeal bread,864,51,male,2/9/2018,50
+oatmeal bread,941,268,male,1/20/2018,50
+oatmeal bread,736,262,male,2/23/2018,50
+oatmeal bread,372,49,female,3/9/2018,50
+oatmeal bread,904,90,female,3/4/2018,50
+oatmeal bread,542,149,female,2/5/2018,50
+oatmeal bread,491,130,male,2/4/2018,50
+oatmeal bread,410,200,male,2/10/2018,50
+oatmeal bread,826,276,male,2/13/2018,50
+oatmeal bread,962,236,female,3/20/2018,50
+oatmeal bread,701,198,female,3/19/2018,50
+oatmeal bread,434,119,male,1/3/2018,50
+oatmeal bread,576,22,female,2/10/2018,50
+oatmeal bread,934,243,male,2/16/2018,50
+oatmeal bread,628,65,female,2/17/2018,50
+oatmeal bread,241,223,female,3/27/2018,50
+oatmeal bread,605,298,female,2/27/2018,50
+oatmeal bread,907,204,female,3/3/2018,50
+oatmeal bread,993,201,male,4/7/2018,50
+oatmeal bread,472,123,female,2/21/2018,50
+oatmeal bread,881,215,male,2/1/2018,50
+oatmeal bread,936,185,male,3/20/2018,50
+oatmeal bread,993,201,male,4/7/2018,50
+oatmeal bread,654,81,female,1/4/2018,50
+oatmeal bread,870,60,male,3/18/2018,50
+oatmeal bread,909,223,female,1/6/2018,50
+oatmeal bread,537,46,female,1/16/2018,50
+oatmeal bread,995,22,female,2/15/2018,50
+oatmeal bread,995,22,female,2/15/2018,50
+oatmeal bread,988,112,female,3/20/2018,50
+oatmeal bread,439,290,female,3/20/2018,50
+oatmeal bread,706,225,female,3/9/2018,50
+oatmeal bread,360,281,female,2/17/2018,50
+oatmeal bread,497,209,male,4/7/2018,50
+oatmeal bread,950,138,female,1/24/2018,50
+oatmeal bread,772,102,male,3/4/2018,50
+oatmeal bread,884,48,female,1/27/2018,50
+oatmeal bread,619,28,female,3/20/2018,50
+oatmeal bread,742,157,female,4/5/2018,50
+oatmeal bread,300,139,female,2/18/2018,50
+oatmeal bread,708,281,female,1/27/2018,50
+oatmeal bread,809,172,female,3/30/2018,50
+oatmeal bread,912,214,female,3/22/2018,50
+oatmeal bread,749,279,male,3/21/2018,50
+oatmeal bread,921,148,female,3/5/2018,50
+oatmeal bread,395,18,male,1/11/2018,50
+oatmeal bread,1000,273,female,1/6/2018,50
+oatmeal bread,692,91,female,4/6/2018,50
+oatmeal bread,952,124,male,3/7/2018,50
+oatmeal bread,312,225,female,2/12/2018,50
+oatmeal bread,269,246,male,3/15/2018,50
+oatmeal bread,565,18,male,2/24/2018,50
+oatmeal bread,792,272,male,3/13/2018,50
+oatmeal bread,878,19,female,3/20/2018,50
+oatmeal bread,520,43,female,1/24/2018,50
+oatmeal bread,818,10,male,2/1/2018,50
+oatmeal bread,771,36,female,3/11/2018,50
+oatmeal bread,748,97,female,3/5/2018,50
+oatmeal bread,910,264,male,2/11/2018,50
+oatmeal bread,786,290,female,2/18/2018,50
+oatmeal bread,987,132,male,2/15/2018,50
+oatmeal bread,966,70,male,2/4/2018,50
+oatmeal bread,588,83,male,3/13/2018,50
+oatmeal bread,529,292,female,1/19/2018,50
+oatmeal bread,607,67,male,1/29/2018,50
+oatmeal bread,721,201,male,3/11/2018,50
+oatmeal bread,898,8,female,1/28/2018,50
+oatmeal bread,988,112,female,3/20/2018,50
+oatmeal bread,647,146,female,1/20/2018,50
+oatmeal bread,736,262,male,2/23/2018,50
+oatmeal bread,424,147,male,2/10/2018,50
+oatmeal bread,653,160,female,1/31/2018,50
+oatmeal bread,958,66,female,1/20/2018,50
+oatmeal bread,900,7,female,3/7/2018,50
+oatmeal bread,733,106,male,2/11/2018,50
+oatmeal bread,282,103,female,2/26/2018,50
+oatmeal bread,388,262,male,3/29/2018,50
+oatmeal bread,782,119,male,4/4/2018,50
+oatmeal bread,754,167,female,3/1/2018,50
+oatmeal bread,619,28,female,3/20/2018,50
+oatmeal bread,913,263,female,2/9/2018,50
+oatmeal bread,275,297,female,4/8/2018,50
+oatmeal bread,771,36,female,3/11/2018,50
+oatmeal bread,344,129,female,3/18/2018,50
+oatmeal bread,793,268,male,3/13/2018,50
+oatmeal bread,898,8,female,1/28/2018,50
+oatmeal bread,922,195,female,4/3/2018,50
+oatmeal bread,512,130,male,2/19/2018,50
+oatmeal bread,877,91,female,3/22/2018,50
+oatmeal bread,410,200,male,2/10/2018,50
+oatmeal bread,757,59,female,3/27/2018,50
+oatmeal bread,520,43,female,1/24/2018,50
+oatmeal bread,355,201,male,3/7/2018,50
+oatmeal bread,992,67,male,1/15/2018,50
+oatmeal bread,899,18,male,2/20/2018,50
+oatmeal bread,971,58,male,2/25/2018,50
+oatmeal bread,883,103,female,2/27/2018,50
+oatmeal bread,577,152,male,1/2/2018,50
+oatmeal bread,979,118,female,1/29/2018,50
+oatmeal bread,492,154,female,2/19/2018,50
+oatmeal bread,632,176,male,3/22/2018,50
+oatmeal bread,813,129,female,2/16/2018,50
+oatmeal bread,793,268,male,3/13/2018,50
+oatmeal bread,987,132,male,2/15/2018,50
+oatmeal bread,917,190,male,3/14/2018,50
+oatmeal bread,684,28,female,4/3/2018,50
+oatmeal bread,733,106,male,2/11/2018,50
+oatmeal bread,782,119,male,4/4/2018,50
+oatmeal bread,581,202,male,1/14/2018,50
+oatmeal bread,993,201,male,4/7/2018,50
+oatmeal bread,524,265,female,3/13/2018,50
+oatmeal bread,907,204,female,3/3/2018,50
+oatmeal bread,685,198,female,2/26/2018,50
+oatmeal bread,740,204,female,2/27/2018,50
+oatmeal bread,329,270,male,2/2/2018,50
+oatmeal bread,524,265,female,3/13/2018,50
+oatmeal bread,939,65,female,2/14/2018,50
+oatmeal bread,864,51,male,2/9/2018,50
+oatmeal bread,813,129,female,2/16/2018,50
+oatmeal bread,851,272,male,1/14/2018,50
+oatmeal bread,633,218,male,2/15/2018,50
+oatmeal bread,654,81,female,1/4/2018,50
+oatmeal bread,736,262,male,2/23/2018,50
+oatmeal bread,710,267,female,4/5/2018,50
+oatmeal bread,932,3,female,1/12/2018,50
+oatmeal bread,947,15,female,2/13/2018,50
+oatmeal bread,993,201,male,4/7/2018,50
+oatmeal bread,565,18,male,2/24/2018,50
+oatmeal bread,973,267,female,2/4/2018,50
+oatmeal bread,688,192,male,2/14/2018,50
+oatmeal bread,467,88,female,1/22/2018,50
+oatmeal bread,699,119,male,1/16/2018,50
+oatmeal bread,754,167,female,3/1/2018,50
+oatmeal bread,711,225,female,3/7/2018,50
+oatmeal bread,619,28,female,3/20/2018,50
+oatmeal bread,769,267,female,2/17/2018,50
+oatmeal bread,900,7,female,3/7/2018,50
+oatmeal bread,883,103,female,2/27/2018,50
+oatmeal bread,443,276,male,3/20/2018,50
+oatmeal bread,894,165,female,3/26/2018,50
+oatmeal bread,493,214,female,3/18/2018,50
+oatmeal bread,368,93,female,1/27/2018,50
+oatmeal bread,411,237,male,4/7/2018,50
+oatmeal bread,962,236,female,3/20/2018,50
+oatmeal bread,951,247,female,1/27/2018,50
+oatmeal bread,718,253,female,3/31/2018,50
+oatmeal bread,756,32,female,2/7/2018,50
+oatmeal bread,966,70,male,2/4/2018,50
+oatmeal bread,819,1,male,3/17/2018,50
+oatmeal bread,860,129,female,2/1/2018,50
+oatmeal bread,983,5,male,1/17/2018,50
+bottled water,96,103,female,3/12/2018,25
+bottled water,53,87,male,1/5/2018,25
+bottled water,105,186,female,4/8/2018,25
+bottled water,79,80,male,1/23/2018,25
+bottled water,108,237,male,3/21/2018,25
+bottled water,168,198,female,2/16/2018,25
+bottled water,280,96,female,4/11/2018,25
+bottled water,310,264,male,1/9/2018,25
+bottled water,68,233,male,3/3/2018,25
+bottled water,394,202,male,4/4/2018,25
+bottled water,280,96,female,4/11/2018,25
+bottled water,79,80,male,1/23/2018,25
+bottled water,354,167,female,4/8/2018,25
+bottled water,95,190,male,4/5/2018,25
+bottled water,239,15,female,3/15/2018,25
+bottled water,226,162,female,2/13/2018,25
+bottled water,31,43,female,3/28/2018,25
+bottled water,33,232,male,2/19/2018,25
+bottled water,39,91,female,3/10/2018,25
+bottled water,31,43,female,3/28/2018,25
+bottled water,112,1,male,2/23/2018,25
+bottled water,305,275,female,1/17/2018,25
+bottled water,244,217,female,1/11/2018,25
+bottled water,31,43,female,3/28/2018,25
+bottled water,20,77,female,1/9/2018,25
+bottled water,95,190,male,4/5/2018,25
+bottled water,237,298,female,2/26/2018,25
+bottled water,6,34,male,3/16/2018,25
+bottled water,170,37,female,4/10/2018,25
+bottled water,82,266,male,3/18/2018,25
+bottled water,4,95,female,3/28/2018,25
+bottled water,262,141,female,1/11/2018,25
+bottled water,56,1,male,4/3/2018,25
+bottled water,96,103,female,3/12/2018,25
+bottled water,379,187,female,1/28/2018,25
+bottled water,68,233,male,3/3/2018,25
+bottled water,28,238,female,3/29/2018,25
+bottled water,73,153,male,1/14/2018,25
+bottled water,277,17,female,2/6/2018,25
+bottled water,248,206,female,1/8/2018,25
+bottled water,30,19,female,3/20/2018,25
+bottled water,140,133,male,2/6/2018,25
+bottled water,82,266,male,3/18/2018,25
+bottled water,181,165,female,2/19/2018,25
+bottled water,195,119,male,4/8/2018,25
+bottled water,102,161,female,3/13/2018,25
+bottled water,39,91,female,3/10/2018,25
+bottled water,404,111,female,2/9/2018,25
+bottled water,357,170,female,4/6/2018,25
+bottled water,167,295,female,3/22/2018,25
+bottled water,137,28,female,1/19/2018,25
+bottled water,366,244,female,1/22/2018,25
+bottled water,63,229,female,2/22/2018,25
+bottled water,399,48,female,3/13/2018,25
+bottled water,55,160,female,4/1/2018,25
+bottled water,250,14,male,1/2/2018,25
+bottled water,2,276,male,2/18/2018,25
+bottled water,385,2,male,3/31/2018,25
+bottled water,19,144,female,1/9/2018,25
+bottled water,32,57,female,2/26/2018,25
+bottled water,367,54,male,1/17/2018,25
+bottled water,73,153,male,1/14/2018,25
+bottled water,15,280,female,3/11/2018,25
+bottled water,79,80,male,1/23/2018,25
+bottled water,144,3,female,2/21/2018,25
+bottled water,59,98,male,2/13/2018,25
+bottled water,144,3,female,2/21/2018,25
+bottled water,279,13,male,1/27/2018,25
+bottled water,30,19,female,3/20/2018,25
+bottled water,198,39,female,1/22/2018,25
+bottled water,314,240,female,1/8/2018,25
+bottled water,147,148,female,1/2/2018,25
+bottled water,183,108,male,2/28/2018,25
+bottled water,44,182,female,2/24/2018,25
+bottled water,239,15,female,3/15/2018,25
+bottled water,330,60,male,3/27/2018,25
+bottled water,86,73,male,3/26/2018,25
+bottled water,61,80,male,2/15/2018,25
+bottled water,61,80,male,2/15/2018,25
+bottled water,257,47,male,2/6/2018,25
+bottled water,17,280,female,1/31/2018,25
+bottled water,279,13,male,1/27/2018,25
+bottled water,393,60,male,3/27/2018,25
+bottled water,15,280,female,3/11/2018,25
+bottled water,308,91,female,3/22/2018,25
+bottled water,108,237,male,3/21/2018,25
+bottled water,99,148,female,2/19/2018,25
+bottled water,2,276,male,2/18/2018,25
+bottled water,333,282,female,3/12/2018,25
+bottled water,203,206,female,3/25/2018,25
+bottled water,147,148,female,1/2/2018,25
+bottled water,186,95,female,2/23/2018,25
+bottled water,421,113,male,1/17/2018,25
+bottled water,30,19,female,3/20/2018,25
+bottled water,66,115,male,1/25/2018,25
+bottled water,95,190,male,4/5/2018,25
+bottled water,118,219,female,3/27/2018,25
+bottled water,222,284,female,1/19/2018,25
+bottled water,206,50,male,2/18/2018,25
+bottled water,92,33,male,1/14/2018,25
+bottled water,347,161,female,2/3/2018,25
+bottled water,170,37,female,4/10/2018,25
+bottled water,336,263,female,2/8/2018,25
+bottled water,219,272,male,1/30/2018,25
+bottled water,263,20,male,3/14/2018,25
+bottled water,208,293,female,4/11/2018,25
+bottled water,43,64,female,3/15/2018,25
+bottled water,249,39,female,1/25/2018,25
+bottled water,10,59,female,4/3/2018,25
+bottled water,226,162,female,2/13/2018,25
+bottled water,297,174,female,1/11/2018,25
+bottled water,266,58,male,2/21/2018,25
+bottled water,238,189,male,1/15/2018,25
+bottled water,19,144,female,1/9/2018,25
+bottled water,1,166,male,4/7/2018,25
+bottled water,9,93,female,1/16/2018,25
+bottled water,351,72,male,1/8/2018,25
+bottled water,183,108,male,2/28/2018,25
+bottled water,432,174,female,4/8/2018,25
+bottled water,68,233,male,3/3/2018,25
+bottled water,264,230,female,1/31/2018,25
+bottled water,337,108,male,4/9/2018,25
+bottled water,87,170,female,3/7/2018,25
+bottled water,67,171,female,4/4/2018,25
+bottled water,77,218,male,2/28/2018,25
+bottled water,118,219,female,3/27/2018,25
+bottled water,394,202,male,4/4/2018,25
+bottled water,404,111,female,2/9/2018,25
+bottled water,89,13,male,2/19/2018,25
+bottled water,356,7,female,2/15/2018,25
+bottled water,46,88,female,1/28/2018,25
+bottled water,79,80,male,1/23/2018,25
+bottled water,384,78,female,2/6/2018,25
+bottled water,409,270,male,3/16/2018,25
+bottled water,10,59,female,4/3/2018,25
+bottled water,261,276,male,2/6/2018,25
+bottled water,303,55,female,3/24/2018,25
+bottled water,142,281,female,3/27/2018,25
+bottled water,24,53,male,1/12/2018,25
+bottled water,437,189,male,3/13/2018,25
+bottled water,243,173,male,2/9/2018,25
+bottled water,72,80,male,3/13/2018,25
+bottled water,359,62,female,4/10/2018,25
+bottled water,93,102,male,2/14/2018,25
+bottled water,25,138,female,3/30/2018,25
+bottled water,273,20,male,1/15/2018,25
+bottled water,327,200,male,1/16/2018,25
+bottled water,245,300,male,2/3/2018,25
+bottled water,126,124,male,1/17/2018,25
+bottled water,349,77,female,2/13/2018,25
+bottled water,126,124,male,1/17/2018,25
+bottled water,95,190,male,4/5/2018,25
+bottled water,67,171,female,4/4/2018,25
+bottled water,431,15,female,1/8/2018,25
+bottled water,320,197,female,3/9/2018,25
+bottled water,320,197,female,3/9/2018,25
+bottled water,192,7,female,2/4/2018,25
+bottled water,53,87,male,1/5/2018,25
+bottled water,418,141,female,4/7/2018,25
+bottled water,302,171,female,1/8/2018,25
+bottled water,105,186,female,4/8/2018,25
+bottled water,432,174,female,4/8/2018,25
+bottled water,277,17,female,2/6/2018,25
+bottled water,313,28,female,3/29/2018,25
+bottled water,88,229,female,2/14/2018,25
+bottled water,420,38,female,2/26/2018,25
+bottled water,147,148,female,1/2/2018,25
+bottled water,21,75,male,4/8/2018,25
+bottled water,195,119,male,4/8/2018,25
+bottled water,279,13,male,1/27/2018,25
+bottled water,279,13,male,1/27/2018,25
+bottled water,108,237,male,3/21/2018,25
+bottled water,366,244,female,1/22/2018,25
+bottled water,405,86,female,2/18/2018,25
+bottled water,91,221,male,3/24/2018,25
+bottled water,148,5,male,1/6/2018,25
+bottled water,272,14,male,1/17/2018,25
+bottled water,133,144,female,2/16/2018,25
+bottled water,5,253,female,1/27/2018,25
+bottled water,170,37,female,4/10/2018,25
+bottled water,397,98,male,4/11/2018,25
+bottled water,423,219,female,3/17/2018,25
+bottled water,448,38,female,3/26/2018,25
+bottled water,25,138,female,3/30/2018,25
+bottled water,424,147,male,2/10/2018,25
+bottled water,33,232,male,2/19/2018,25
+bottled water,309,120,female,1/15/2018,25
+bottled water,34,169,male,1/18/2018,25
+bottled water,310,264,male,1/9/2018,25
+bottled water,282,103,female,2/26/2018,25
+bottled water,182,177,female,3/15/2018,25
+bottled water,95,190,male,4/5/2018,25
+bottled water,104,300,male,1/7/2018,25
+bottled water,275,297,female,4/8/2018,25
+bottled water,28,238,female,3/29/2018,25
+bottled water,363,65,female,1/23/2018,25
+bottled water,284,182,female,3/31/2018,25
+bottled water,451,175,female,4/5/2018,25
+bottled water,116,100,male,3/16/2018,25
+bottled water,9,93,female,1/16/2018,25
+bottled water,200,285,male,1/21/2018,25
+bottled water,77,218,male,2/28/2018,25
+bottled water,117,20,male,1/28/2018,25
+bottled water,2,276,male,2/18/2018,25
+bottled water,166,116,female,4/1/2018,25
+bottled water,365,289,female,3/2/2018,25
+bottled water,107,118,female,1/20/2018,25
+bottled water,444,195,female,3/3/2018,25
+bottled water,202,186,female,3/4/2018,25
+bottled water,454,43,female,2/27/2018,25
+bottled water,375,72,male,4/4/2018,25
+bottled water,39,91,female,3/10/2018,25
+bottled water,233,116,female,3/1/2018,25
+bottled water,109,32,female,2/16/2018,25
+bottled water,427,156,female,2/24/2018,25
+bottled water,252,136,male,2/3/2018,25
+bottled water,346,13,male,3/16/2018,25
+bottled water,169,71,female,1/23/2018,25
+bottled water,91,221,male,3/24/2018,25
+bottled water,181,165,female,2/19/2018,25
+bottled water,205,197,female,2/17/2018,25
+bottled water,123,264,male,3/30/2018,25
+bottled water,429,210,female,3/24/2018,25
+bottled water,424,147,male,2/10/2018,25
+bottled water,181,165,female,2/19/2018,25
+bottled water,430,167,female,3/16/2018,25
+bottled water,263,20,male,3/14/2018,25
+bottled water,349,77,female,2/13/2018,25
+bottled water,182,177,female,3/15/2018,25
+bottled water,430,167,female,3/16/2018,25
+bottled water,144,3,female,2/21/2018,25
+bottled water,43,64,female,3/15/2018,25
+bottled water,292,213,male,3/12/2018,25
+bottled water,350,188,female,1/14/2018,25
+bottled water,256,146,female,2/4/2018,25
+bottled water,351,72,male,1/8/2018,25
+bottled water,183,108,male,2/28/2018,25
+bottled water,127,133,male,2/25/2018,25
+bottled water,460,108,male,2/17/2018,25
+bottled water,211,206,female,2/7/2018,25
+bottled water,239,15,female,3/15/2018,25
+bottled water,96,103,female,3/12/2018,25
+bottled water,293,58,male,3/7/2018,25
+bottled water,61,80,male,2/15/2018,25
+bottled water,426,241,male,1/30/2018,25
+bottled water,38,284,female,3/3/2018,25
+bottled water,286,156,female,2/26/2018,25
+bottled water,374,32,female,1/11/2018,25
+bottled water,157,208,male,2/17/2018,25
+bottled water,271,215,male,2/2/2018,25
+bottled water,46,88,female,1/28/2018,25
+bottled water,434,119,male,1/3/2018,25
+bottled water,100,243,male,3/29/2018,25
+bottled water,47,229,female,1/19/2018,25
+bottled water,100,243,male,3/29/2018,25
+bottled water,405,86,female,2/18/2018,25
+bottled water,334,119,male,1/18/2018,25
+bottled water,41,99,male,3/25/2018,25
+bottled water,437,189,male,3/13/2018,25
+bottled water,297,174,female,1/11/2018,25
+bottled water,133,144,female,2/16/2018,25
+bottled water,102,161,female,3/13/2018,25
+bottled water,438,295,female,3/13/2018,25
+bottled water,218,115,male,2/14/2018,25
+bottled water,49,118,female,2/1/2018,25
+bottled water,298,106,male,3/7/2018,25
+bottled water,49,118,female,2/1/2018,25
+bottled water,49,118,female,2/1/2018,25
+bottled water,299,225,female,3/26/2018,25
+bottled water,163,106,male,2/12/2018,25
+bottled water,43,64,female,3/15/2018,25
+bottled water,192,7,female,2/4/2018,25
+bottled water,27,10,male,4/8/2018,25
+bottled water,104,300,male,1/7/2018,25
+bottled water,379,187,female,1/28/2018,25
+bottled water,247,19,female,1/20/2018,25
+bottled water,104,300,male,1/7/2018,25
+bottled water,137,28,female,1/19/2018,25
+bottled water,441,60,male,3/12/2018,25
+bottled water,221,270,male,1/26/2018,25
+bottled water,193,124,male,3/2/2018,25
+bottled water,137,28,female,1/19/2018,25
+bottled water,29,204,female,3/5/2018,25
+bottled water,138,294,female,1/19/2018,25
+bottled water,157,208,male,2/17/2018,25
+bottled water,139,85,female,3/25/2018,25
+bottled water,222,284,female,1/19/2018,25
+bottled water,471,259,female,2/19/2018,25
+bottled water,222,284,female,1/19/2018,25
+bottled water,471,259,female,2/19/2018,25
+bottled water,140,133,male,2/6/2018,25
+bottled water,394,202,male,4/4/2018,25
+bottled water,140,133,male,2/6/2018,25
+bottled water,223,230,female,2/20/2018,25
+bottled water,57,33,male,1/21/2018,25
+bottled water,446,92,female,2/9/2018,25
+bottled water,41,99,male,3/25/2018,25
+bottled water,141,227,female,3/1/2018,25
+bottled water,396,264,male,3/14/2018,25
+bottled water,111,67,male,3/17/2018,25
+bottled water,169,71,female,1/23/2018,25
+bottled water,5,253,female,1/27/2018,25
+bottled water,112,1,male,2/23/2018,25
+bottled water,397,98,male,4/11/2018,25
+bottled water,448,38,female,3/26/2018,25
+bottled water,282,103,female,2/26/2018,25
+bottled water,59,98,male,2/13/2018,25
+bottled water,282,103,female,2/26/2018,25
+bottled water,59,98,male,2/13/2018,25
+bottled water,59,98,male,2/13/2018,25
+bottled water,144,3,female,2/21/2018,25
+bottled water,226,162,female,2/13/2018,25
+bottled water,310,264,male,1/9/2018,25
+bottled water,144,3,female,2/21/2018,25
+bottled water,441,60,male,3/12/2018,25
+bottled water,36,222,female,2/1/2018,25
+bottled water,85,251,male,3/26/2018,25
+bottled water,425,106,male,2/16/2018,25
+bottled water,227,252,female,2/13/2018,25
+bottled water,312,225,female,2/12/2018,25
+bottled water,116,100,male,3/16/2018,25
+bottled water,229,197,female,1/12/2018,25
+bottled water,87,170,female,3/7/2018,25
+bottled water,146,222,female,2/26/2018,25
+bottled water,54,52,female,3/10/2018,25
+bottled water,38,284,female,3/3/2018,25
+bottled water,403,203,male,1/31/2018,25
+bottled water,286,156,female,2/26/2018,25
+bottled water,147,148,female,1/2/2018,25
+bottled water,62,213,male,1/5/2018,25
+bottled water,481,36,female,1/4/2018,25
+bottled water,231,292,female,3/25/2018,25
+bottled water,63,229,female,2/22/2018,25
+bottled water,12,234,female,2/21/2018,25
+bottled water,233,116,female,3/1/2018,25
+bottled water,405,86,female,2/18/2018,25
+bottled water,5,253,female,1/27/2018,25
+bottled water,485,3,female,2/28/2018,25
+bottled water,316,106,male,3/6/2018,25
+bottled water,14,297,female,1/21/2018,25
+bottled water,234,108,male,3/7/2018,25
+bottled water,64,117,male,4/4/2018,25
+bottled water,317,69,male,4/1/2018,25
+bottled water,149,80,male,1/8/2018,25
+bottled water,42,205,female,2/5/2018,25
+bottled water,124,66,female,1/27/2018,25
+bottled water,207,21,male,3/12/2018,25
+bottled water,93,102,male,2/14/2018,25
+bottled water,207,21,male,3/12/2018,25
+bottled water,457,28,female,1/2/2018,25
+bottled water,66,115,male,1/25/2018,25
+bottled water,236,240,female,3/27/2018,25
+bottled water,154,26,male,3/28/2018,25
+bottled water,319,293,female,2/18/2018,25
+bottled water,292,213,male,3/12/2018,25
+bottled water,238,189,male,1/15/2018,25
+bottled water,319,293,female,2/18/2018,25
+bottled water,489,27,male,3/14/2018,25
+bottled water,238,189,male,1/15/2018,25
+bottled water,239,15,female,3/15/2018,25
+bottled water,320,197,female,3/9/2018,25
+bottled water,155,219,female,3/12/2018,25
+bottled water,320,197,female,3/9/2018,25
+bottled water,490,47,male,2/22/2018,25
+bottled water,87,170,female,3/7/2018,25
+bottled water,269,246,male,3/15/2018,25
+bottled water,382,133,male,1/18/2018,25
+bottled water,212,147,male,3/31/2018,25
+bottled water,240,184,male,2/3/2018,25
+bottled water,269,246,male,3/15/2018,25
+bottled water,21,75,male,4/8/2018,25
+bottled water,240,184,male,2/3/2018,25
+bottled water,70,57,female,4/11/2018,25
+bottled water,296,77,female,4/5/2018,25
+bottled water,158,172,female,2/14/2018,25
+bottled water,186,95,female,2/23/2018,25
+bottled water,484,159,male,4/4/2018,25
+bottled water,71,208,male,1/4/2018,25
+bottled water,411,237,male,4/7/2018,25
+bottled water,71,208,male,1/4/2018,25
+bottled water,71,208,male,1/4/2018,25
+bottled water,327,200,male,1/16/2018,25
+bottled water,217,267,female,1/4/2018,25
+bottled water,72,80,male,3/13/2018,25
+bottled water,414,218,male,2/15/2018,25
+bottled water,243,173,male,2/9/2018,25
+bottled water,244,217,female,1/11/2018,25
+bottled water,244,217,female,1/11/2018,25
+bottled water,73,153,male,1/14/2018,25
+bottled water,162,105,male,3/7/2018,25
+bottled water,274,113,male,2/21/2018,25
+bottled water,50,226,female,2/1/2018,25
+bottled water,220,123,female,4/10/2018,25
+bottled water,27,10,male,4/8/2018,25
+bottled water,246,193,male,2/9/2018,25
+bottled water,163,106,male,2/12/2018,25
+bottled water,192,7,female,2/4/2018,25
+bottled water,329,270,male,2/2/2018,25
+bottled water,247,19,female,1/20/2018,25
+bottled water,500,153,male,2/17/2018,25
+bottled water,76,218,male,3/6/2018,25
+bottled water,469,47,male,3/9/2018,25
+bottled water,248,206,female,1/8/2018,25
+bottled water,77,218,male,2/28/2018,25
+bottled water,166,116,female,4/1/2018,25
+bottled water,2,276,male,2/18/2018,25
+bottled water,222,284,female,1/19/2018,25
+bottled water,166,116,female,4/1/2018,25
+bottled water,420,38,female,2/26/2018,25
+bottled water,2,276,male,2/18/2018,25
+bottled water,2,276,male,2/18/2018,25
+bottled water,249,39,female,1/25/2018,25
+bottled water,167,295,female,3/22/2018,25
+bottled water,503,274,male,2/9/2018,25
+bottled water,168,198,female,2/16/2018,25
+bottled water,4,95,female,3/28/2018,25
+bottled water,4,95,female,3/28/2018,25
+bottled water,196,205,female,3/22/2018,25
+bottled water,4,95,female,3/28/2018,25
+bottled water,252,136,male,2/3/2018,25
+bottled water,306,94,female,2/8/2018,25
+bottled water,335,62,female,3/27/2018,25
+bottled water,423,219,female,3/17/2018,25
+bottled water,225,160,female,4/11/2018,25
+bottled water,252,136,male,2/3/2018,25
+bottled water,252,136,male,2/3/2018,25
+bottled water,5,253,female,1/27/2018,25
+bottled water,253,133,male,2/10/2018,25
+bottled water,253,133,male,2/10/2018,25
+bottled water,449,36,female,2/21/2018,25
+bottled water,113,250,female,1/12/2018,25
+bottled water,6,34,male,3/16/2018,25
+bottled water,171,195,female,3/28/2018,25
+bottled water,477,244,female,2/27/2018,25
+bottled water,400,172,female,2/24/2018,25
+bottled water,36,222,female,2/1/2018,25
+bottled water,9,93,female,1/16/2018,25
+bottled water,283,130,male,1/23/2018,25
+bottled water,199,256,male,4/2/2018,25
+bottled water,256,146,female,2/4/2018,25
+bottled water,510,168,female,1/11/2018,25
+bottled water,401,199,female,3/29/2018,25
+bottled water,174,67,male,3/19/2018,25
+bottled water,87,170,female,3/7/2018,25
+bottled water,175,99,male,1/17/2018,25
+bottled water,402,33,male,4/6/2018,25
+bottled water,146,222,female,2/26/2018,25
+bottled water,512,130,male,2/19/2018,25
+bottled water,258,33,male,3/10/2018,25
+bottled water,176,281,female,3/7/2018,25
+bottled water,89,13,male,2/19/2018,25
+bottled water,259,104,female,2/16/2018,25
+bottled water,259,104,female,2/16/2018,25
+bottled water,11,202,male,1/8/2018,25
+bottled water,63,229,female,2/22/2018,25
+bottled water,316,106,male,3/6/2018,25
+bottled water,260,239,female,3/15/2018,25
+bottled water,514,42,male,1/19/2018,25
+bottled water,90,62,female,2/17/2018,25
+bottled water,91,221,male,3/24/2018,25
+bottled water,260,239,female,3/15/2018,25
+bottled water,346,13,male,3/16/2018,25
+bottled water,515,148,female,2/19/2018,25
+bottled water,515,148,female,2/19/2018,25
+bottled water,428,31,male,2/22/2018,25
+bottled water,14,297,female,1/21/2018,25
+bottled water,515,148,female,2/19/2018,25
+bottled water,317,69,male,4/1/2018,25
+bottled water,65,180,female,1/16/2018,25
+bottled water,263,20,male,3/14/2018,25
+bottled water,65,180,female,1/16/2018,25
+bottled water,516,122,male,4/3/2018,25
+bottled water,16,48,female,1/31/2018,25
+bottled water,517,256,male,3/13/2018,25
+bottled water,264,230,female,1/31/2018,25
+bottled water,517,256,male,3/13/2018,25
+bottled water,431,15,female,1/8/2018,25
+bottled water,265,235,female,4/6/2018,25
+bottled water,265,235,female,4/6/2018,25
+bottled water,518,12,male,2/22/2018,25
+bottled water,183,108,male,2/28/2018,25
+bottled water,19,144,female,1/9/2018,25
+bottled water,268,48,female,2/18/2018,25
+bottled water,268,48,female,2/18/2018,25
+bottled water,184,283,male,1/5/2018,25
+bottled water,20,77,female,1/9/2018,25
+bottled water,45,124,male,1/9/2018,25
+bottled water,156,171,female,2/8/2018,25
+bottled water,323,248,female,2/24/2018,25
+bottled water,212,147,male,3/31/2018,25
+bottled water,410,200,male,2/10/2018,25
+bottled water,99,148,female,2/19/2018,25
+bottled water,520,43,female,1/24/2018,25
+bottled water,270,112,female,1/22/2018,25
+bottled water,383,182,female,1/14/2018,25
+bottled water,521,82,female,3/25/2018,25
+bottled water,215,44,female,4/8/2018,25
+bottled water,358,253,female,3/8/2018,25
+bottled water,435,231,female,3/21/2018,25
+bottled water,23,233,male,3/18/2018,25
+bottled water,100,243,male,3/29/2018,25
+bottled water,24,53,male,1/12/2018,25
+bottled water,24,53,male,1/12/2018,25
+bottled water,522,8,female,1/9/2018,25
+bottled water,523,281,female,1/16/2018,25
+bottled water,24,53,male,1/12/2018,25
+bottled water,25,138,female,3/30/2018,25
+bottled water,102,161,female,3/13/2018,25
+bottled water,189,192,male,3/31/2018,25
+bottled water,272,14,male,1/17/2018,25
+bottled water,26,42,male,4/11/2018,25
+bottled water,74,290,female,4/11/2018,25
+bottled water,497,209,male,4/7/2018,25
+bottled water,524,265,female,3/13/2018,25
+bottled water,468,53,male,2/6/2018,25
+bottled water,191,270,male,3/4/2018,25
+bottled water,275,297,female,4/8/2018,25
+bottled water,329,270,male,2/2/2018,25
+bottled water,275,297,female,4/8/2018,25
+bottled water,525,250,female,1/5/2018,25
+bottled water,525,250,female,1/5/2018,25
+bottled water,275,297,female,4/8/2018,25
+bottled water,1,166,male,4/7/2018,25
+bottled water,28,238,female,3/29/2018,25
+bottled water,526,7,female,1/22/2018,25
+bottled water,526,7,female,1/22/2018,25
+bottled water,106,298,female,2/26/2018,25
+bottled water,29,204,female,3/5/2018,25
+bottled water,107,118,female,1/20/2018,25
+bottled water,29,204,female,3/5/2018,25
+bottled water,30,19,female,3/20/2018,25
+bottled water,527,220,female,1/28/2018,25
+bottled water,30,19,female,3/20/2018,25
+bottled water,527,220,female,1/28/2018,25
+bottled water,445,80,male,3/7/2018,25
+bottled water,445,80,male,3/7/2018,25
+bottled water,196,205,female,3/22/2018,25
+bottled water,527,220,female,1/28/2018,25
+bottled water,250,14,male,1/2/2018,25
+bottled water,527,220,female,1/28/2018,25
+bottled water,110,119,male,3/29/2018,25
+bottled water,506,165,female,1/14/2018,25
+bottled water,197,232,male,2/23/2018,25
+bottled water,111,67,male,3/17/2018,25
+bottled water,423,219,female,3/17/2018,25
+bottled water,281,90,female,1/12/2018,25
+bottled water,32,57,female,2/26/2018,25
+bottled water,282,103,female,2/26/2018,25
+bottled water,367,54,male,1/17/2018,25
+bottled water,531,220,female,2/11/2018,25
+bottled water,144,3,female,2/21/2018,25
+bottled water,398,137,male,1/22/2018,25
+bottled water,282,103,female,2/26/2018,25
+bottled water,113,250,female,1/12/2018,25
+bottled water,532,298,female,3/21/2018,25
+bottled water,83,88,female,1/3/2018,25
+bottled water,84,292,female,1/30/2018,25
+bottled water,36,222,female,2/1/2018,25
+bottled water,9,93,female,1/16/2018,25
+bottled water,400,172,female,2/24/2018,25
+bottled water,283,130,male,1/23/2018,25
+bottled water,534,168,female,2/1/2018,25
+bottled water,511,89,male,1/21/2018,25
+bottled water,284,182,female,3/31/2018,25
+bottled water,372,49,female,3/9/2018,25
+bottled water,452,37,female,3/31/2018,25
+bottled water,285,98,male,3/27/2018,25
+bottled water,176,281,female,3/7/2018,25
+bottled water,38,284,female,3/3/2018,25
+bottled water,286,156,female,2/26/2018,25
+bottled water,117,20,male,1/28/2018,25
+bottled water,535,152,male,3/21/2018,25
+bottled water,39,91,female,3/10/2018,25
+bottled water,535,152,male,3/21/2018,25
+bottled water,202,186,female,3/4/2018,25
+bottled water,535,152,male,3/21/2018,25
+bottled water,90,62,female,2/17/2018,25
+bottled water,120,292,female,3/16/2018,25
+bottled water,41,99,male,3/25/2018,25
+bottled water,288,245,female,2/10/2018,25
+bottled water,122,133,male,3/8/2018,25
+bottled water,536,8,female,4/7/2018,25
+bottled water,41,99,male,3/25/2018,25
+bottled water,289,88,female,1/15/2018,25
+bottled water,537,46,female,1/16/2018,25
+bottled water,457,28,female,1/2/2018,25
+bottled water,377,228,female,2/27/2018,25
+bottled water,124,66,female,1/27/2018,25
+bottled water,181,165,female,2/19/2018,25
+bottled water,516,122,male,4/3/2018,25
+bottled water,42,205,female,2/5/2018,25
+bottled water,516,122,male,4/3/2018,25
+bottled water,43,64,female,3/15/2018,25
+bottled water,458,36,female,3/13/2018,25
+bottled water,43,64,female,3/15/2018,25
+bottled water,378,13,male,3/26/2018,25
+bottled water,126,124,male,1/17/2018,25
+bottled water,540,291,female,3/10/2018,25
+bottled water,459,164,female,4/8/2018,25
+bottled water,379,187,female,1/28/2018,25
+bottled water,43,64,female,3/15/2018,25
+bottled water,210,108,male,2/19/2018,25
+bottled water,292,213,male,3/12/2018,25
+bottled water,542,149,female,2/5/2018,25
+bottled water,44,182,female,2/24/2018,25
+bottled water,44,182,female,2/24/2018,25
+bottled water,128,286,female,2/10/2018,25
+bottled water,269,246,male,3/15/2018,25
+bottled water,98,3,female,2/25/2018,25
+bottled water,129,184,male,3/26/2018,25
+bottled water,45,124,male,1/9/2018,25
+bottled water,21,75,male,4/8/2018,25
+bottled water,157,208,male,2/17/2018,25
+bottled water,130,62,female,2/6/2018,25
+bottled water,213,281,female,3/12/2018,25
+bottled water,270,112,female,1/22/2018,25
+bottled water,545,156,female,1/23/2018,25
+bottled water,296,77,female,4/5/2018,25
+bottled water,435,231,female,3/21/2018,25
+bottled water,23,233,male,3/18/2018,25
+bottled water,215,44,female,4/8/2018,25
+bottled water,133,144,female,2/16/2018,25
+bottled water,133,144,female,2/16/2018,25
+bottled water,385,2,male,3/31/2018,25
+bottled water,547,46,female,3/6/2018,25
+bottled water,547,46,female,3/6/2018,25
+bottled water,48,239,female,3/23/2018,25
+bottled water,48,239,female,3/23/2018,25
+bottled water,49,118,female,2/1/2018,25
+bottled water,218,115,male,2/14/2018,25
+bottled water,134,234,female,3/8/2018,25
+bottled water,387,71,female,1/12/2018,25
+bottled water,467,88,female,1/22/2018,25
+bottled water,103,74,male,4/7/2018,25
+bottled water,299,225,female,3/26/2018,25
+bottled water,467,88,female,1/22/2018,25
+bottled water,50,226,female,2/1/2018,25
+bottled water,300,139,female,2/18/2018,25
+bottled water,524,265,female,3/13/2018,25
+bottled water,220,123,female,4/10/2018,25
+bottled water,551,49,female,3/7/2018,25
+bottled water,469,47,male,3/9/2018,25
+bottled water,391,141,female,1/24/2018,25
+bottled water,221,270,male,1/26/2018,25
+bottled water,53,87,male,1/5/2018,25
+bottled water,553,207,female,2/19/2018,25
+bottled water,302,171,female,1/8/2018,25
+bottled water,221,270,male,1/26/2018,25
+bottled water,221,270,male,1/26/2018,25
+bottled water,138,294,female,1/19/2018,25
+bottled water,303,55,female,3/24/2018,25
+bottled water,555,156,female,3/21/2018,25
+bottled water,555,156,female,3/21/2018,25
+bottled water,55,160,female,4/1/2018,25
+bottled water,304,100,male,1/20/2018,25
+bottled water,555,156,female,3/21/2018,25
+bottled water,471,259,female,2/19/2018,25
+bottled water,555,156,female,3/21/2018,25
+bottled water,56,1,male,4/3/2018,25
+bottled water,280,96,female,4/11/2018,25
+bottled water,472,123,female,2/21/2018,25
+bottled water,224,18,male,3/23/2018,25
+bottled water,224,18,male,3/23/2018,25
+bottled water,57,33,male,1/21/2018,25
+bottled water,58,73,male,2/26/2018,25
+bottled water,197,232,male,2/23/2018,25
+bottled water,58,73,male,2/26/2018,25
+bottled water,558,156,female,2/11/2018,25
+bottled water,58,73,male,2/26/2018,25
+bottled water,309,120,female,1/15/2018,25
+bottled water,560,224,female,1/2/2018,25
+bottled water,33,232,male,2/19/2018,25
+bottled water,531,220,female,2/11/2018,25
+bottled water,560,224,female,1/2/2018,25
+bottled water,226,162,female,2/13/2018,25
+bottled water,310,264,male,1/9/2018,25
+bottled water,561,188,female,1/3/2018,25
+bottled water,477,244,female,2/27/2018,25
+bottled water,59,98,male,2/13/2018,25
+bottled water,199,256,male,4/2/2018,25
+bottled water,85,251,male,3/26/2018,25
+bottled water,60,70,male,1/9/2018,25
+bottled water,227,252,female,2/13/2018,25
+bottled water,478,19,female,1/10/2018,25
+bottled water,563,20,male,2/7/2018,25
+bottled water,61,80,male,2/15/2018,25
+bottled water,312,225,female,2/12/2018,25
+bottled water,61,80,male,2/15/2018,25
+bottled water,229,197,female,1/12/2018,25
+bottled water,146,222,female,2/26/2018,25
+bottled water,230,181,male,3/31/2018,25
+bottled water,146,222,female,2/26/2018,25
+bottled water,314,240,female,1/8/2018,25
+bottled water,404,111,female,2/9/2018,25
+bottled water,314,240,female,1/8/2018,25
+bottled water,566,184,male,2/28/2018,25
+bottled water,404,111,female,2/9/2018,25
+bottled water,147,148,female,1/2/2018,25
+bottled water,315,76,female,4/3/2018,25
+bottled water,567,275,female,2/23/2018,25
+bottled water,567,275,female,2/23/2018,25
+bottled water,63,229,female,2/22/2018,25
+bottled water,567,275,female,2/23/2018,25
+bottled water,406,70,male,1/8/2018,25
+bottled water,316,106,male,3/6/2018,25
+bottled water,317,69,male,4/1/2018,25
+bottled water,486,170,female,2/1/2018,25
+bottled water,569,68,female,3/22/2018,25
+bottled water,317,69,male,4/1/2018,25
+bottled water,291,253,female,1/13/2018,25
+bottled water,377,228,female,2/27/2018,25
+bottled water,151,74,male,1/17/2018,25
+bottled water,125,234,female,1/26/2018,25
+bottled water,318,205,female,3/18/2018,25
+bottled water,153,93,female,3/26/2018,25
+bottled water,319,293,female,2/18/2018,25
+bottled water,487,130,male,1/19/2018,25
+bottled water,487,130,male,1/19/2018,25
+bottled water,154,26,male,3/28/2018,25
+bottled water,154,26,male,3/28/2018,25
+bottled water,489,27,male,3/14/2018,25
+bottled water,572,87,male,3/20/2018,25
+bottled water,572,87,male,3/20/2018,25
+bottled water,573,127,male,3/17/2018,25
+bottled water,490,47,male,2/22/2018,25
+bottled water,239,15,female,3/15/2018,25
+bottled water,155,219,female,3/12/2018,25
+bottled water,573,127,male,3/17/2018,25
+bottled water,320,197,female,3/9/2018,25
+bottled water,129,184,male,3/26/2018,25
+bottled water,239,15,female,3/15/2018,25
+bottled water,410,200,male,2/10/2018,25
+bottled water,294,10,male,3/29/2018,25
+bottled water,356,7,female,2/15/2018,25
+bottled water,491,130,male,2/4/2018,25
+bottled water,411,237,male,4/7/2018,25
+bottled water,492,154,female,2/19/2018,25
+bottled water,323,248,female,2/24/2018,25
+bottled water,577,152,male,1/2/2018,25
+bottled water,357,170,female,4/6/2018,25
+bottled water,546,83,male,2/24/2018,25
+bottled water,159,56,male,2/28/2018,25
+bottled water,325,147,male,2/28/2018,25
+bottled water,326,189,male,1/5/2018,25
+bottled water,327,200,male,1/16/2018,25
+bottled water,493,214,female,3/18/2018,25
+bottled water,327,200,male,1/16/2018,25
+bottled water,579,69,male,3/17/2018,25
+bottled water,494,53,male,2/7/2018,25
+bottled water,579,69,male,3/17/2018,25
+bottled water,327,200,male,1/16/2018,25
+bottled water,244,217,female,1/11/2018,25
+bottled water,161,220,female,1/13/2018,25
+bottled water,580,120,female,1/10/2018,25
+bottled water,497,209,male,4/7/2018,25
+bottled water,328,115,male,2/5/2018,25
+bottled water,416,151,female,3/26/2018,25
+bottled water,417,116,female,2/21/2018,25
+bottled water,329,270,male,2/2/2018,25
+bottled water,246,193,male,2/9/2018,25
+bottled water,75,39,female,4/10/2018,25
+bottled water,581,202,male,1/14/2018,25
+bottled water,500,153,male,2/17/2018,25
+bottled water,76,218,male,3/6/2018,25
+bottled water,247,19,female,1/20/2018,25
+bottled water,330,60,male,3/27/2018,25
+bottled water,76,218,male,3/6/2018,25
+bottled water,418,141,female,4/7/2018,25
+bottled water,501,215,male,4/9/2018,25
+bottled water,331,163,female,3/26/2018,25
+bottled water,77,218,male,2/28/2018,25
+bottled water,77,218,male,2/28/2018,25
+bottled water,2,276,male,2/18/2018,25
+bottled water,584,203,male,3/3/2018,25
+bottled water,502,13,male,3/13/2018,25
+bottled water,78,91,female,2/1/2018,25
+bottled water,503,274,male,2/9/2018,25
+bottled water,585,116,female,1/13/2018,25
+bottled water,333,282,female,3/12/2018,25
+bottled water,586,234,female,4/4/2018,25
+bottled water,333,282,female,3/12/2018,25
+bottled water,334,119,male,1/18/2018,25
+bottled water,587,54,male,1/13/2018,25
+bottled water,334,119,male,1/18/2018,25
+bottled water,588,83,male,3/13/2018,25
+bottled water,5,253,female,1/27/2018,25
+bottled water,506,165,female,1/14/2018,25
+bottled water,252,136,male,2/3/2018,25
+bottled water,588,83,male,3/13/2018,25
+bottled water,336,263,female,2/8/2018,25
+bottled water,589,268,male,2/8/2018,25
+bottled water,336,263,female,2/8/2018,25
+bottled water,589,268,male,2/8/2018,25
+bottled water,476,80,male,3/22/2018,25
+bottled water,253,133,male,2/10/2018,25
+bottled water,337,108,male,4/9/2018,25
+bottled water,254,190,male,4/11/2018,25
+bottled water,590,83,male,2/20/2018,25
+bottled water,561,188,female,1/3/2018,25
+bottled water,8,230,female,4/1/2018,25
+bottled water,450,285,male,1/7/2018,25
+bottled water,283,130,male,1/23/2018,25
+bottled water,173,93,female,1/16/2018,25
+bottled water,338,106,male,2/14/2018,25
+bottled water,339,18,male,2/3/2018,25
+bottled water,592,229,female,4/1/2018,25
+bottled water,9,93,female,1/16/2018,25
+bottled water,340,163,female,3/3/2018,25
+bottled water,512,130,male,2/19/2018,25
+bottled water,340,163,female,3/3/2018,25
+bottled water,593,6,female,2/13/2018,25
+bottled water,340,163,female,3/3/2018,25
+bottled water,593,6,female,2/13/2018,25
+bottled water,512,130,male,2/19/2018,25
+bottled water,88,229,female,2/14/2018,25
+bottled water,594,189,male,4/4/2018,25
+bottled water,341,153,male,4/4/2018,25
+bottled water,594,189,male,4/4/2018,25
+bottled water,11,202,male,1/8/2018,25
+bottled water,427,156,female,2/24/2018,25
+bottled water,344,129,female,3/18/2018,25
+bottled water,595,97,female,1/6/2018,25
+bottled water,428,31,male,2/22/2018,25
+bottled water,13,105,male,3/24/2018,25
+bottled water,91,221,male,3/24/2018,25
+bottled water,596,26,male,2/18/2018,25
+bottled water,597,279,male,3/5/2018,25
+bottled water,346,13,male,3/16/2018,25
+bottled water,14,297,female,1/21/2018,25
+bottled water,597,279,male,3/5/2018,25
+bottled water,93,102,male,2/14/2018,25
+bottled water,487,130,male,1/19/2018,25
+bottled water,348,194,female,2/16/2018,25
+bottled water,598,79,male,3/12/2018,25
+bottled water,349,77,female,2/13/2018,25
+bottled water,598,79,male,3/12/2018,25
+bottled water,94,268,male,3/12/2018,25
+bottled water,95,190,male,4/5/2018,25
+bottled water,264,230,female,1/31/2018,25
+bottled water,599,105,male,3/9/2018,25
+bottled water,350,188,female,1/14/2018,25
+bottled water,600,142,female,2/22/2018,25
+bottled water,350,188,female,1/14/2018,25
+bottled water,600,142,female,2/22/2018,25
+bottled water,518,12,male,2/22/2018,25
+bottled water,601,87,male,1/29/2018,25
+bottled water,351,72,male,1/8/2018,25
+bottled water,351,72,male,1/8/2018,25
+bottled water,96,103,female,3/12/2018,25
+bottled water,603,177,female,3/23/2018,25
+bottled water,603,177,female,3/23/2018,25
+bottled water,354,167,female,4/8/2018,25
+bottled water,520,43,female,1/24/2018,25
+bottled water,157,208,male,2/17/2018,25
+bottled water,240,184,male,2/3/2018,25
+bottled water,269,246,male,3/15/2018,25
+bottled water,604,294,female,2/14/2018,25
+bottled water,356,7,female,2/15/2018,25
+bottled water,605,298,female,2/27/2018,25
+bottled water,605,298,female,2/27/2018,25
+bottled water,545,156,female,1/23/2018,25
+bottled water,186,95,female,2/23/2018,25
+bottled water,606,281,female,2/6/2018,25
+bottled water,357,170,female,4/6/2018,25
+bottled water,606,281,female,2/6/2018,25
+bottled water,358,253,female,3/8/2018,25
+bottled water,101,6,female,3/12/2018,25
+bottled water,101,6,female,3/12/2018,25
+bottled water,359,62,female,4/10/2018,25
+bottled water,607,67,male,1/29/2018,25
+bottled water,359,62,female,4/10/2018,25
+bottled water,25,138,female,3/30/2018,25
+bottled water,607,67,male,1/29/2018,25
+bottled water,607,67,male,1/29/2018,25
+bottled water,523,281,female,1/16/2018,25
+bottled water,26,42,male,4/11/2018,25
+bottled water,439,290,female,3/20/2018,25
+bottled water,360,281,female,2/17/2018,25
+bottled water,103,74,male,4/7/2018,25
+bottled water,524,265,female,3/13/2018,25
+bottled water,104,300,male,1/7/2018,25
+bottled water,362,27,male,3/5/2018,25
+bottled water,362,27,male,3/5/2018,25
+bottled water,363,65,female,1/23/2018,25
+bottled water,363,65,female,1/23/2018,25
+bottled water,611,100,male,3/16/2018,25
+bottled water,276,210,female,1/31/2018,25
+bottled water,104,300,male,1/7/2018,25
+bottled water,364,258,female,1/12/2018,25
+bottled water,612,54,male,2/25/2018,25
+bottled water,277,17,female,2/6/2018,25
+bottled water,526,7,female,1/22/2018,25
+bottled water,106,298,female,2/26/2018,25
+bottled water,364,258,female,1/12/2018,25
+bottled water,613,40,male,4/11/2018,25
+bottled water,365,289,female,3/2/2018,25
+bottled water,107,118,female,1/20/2018,25
+bottled water,613,40,male,4/11/2018,25
+bottled water,527,220,female,1/28/2018,25
+bottled water,527,220,female,1/28/2018,25
+bottled water,279,13,male,1/27/2018,25
+bottled water,615,221,male,4/2/2018,25
+bottled water,615,221,male,4/2/2018,25
+bottled water,615,221,male,4/2/2018,25
+bottled water,366,244,female,1/22/2018,25
+bottled water,280,96,female,4/11/2018,25
+bottled water,366,244,female,1/22/2018,25
+bottled water,616,66,female,2/20/2018,25
+bottled water,366,244,female,1/22/2018,25
+bottled water,111,67,male,3/17/2018,25
+bottled water,617,196,female,1/23/2018,25
+bottled water,617,196,female,1/23/2018,25
+bottled water,33,232,male,2/19/2018,25
+bottled water,617,196,female,1/23/2018,25
+bottled water,6,34,male,3/16/2018,25
+bottled water,368,93,female,1/27/2018,25
+bottled water,618,126,male,2/18/2018,25
+bottled water,619,28,female,3/20/2018,25
+bottled water,619,28,female,3/20/2018,25
+bottled water,83,88,female,1/3/2018,25
+bottled water,561,188,female,1/3/2018,25
+bottled water,310,264,male,1/9/2018,25
+bottled water,173,93,female,1/16/2018,25
+bottled water,620,171,female,2/22/2018,25
+bottled water,115,25,female,1/7/2018,25
+bottled water,371,70,male,4/8/2018,25
+bottled water,534,168,female,2/1/2018,25
+bottled water,621,248,female,2/22/2018,25
+bottled water,621,248,female,2/22/2018,25
+bottled water,622,115,male,1/13/2018,25
+bottled water,372,49,female,3/9/2018,25
+bottled water,373,280,female,2/19/2018,25
+bottled water,37,221,male,3/16/2018,25
+bottled water,286,156,female,2/26/2018,25
+bottled water,202,186,female,3/4/2018,25
+bottled water,374,32,female,1/11/2018,25
+bottled water,623,224,female,3/11/2018,25
+bottled water,375,72,male,4/4/2018,25
+bottled water,287,70,male,1/24/2018,25
+bottled water,623,224,female,3/11/2018,25
+bottled water,455,79,male,2/13/2018,25
+bottled water,40,60,male,4/6/2018,25
+bottled water,375,72,male,4/4/2018,25
+bottled water,40,60,male,4/6/2018,25
+bottled water,536,8,female,4/7/2018,25
+bottled water,375,72,male,4/4/2018,25
+bottled water,41,99,male,3/25/2018,25
+bottled water,289,88,female,1/15/2018,25
+bottled water,122,133,male,3/8/2018,25
+bottled water,376,126,male,2/18/2018,25
+bottled water,289,88,female,1/15/2018,25
+bottled water,42,205,female,2/5/2018,25
+bottled water,15,280,female,3/11/2018,25
+bottled water,539,175,female,4/8/2018,25
+bottled water,457,28,female,1/2/2018,25
+bottled water,291,253,female,1/13/2018,25
+bottled water,378,13,male,3/26/2018,25
+bottled water,540,291,female,3/10/2018,25
+bottled water,125,234,female,1/26/2018,25
+bottled water,540,291,female,3/10/2018,25
+bottled water,540,291,female,3/10/2018,25
+bottled water,378,13,male,3/26/2018,25
+bottled water,541,49,female,4/8/2018,25
+bottled water,626,23,male,2/11/2018,25
+bottled water,626,23,male,2/11/2018,25
+bottled water,292,213,male,3/12/2018,25
+bottled water,127,133,male,2/25/2018,25
+bottled water,627,172,female,3/1/2018,25
+bottled water,128,286,female,2/10/2018,25
+bottled water,293,58,male,3/7/2018,25
+bottled water,211,206,female,2/7/2018,25
+bottled water,543,189,male,2/22/2018,25
+bottled water,128,286,female,2/10/2018,25
+bottled water,293,58,male,3/7/2018,25
+bottled water,129,184,male,3/26/2018,25
+bottled water,20,77,female,1/9/2018,25
+bottled water,212,147,male,3/31/2018,25
+bottled water,544,163,female,1/9/2018,25
+bottled water,383,182,female,1/14/2018,25
+bottled water,295,274,male,1/7/2018,25
+bottled water,383,182,female,1/14/2018,25
+bottled water,295,274,male,1/7/2018,25
+bottled water,131,4,female,2/1/2018,25
+bottled water,629,46,female,1/12/2018,25
+bottled water,132,110,male,2/26/2018,25
+bottled water,296,77,female,4/5/2018,25
+bottled water,217,267,female,1/4/2018,25
+bottled water,465,16,female,1/13/2018,25
+bottled water,630,286,female,3/23/2018,25
+bottled water,385,2,male,3/31/2018,25
+bottled water,630,286,female,3/23/2018,25
+bottled water,133,144,female,2/16/2018,25
+bottled water,134,234,female,3/8/2018,25
+bottled water,298,106,male,3/7/2018,25
+bottled water,549,97,female,3/11/2018,25
+bottled water,298,106,male,3/7/2018,25
+bottled water,298,106,male,3/7/2018,25
+bottled water,550,109,female,2/11/2018,25
+bottled water,136,28,female,1/27/2018,25
+bottled water,299,225,female,3/26/2018,25
+bottled water,136,28,female,1/27/2018,25
+bottled water,389,147,male,3/17/2018,25
+bottled water,300,139,female,2/18/2018,25
+bottled water,551,49,female,3/7/2018,25
+bottled water,633,218,male,2/15/2018,25
+bottled water,552,111,female,1/29/2018,25
+bottled water,552,111,female,1/29/2018,25
+bottled water,301,253,female,4/5/2018,25
+bottled water,137,28,female,1/19/2018,25
+bottled water,634,53,male,1/26/2018,25
+bottled water,553,207,female,2/19/2018,25
+bottled water,553,207,female,2/19/2018,25
+bottled water,54,52,female,3/10/2018,25
+bottled water,554,288,male,2/18/2018,25
+bottled water,471,259,female,2/19/2018,25
+bottled water,139,85,female,3/25/2018,25
+bottled water,636,153,male,3/31/2018,25
+bottled water,636,153,male,3/31/2018,25
+bottled water,636,153,male,3/31/2018,25
+bottled water,394,202,male,4/4/2018,25
+bottled water,305,275,female,1/17/2018,25
+bottled water,637,257,female,3/17/2018,25
+bottled water,637,257,female,3/17/2018,25
+bottled water,556,36,female,1/4/2018,25
+bottled water,556,36,female,1/4/2018,25
+bottled water,141,227,female,3/1/2018,25
+bottled water,638,224,female,3/28/2018,25
+bottled water,638,224,female,3/28/2018,25
+bottled water,141,227,female,3/1/2018,25
+bottled water,141,227,female,3/1/2018,25
+bottled water,397,98,male,4/11/2018,25
+bottled water,638,224,female,3/28/2018,25
+bottled water,638,224,female,3/28/2018,25
+bottled water,142,281,female,3/27/2018,25
+bottled water,143,174,female,2/19/2018,25
+bottled water,618,126,male,2/18/2018,25
+bottled water,59,98,male,2/13/2018,25
+bottled water,640,252,female,3/31/2018,25
+bottled water,309,120,female,1/15/2018,25
+bottled water,398,137,male,1/22/2018,25
+bottled water,640,252,female,3/31/2018,25
+bottled water,640,252,female,3/31/2018,25
+bottled water,84,292,female,1/30/2018,25
+bottled water,35,99,male,3/22/2018,25
+bottled water,311,159,male,4/8/2018,25
+bottled water,641,123,female,1/27/2018,25
+bottled water,641,123,female,1/27/2018,25
+bottled water,60,70,male,1/9/2018,25
+bottled water,641,123,female,1/27/2018,25
+bottled water,642,148,female,2/5/2018,25
+bottled water,564,248,female,4/3/2018,25
+bottled water,564,248,female,4/3/2018,25
+bottled water,312,225,female,2/12/2018,25
+bottled water,642,148,female,2/5/2018,25
+bottled water,403,203,male,1/31/2018,25
+bottled water,565,18,male,2/24/2018,25
+bottled water,643,108,male,4/9/2018,25
+bottled water,314,240,female,1/8/2018,25
+bottled water,643,108,male,4/9/2018,25
+bottled water,643,108,male,4/9/2018,25
+bottled water,644,291,female,2/16/2018,25
+bottled water,566,184,male,2/28/2018,25
+bottled water,232,229,female,1/27/2018,25
+bottled water,405,86,female,2/18/2018,25
+bottled water,645,184,male,3/20/2018,25
+bottled water,645,184,male,3/20/2018,25
+bottled water,646,108,male,1/28/2018,25
+bottled water,568,254,female,4/7/2018,25
+bottled water,646,108,male,1/28/2018,25
+bottled water,406,70,male,1/8/2018,25
+bottled water,148,5,male,1/6/2018,25
+bottled water,149,80,male,1/8/2018,25
+bottled water,407,176,male,3/24/2018,25
+bottled water,290,126,male,4/5/2018,25
+bottled water,571,182,female,4/6/2018,25
+bottled water,571,182,female,4/6/2018,25
+bottled water,571,182,female,4/6/2018,25
+bottled water,408,153,male,3/16/2018,25
+bottled water,318,205,female,3/18/2018,25
+bottled water,319,293,female,2/18/2018,25
+bottled water,572,87,male,3/20/2018,25
+bottled water,319,293,female,2/18/2018,25
+bottled water,572,87,male,3/20/2018,25
+bottled water,319,293,female,2/18/2018,25
+bottled water,648,93,female,4/1/2018,25
+bottled water,154,26,male,3/28/2018,25
+bottled water,154,26,male,3/28/2018,25
+bottled water,154,26,male,3/28/2018,25
+bottled water,320,197,female,3/9/2018,25
+bottled water,573,127,male,3/17/2018,25
+bottled water,490,47,male,2/22/2018,25
+bottled water,409,270,male,3/16/2018,25
+bottled water,650,251,male,2/14/2018,25
+bottled water,68,233,male,3/3/2018,25
+bottled water,68,233,male,3/3/2018,25
+bottled water,410,200,male,2/10/2018,25
+bottled water,628,65,female,2/17/2018,25
+bottled water,69,113,male,2/27/2018,25
+bottled water,652,6,female,2/14/2018,25
+bottled water,492,154,female,2/19/2018,25
+bottled water,653,160,female,1/31/2018,25
+bottled water,323,248,female,2/24/2018,25
+bottled water,158,172,female,2/14/2018,25
+bottled water,324,174,female,2/3/2018,25
+bottled water,241,223,female,3/27/2018,25
+bottled water,325,147,male,2/28/2018,25
+bottled water,411,237,male,4/7/2018,25
+bottled water,654,81,female,1/4/2018,25
+bottled water,242,125,male,1/12/2018,25
+bottled water,578,289,female,3/2/2018,25
+bottled water,578,289,female,3/2/2018,25
+bottled water,160,123,female,2/24/2018,25
+bottled water,327,200,male,1/16/2018,25
+bottled water,655,138,female,2/25/2018,25
+bottled water,655,138,female,2/25/2018,25
+bottled water,415,178,male,1/28/2018,25
+bottled water,496,107,female,3/9/2018,25
+bottled water,656,103,female,3/17/2018,25
+bottled water,580,120,female,1/10/2018,25
+bottled water,657,1,male,3/25/2018,25
+bottled water,657,1,male,3/25/2018,25
+bottled water,74,290,female,4/11/2018,25
+bottled water,657,1,male,3/25/2018,25
+bottled water,163,106,male,2/12/2018,25
+bottled water,417,116,female,2/21/2018,25
+bottled water,417,116,female,2/21/2018,25
+bottled water,581,202,male,1/14/2018,25
+bottled water,164,264,male,2/26/2018,25
+bottled water,582,230,female,1/8/2018,25
+bottled water,418,141,female,4/7/2018,25
+bottled water,659,230,female,3/8/2018,25
+bottled water,1,166,male,4/7/2018,25
+bottled water,582,230,female,1/8/2018,25
+bottled water,419,201,male,3/27/2018,25
+bottled water,331,163,female,3/26/2018,25
+bottled water,331,163,female,3/26/2018,25
+bottled water,332,204,female,2/22/2018,25
+bottled water,660,237,male,3/10/2018,25
+bottled water,660,237,male,3/10/2018,25
+bottled water,420,38,female,2/26/2018,25
+bottled water,661,51,male,3/14/2018,25
+bottled water,420,38,female,2/26/2018,25
+bottled water,662,75,male,1/20/2018,25
+bottled water,421,113,male,1/17/2018,25
+bottled water,421,113,male,1/17/2018,25
+bottled water,663,136,male,1/28/2018,25
+bottled water,421,113,male,1/17/2018,25
+bottled water,663,136,male,1/28/2018,25
+bottled water,422,134,male,3/18/2018,25
+bottled water,169,71,female,1/23/2018,25
+bottled water,588,83,male,3/13/2018,25
+bottled water,664,146,female,1/18/2018,25
+bottled water,664,146,female,1/18/2018,25
+bottled water,664,146,female,1/18/2018,25
+bottled water,170,37,female,4/10/2018,25
+bottled water,666,183,female,3/2/2018,25
+bottled water,666,183,female,3/2/2018,25
+bottled water,336,263,female,2/8/2018,25
+bottled water,589,268,male,2/8/2018,25
+bottled water,171,195,female,3/28/2018,25
+bottled water,171,195,female,3/28/2018,25
+bottled water,425,106,male,2/16/2018,25
+bottled water,171,195,female,3/28/2018,25
+bottled water,640,252,female,3/31/2018,25
+bottled water,640,252,female,3/31/2018,25
+bottled water,338,106,male,2/14/2018,25
+bottled water,425,106,male,2/16/2018,25
+bottled water,425,106,male,2/16/2018,25
+bottled water,669,157,female,2/21/2018,25
+bottled water,173,93,female,1/16/2018,25
+bottled water,86,73,male,3/26/2018,25
+bottled water,670,159,male,1/23/2018,25
+bottled water,340,163,female,3/3/2018,25
+bottled water,426,241,male,1/30/2018,25
+bottled water,671,246,male,1/19/2018,25
+bottled water,426,241,male,1/30/2018,25
+bottled water,671,246,male,1/19/2018,25
+bottled water,340,163,female,3/3/2018,25
+bottled water,426,241,male,1/30/2018,25
+bottled water,177,176,male,2/10/2018,25
+bottled water,427,156,female,2/24/2018,25
+bottled water,177,176,male,2/10/2018,25
+bottled water,427,156,female,2/24/2018,25
+bottled water,260,239,female,3/15/2018,25
+bottled water,344,129,female,3/18/2018,25
+bottled water,179,81,female,3/9/2018,25
+bottled water,676,175,female,1/6/2018,25
+bottled water,346,13,male,3/16/2018,25
+bottled water,428,31,male,2/22/2018,25
+bottled water,677,139,female,1/19/2018,25
+bottled water,181,165,female,2/19/2018,25
+bottled water,428,31,male,2/22/2018,25
+bottled water,92,33,male,1/14/2018,25
+bottled water,678,90,female,3/4/2018,25
+bottled water,679,22,female,2/14/2018,25
+bottled water,181,165,female,2/19/2018,25
+bottled water,679,22,female,2/14/2018,25
+bottled water,679,22,female,2/14/2018,25
+bottled water,181,165,female,2/19/2018,25
+bottled water,430,167,female,3/16/2018,25
+bottled water,430,167,female,3/16/2018,25
+bottled water,681,273,female,3/8/2018,25
+bottled water,599,105,male,3/9/2018,25
+bottled water,431,15,female,1/8/2018,25
+bottled water,431,15,female,1/8/2018,25
+bottled water,682,81,female,3/29/2018,25
+bottled water,682,81,female,3/29/2018,25
+bottled water,431,15,female,1/8/2018,25
+bottled water,432,174,female,4/8/2018,25
+bottled water,432,174,female,4/8/2018,25
+bottled water,683,227,female,2/2/2018,25
+bottled water,683,227,female,2/2/2018,25
+bottled water,432,174,female,4/8/2018,25
+bottled water,183,108,male,2/28/2018,25
+bottled water,683,227,female,2/2/2018,25
+bottled water,433,67,male,4/4/2018,25
+bottled water,355,201,male,3/7/2018,25
+bottled water,575,261,male,1/28/2018,25
+bottled water,604,294,female,2/14/2018,25
+bottled water,356,7,female,2/15/2018,25
+bottled water,434,119,male,1/3/2018,25
+bottled water,185,165,female,1/14/2018,25
+bottled water,434,119,male,1/3/2018,25
+bottled water,685,198,female,2/26/2018,25
+bottled water,435,231,female,3/21/2018,25
+bottled water,100,243,male,3/29/2018,25
+bottled water,685,198,female,2/26/2018,25
+bottled water,685,198,female,2/26/2018,25
+bottled water,686,14,male,3/18/2018,25
+bottled water,187,67,male,3/1/2018,25
+bottled water,686,14,male,3/18/2018,25
+bottled water,187,67,male,3/1/2018,25
+bottled water,686,14,male,3/18/2018,25
+bottled water,686,14,male,3/18/2018,25
+bottled water,686,14,male,3/18/2018,25
+bottled water,607,67,male,1/29/2018,25
+bottled water,438,295,female,3/13/2018,25
+bottled water,687,167,female,2/10/2018,25
+bottled water,688,192,male,2/14/2018,25
+bottled water,273,20,male,1/15/2018,25
+bottled water,190,135,female,1/7/2018,25
+bottled water,688,192,male,2/14/2018,25
+bottled water,439,290,female,3/20/2018,25
+bottled water,440,211,female,2/24/2018,25
+bottled water,440,211,female,2/24/2018,25
+bottled water,689,147,male,4/2/2018,25
+bottled water,690,121,female,1/5/2018,25
+bottled water,441,60,male,3/12/2018,25
+bottled water,192,7,female,2/4/2018,25
+bottled water,690,121,female,1/5/2018,25
+bottled water,690,121,female,1/5/2018,25
+bottled water,441,60,male,3/12/2018,25
+bottled water,691,118,female,2/5/2018,25
+bottled water,193,124,male,3/2/2018,25
+bottled water,364,258,female,1/12/2018,25
+bottled water,364,258,female,1/12/2018,25
+bottled water,194,271,female,1/13/2018,25
+bottled water,443,276,male,3/20/2018,25
+bottled water,194,271,female,1/13/2018,25
+bottled water,694,82,female,2/8/2018,25
+bottled water,694,82,female,2/8/2018,25
+bottled water,444,195,female,3/3/2018,25
+bottled water,444,195,female,3/3/2018,25
+bottled water,695,97,female,1/9/2018,25
+bottled water,365,289,female,3/2/2018,25
+bottled water,446,92,female,2/9/2018,25
+bottled water,446,92,female,2/9/2018,25
+bottled water,695,97,female,1/9/2018,25
+bottled water,447,172,female,1/30/2018,25
+bottled water,616,66,female,2/20/2018,25
+bottled water,197,232,male,2/23/2018,25
+bottled water,447,172,female,1/30/2018,25
+bottled water,447,172,female,1/30/2018,25
+bottled water,697,74,male,3/31/2018,25
+bottled water,197,232,male,2/23/2018,25
+bottled water,698,117,male,3/1/2018,25
+bottled water,698,117,male,3/1/2018,25
+bottled water,448,38,female,3/26/2018,25
+bottled water,198,39,female,1/22/2018,25
+bottled water,198,39,female,1/22/2018,25
+bottled water,698,117,male,3/1/2018,25
+bottled water,198,39,female,1/22/2018,25
+bottled water,198,39,female,1/22/2018,25
+bottled water,198,39,female,1/22/2018,25
+bottled water,450,285,male,1/7/2018,25
+bottled water,667,216,male,1/29/2018,25
+bottled water,114,79,male,2/14/2018,25
+bottled water,699,119,male,1/16/2018,25
+bottled water,699,119,male,1/16/2018,25
+bottled water,451,175,female,4/5/2018,25
+bottled water,700,34,male,3/15/2018,25
+bottled water,199,256,male,4/2/2018,25
+bottled water,451,175,female,4/5/2018,25
+bottled water,700,34,male,3/15/2018,25
+bottled water,701,198,female,3/19/2018,25
+bottled water,452,37,female,3/31/2018,25
+bottled water,200,285,male,1/21/2018,25
+bottled water,117,20,male,1/28/2018,25
+bottled water,534,168,female,2/1/2018,25
+bottled water,701,198,female,3/19/2018,25
+bottled water,202,186,female,3/4/2018,25
+bottled water,703,228,female,4/4/2018,25
+bottled water,703,228,female,4/4/2018,25
+bottled water,454,43,female,2/27/2018,25
+bottled water,287,70,male,1/24/2018,25
+bottled water,120,292,female,3/16/2018,25
+bottled water,204,280,female,3/8/2018,25
+bottled water,455,79,male,2/13/2018,25
+bottled water,375,72,male,4/4/2018,25
+bottled water,204,280,female,3/8/2018,25
+bottled water,288,245,female,2/10/2018,25
+bottled water,122,133,male,3/8/2018,25
+bottled water,456,24,male,3/3/2018,25
+bottled water,705,289,female,4/6/2018,25
+bottled water,377,228,female,2/27/2018,25
+bottled water,625,211,female,1/28/2018,25
+bottled water,377,228,female,2/27/2018,25
+bottled water,377,228,female,2/27/2018,25
+bottled water,625,211,female,1/28/2018,25
+bottled water,377,228,female,2/27/2018,25
+bottled water,207,21,male,3/12/2018,25
+bottled water,707,171,female,1/23/2018,25
+bottled water,707,171,female,1/23/2018,25
+bottled water,707,171,female,1/23/2018,25
+bottled water,626,23,male,2/11/2018,25
+bottled water,458,36,female,3/13/2018,25
+bottled water,708,281,female,1/27/2018,25
+bottled water,708,281,female,1/27/2018,25
+bottled water,459,164,female,4/8/2018,25
+bottled water,626,23,male,2/11/2018,25
+bottled water,460,108,male,2/17/2018,25
+bottled water,709,299,female,1/27/2018,25
+bottled water,709,299,female,1/27/2018,25
+bottled water,627,172,female,3/1/2018,25
+bottled water,543,189,male,2/22/2018,25
+bottled water,627,172,female,3/1/2018,25
+bottled water,211,206,female,2/7/2018,25
+bottled water,382,133,male,1/18/2018,25
+bottled water,461,74,male,1/27/2018,25
+bottled water,712,274,male,3/7/2018,25
+bottled water,712,274,male,3/7/2018,25
+bottled water,462,59,female,3/3/2018,25
+bottled water,212,147,male,3/31/2018,25
+bottled water,131,4,female,2/1/2018,25
+bottled water,214,11,male,3/14/2018,25
+bottled water,629,46,female,1/12/2018,25
+bottled water,464,217,female,2/26/2018,25
+bottled water,464,217,female,2/26/2018,25
+bottled water,464,217,female,2/26/2018,25
+bottled water,465,16,female,1/13/2018,25
+bottled water,385,2,male,3/31/2018,25
+bottled water,630,286,female,3/23/2018,25
+bottled water,713,15,female,2/8/2018,25
+bottled water,466,48,female,3/30/2018,25
+bottled water,466,48,female,3/30/2018,25
+bottled water,466,48,female,3/30/2018,25
+bottled water,466,48,female,3/30/2018,25
+bottled water,466,48,female,3/30/2018,25
+bottled water,386,198,female,3/18/2018,25
+bottled water,631,9,female,2/23/2018,25
+bottled water,631,9,female,2/23/2018,25
+bottled water,715,15,female,3/21/2018,25
+bottled water,715,15,female,3/21/2018,25
+bottled water,715,15,female,3/21/2018,25
+bottled water,715,15,female,3/21/2018,25
+bottled water,716,80,male,3/24/2018,25
+bottled water,633,218,male,2/15/2018,25
+bottled water,717,49,female,3/27/2018,25
+bottled water,469,47,male,3/9/2018,25
+bottled water,391,141,female,1/24/2018,25
+bottled water,717,49,female,3/27/2018,25
+bottled water,633,218,male,2/15/2018,25
+bottled water,469,47,male,3/9/2018,25
+bottled water,718,253,female,3/31/2018,25
+bottled water,392,106,male,3/8/2018,25
+bottled water,138,294,female,1/19/2018,25
+bottled water,392,106,male,3/8/2018,25
+bottled water,718,253,female,3/31/2018,25
+bottled water,636,153,male,3/31/2018,25
+bottled water,719,289,female,1/8/2018,25
+bottled water,719,289,female,1/8/2018,25
+bottled water,471,259,female,2/19/2018,25
+bottled water,719,289,female,1/8/2018,25
+bottled water,471,259,female,2/19/2018,25
+bottled water,637,257,female,3/17/2018,25
+bottled water,720,104,female,4/7/2018,25
+bottled water,472,123,female,2/21/2018,25
+bottled water,637,257,female,3/17/2018,25
+bottled water,224,18,male,3/23/2018,25
+bottled water,721,201,male,3/11/2018,25
+bottled water,472,123,female,2/21/2018,25
+bottled water,472,123,female,2/21/2018,25
+bottled water,558,156,female,2/11/2018,25
+bottled water,307,253,female,4/1/2018,25
+bottled water,225,160,female,4/11/2018,25
+bottled water,723,57,female,2/27/2018,25
+bottled water,225,160,female,4/11/2018,25
+bottled water,225,160,female,4/11/2018,25
+bottled water,225,160,female,4/11/2018,25
+bottled water,309,120,female,1/15/2018,25
+bottled water,143,174,female,2/19/2018,25
+bottled water,725,277,female,2/3/2018,25
+bottled water,640,252,female,3/31/2018,25
+bottled water,477,244,female,2/27/2018,25
+bottled water,725,277,female,2/3/2018,25
+bottled water,725,277,female,2/3/2018,25
+bottled water,477,244,female,2/27/2018,25
+bottled water,726,251,male,1/26/2018,25
+bottled water,227,252,female,2/13/2018,25
+bottled water,227,252,female,2/13/2018,25
+bottled water,227,252,female,2/13/2018,25
+bottled water,726,251,male,1/26/2018,25
+bottled water,726,251,male,1/26/2018,25
+bottled water,228,60,male,2/16/2018,25
+bottled water,479,139,female,3/2/2018,25
+bottled water,229,197,female,1/12/2018,25
+bottled water,146,222,female,2/26/2018,25
+bottled water,480,43,female,1/12/2018,25
+bottled water,480,43,female,1/12/2018,25
+bottled water,643,108,male,4/9/2018,25
+bottled water,230,181,male,3/31/2018,25
+bottled water,481,36,female,1/4/2018,25
+bottled water,230,181,male,3/31/2018,25
+bottled water,728,142,female,1/27/2018,25
+bottled water,481,36,female,1/4/2018,25
+bottled water,644,291,female,2/16/2018,25
+bottled water,404,111,female,2/9/2018,25
+bottled water,729,31,male,1/15/2018,25
+bottled water,232,229,female,1/27/2018,25
+bottled water,730,121,female,2/26/2018,25
+bottled water,730,121,female,2/26/2018,25
+bottled water,731,157,female,1/13/2018,25
+bottled water,486,170,female,2/1/2018,25
+bottled water,731,157,female,1/13/2018,25
+bottled water,731,157,female,1/13/2018,25
+bottled water,732,57,female,3/22/2018,25
+bottled water,235,209,male,1/19/2018,25
+bottled water,407,176,male,3/24/2018,25
+bottled water,647,146,female,1/20/2018,25
+bottled water,732,57,female,3/22/2018,25
+bottled water,408,153,male,3/16/2018,25
+bottled water,235,209,male,1/19/2018,25
+bottled water,235,209,male,1/19/2018,25
+bottled water,648,93,female,4/1/2018,25
+bottled water,153,93,female,3/26/2018,25
+bottled water,408,153,male,3/16/2018,25
+bottled water,733,106,male,2/11/2018,25
+bottled water,408,153,male,3/16/2018,25
+bottled water,489,27,male,3/14/2018,25
+bottled water,734,197,female,1/15/2018,25
+bottled water,734,197,female,1/15/2018,25
+bottled water,734,197,female,1/15/2018,25
+bottled water,490,47,male,2/22/2018,25
+bottled water,735,263,female,2/27/2018,25
+bottled water,409,270,male,3/16/2018,25
+bottled water,736,262,male,2/23/2018,25
+bottled water,736,262,male,2/23/2018,25
+bottled water,736,262,male,2/23/2018,25
+bottled water,651,176,male,3/19/2018,25
+bottled water,491,130,male,2/4/2018,25
+bottled water,652,6,female,2/14/2018,25
+bottled water,157,208,male,2/17/2018,25
+bottled water,491,130,male,2/4/2018,25
+bottled water,653,160,female,1/31/2018,25
+bottled water,737,210,female,4/8/2018,25
+bottled water,411,237,male,4/7/2018,25
+bottled water,492,154,female,2/19/2018,25
+bottled water,411,237,male,4/7/2018,25
+bottled water,577,152,male,1/2/2018,25
+bottled water,737,210,female,4/8/2018,25
+bottled water,737,210,female,4/8/2018,25
+bottled water,493,214,female,3/18/2018,25
+bottled water,578,289,female,3/2/2018,25
+bottled water,493,214,female,3/18/2018,25
+bottled water,160,123,female,2/24/2018,25
+bottled water,494,53,male,2/7/2018,25
+bottled water,739,105,male,3/27/2018,25
+bottled water,739,105,male,3/27/2018,25
+bottled water,739,105,male,3/27/2018,25
+bottled water,494,53,male,2/7/2018,25
+bottled water,495,243,male,3/30/2018,25
+bottled water,740,204,female,2/27/2018,25
+bottled water,415,178,male,1/28/2018,25
+bottled water,740,204,female,2/27/2018,25
+bottled water,740,204,female,2/27/2018,25
+bottled water,657,1,male,3/25/2018,25
+bottled water,740,204,female,2/27/2018,25
+bottled water,498,230,female,3/28/2018,25
+bottled water,498,230,female,3/28/2018,25
+bottled water,741,284,female,2/14/2018,25
+bottled water,246,193,male,2/9/2018,25
+bottled water,744,275,female,3/28/2018,25
+bottled water,744,275,female,3/28/2018,25
+bottled water,501,215,male,4/9/2018,25
+bottled water,501,215,male,4/9/2018,25
+bottled water,745,141,female,2/11/2018,25
+bottled water,660,237,male,3/10/2018,25
+bottled water,745,141,female,2/11/2018,25
+bottled water,248,206,female,1/8/2018,25
+bottled water,501,215,male,4/9/2018,25
+bottled water,419,201,male,3/27/2018,25
+bottled water,249,39,female,1/25/2018,25
+bottled water,249,39,female,1/25/2018,25
+bottled water,748,97,female,3/5/2018,25
+bottled water,502,13,male,3/13/2018,25
+bottled water,748,97,female,3/5/2018,25
+bottled water,748,97,female,3/5/2018,25
+bottled water,503,274,male,2/9/2018,25
+bottled water,503,274,male,2/9/2018,25
+bottled water,504,190,male,3/25/2018,25
+bottled water,505,51,male,3/1/2018,25
+bottled water,251,227,female,1/16/2018,25
+bottled water,750,184,male,1/13/2018,25
+bottled water,750,184,male,1/13/2018,25
+bottled water,423,219,female,3/17/2018,25
+bottled water,750,184,male,1/13/2018,25
+bottled water,507,93,female,1/5/2018,25
+bottled water,507,93,female,1/5/2018,25
+bottled water,751,117,male,3/24/2018,25
+bottled water,507,93,female,1/5/2018,25
+bottled water,507,93,female,1/5/2018,25
+bottled water,751,117,male,3/24/2018,25
+bottled water,752,67,male,2/4/2018,25
+bottled water,508,234,female,2/13/2018,25
+bottled water,6,34,male,3/16/2018,25
+bottled water,753,57,female,1/25/2018,25
+bottled water,7,215,male,4/8/2018,25
+bottled water,337,108,male,4/9/2018,25
+bottled water,754,167,female,3/1/2018,25
+bottled water,254,190,male,4/11/2018,25
+bottled water,8,230,female,4/1/2018,25
+bottled water,510,168,female,1/11/2018,25
+bottled water,755,83,male,1/8/2018,25
+bottled water,755,83,male,1/8/2018,25
+bottled water,755,83,male,1/8/2018,25
+bottled water,257,47,male,2/6/2018,25
+bottled water,257,47,male,2/6/2018,25
+bottled water,756,32,female,2/7/2018,25
+bottled water,257,47,male,2/6/2018,25
+bottled water,258,33,male,3/10/2018,25
+bottled water,757,59,female,3/27/2018,25
+bottled water,757,59,female,3/27/2018,25
+bottled water,757,59,female,3/27/2018,25
+bottled water,512,130,male,2/19/2018,25
+bottled water,757,59,female,3/27/2018,25
+bottled water,758,208,male,1/7/2018,25
+bottled water,758,208,male,1/7/2018,25
+bottled water,427,156,female,2/24/2018,25
+bottled water,675,47,male,1/29/2018,25
+bottled water,11,202,male,1/8/2018,25
+bottled water,759,25,female,3/23/2018,25
+bottled water,676,175,female,1/6/2018,25
+bottled water,514,42,male,1/19/2018,25
+bottled water,759,25,female,3/23/2018,25
+bottled water,261,276,male,2/6/2018,25
+bottled water,760,272,male,3/30/2018,25
+bottled water,760,272,male,3/30/2018,25
+bottled water,262,141,female,1/11/2018,25
+bottled water,262,141,female,1/11/2018,25
+bottled water,760,272,male,3/30/2018,25
+bottled water,760,272,male,3/30/2018,25
+bottled water,761,92,female,2/8/2018,25
+bottled water,516,122,male,4/3/2018,25
+bottled water,761,92,female,2/8/2018,25
+bottled water,761,92,female,2/8/2018,25
+bottled water,517,256,male,3/13/2018,25
+bottled water,762,170,female,1/31/2018,25
+bottled water,762,170,female,1/31/2018,25
+bottled water,762,170,female,1/31/2018,25
+bottled water,517,256,male,3/13/2018,25
+bottled water,762,170,female,1/31/2018,25
+bottled water,763,248,female,1/24/2018,25
+bottled water,763,248,female,1/24/2018,25
+bottled water,763,248,female,1/24/2018,25
+bottled water,518,12,male,2/22/2018,25
+bottled water,764,212,female,4/4/2018,25
+bottled water,518,12,male,2/22/2018,25
+bottled water,268,48,female,2/18/2018,25
+bottled water,764,212,female,4/4/2018,25
+bottled water,764,212,female,4/4/2018,25
+bottled water,519,86,female,3/2/2018,25
+bottled water,603,177,female,3/23/2018,25
+bottled water,766,251,male,3/26/2018,25
+bottled water,766,251,male,3/26/2018,25
+bottled water,766,251,male,3/26/2018,25
+bottled water,766,251,male,3/26/2018,25
+bottled water,766,251,male,3/26/2018,25
+bottled water,767,69,male,2/18/2018,25
+bottled water,767,69,male,2/18/2018,25
+bottled water,521,82,female,3/25/2018,25
+bottled water,521,82,female,3/25/2018,25
+bottled water,768,67,male,2/17/2018,25
+bottled water,271,215,male,2/2/2018,25
+bottled water,271,215,male,2/2/2018,25
+bottled water,769,267,female,2/17/2018,25
+bottled water,271,215,male,2/2/2018,25
+bottled water,769,267,female,2/17/2018,25
+bottled water,770,150,male,2/21/2018,25
+bottled water,770,150,male,2/21/2018,25
+bottled water,272,14,male,1/17/2018,25
+bottled water,523,281,female,1/16/2018,25
+bottled water,272,14,male,1/17/2018,25
+bottled water,523,281,female,1/16/2018,25
+bottled water,771,36,female,3/11/2018,25
+bottled water,771,36,female,3/11/2018,25
+bottled water,772,102,male,3/4/2018,25
+bottled water,772,102,male,3/4/2018,25
+bottled water,26,42,male,4/11/2018,25
+bottled water,772,102,male,3/4/2018,25
+bottled water,524,265,female,3/13/2018,25
+bottled water,773,250,female,2/4/2018,25
+bottled water,525,250,female,1/5/2018,25
+bottled water,773,250,female,2/4/2018,25
+bottled water,774,290,female,3/24/2018,25
+bottled water,525,250,female,1/5/2018,25
+bottled water,774,290,female,3/24/2018,25
+bottled water,774,290,female,3/24/2018,25
+bottled water,775,143,female,4/11/2018,25
+bottled water,775,143,female,4/11/2018,25
+bottled water,526,7,female,1/22/2018,25
+bottled water,277,17,female,2/6/2018,25
+bottled water,775,143,female,4/11/2018,25
+bottled water,279,13,male,1/27/2018,25
+bottled water,527,220,female,1/28/2018,25
+bottled water,776,218,male,4/1/2018,25
+bottled water,776,218,male,4/1/2018,25
+bottled water,777,41,female,3/8/2018,25
+bottled water,777,41,female,3/8/2018,25
+bottled water,695,97,female,1/9/2018,25
+bottled water,777,41,female,3/8/2018,25
+bottled water,777,41,female,3/8/2018,25
+bottled water,527,220,female,1/28/2018,25
+bottled water,778,294,female,1/10/2018,25
+bottled water,778,294,female,1/10/2018,25
+bottled water,528,48,female,1/16/2018,25
+bottled water,528,48,female,1/16/2018,25
+bottled water,281,90,female,1/12/2018,25
+bottled water,281,90,female,1/12/2018,25
+bottled water,779,73,male,1/18/2018,25
+bottled water,779,73,male,1/18/2018,25
+bottled water,531,220,female,2/11/2018,25
+bottled water,780,139,female,3/3/2018,25
+bottled water,781,279,male,1/27/2018,25
+bottled water,531,220,female,2/11/2018,25
+bottled water,781,279,male,1/27/2018,25
+bottled water,781,279,male,1/27/2018,25
+bottled water,34,169,male,1/18/2018,25
+bottled water,782,119,male,4/4/2018,25
+bottled water,533,294,female,1/5/2018,25
+bottled water,533,294,female,1/5/2018,25
+bottled water,450,285,male,1/7/2018,25
+bottled water,283,130,male,1/23/2018,25
+bottled water,533,294,female,1/5/2018,25
+bottled water,783,64,female,1/15/2018,25
+bottled water,783,64,female,1/15/2018,25
+bottled water,783,64,female,1/15/2018,25
+bottled water,783,64,female,1/15/2018,25
+bottled water,284,182,female,3/31/2018,25
+bottled water,534,168,female,2/1/2018,25
+bottled water,784,293,female,1/5/2018,25
+bottled water,285,98,male,3/27/2018,25
+bottled water,784,293,female,1/5/2018,25
+bottled water,453,11,male,1/19/2018,25
+bottled water,784,293,female,1/5/2018,25
+bottled water,785,76,female,2/9/2018,25
+bottled water,535,152,male,3/21/2018,25
+bottled water,785,76,female,2/9/2018,25
+bottled water,785,76,female,2/9/2018,25
+bottled water,785,76,female,2/9/2018,25
+bottled water,703,228,female,4/4/2018,25
+bottled water,786,290,female,2/18/2018,25
+bottled water,40,60,male,4/6/2018,25
+bottled water,536,8,female,4/7/2018,25
+bottled water,786,290,female,2/18/2018,25
+bottled water,786,290,female,2/18/2018,25
+bottled water,456,24,male,3/3/2018,25
+bottled water,537,46,female,1/16/2018,25
+bottled water,786,290,female,2/18/2018,25
+bottled water,705,289,female,4/6/2018,25
+bottled water,786,290,female,2/18/2018,25
+bottled water,289,88,female,1/15/2018,25
+bottled water,206,50,male,2/18/2018,25
+bottled water,787,214,female,2/15/2018,25
+bottled water,707,171,female,1/23/2018,25
+bottled water,787,214,female,2/15/2018,25
+bottled water,291,253,female,1/13/2018,25
+bottled water,788,197,female,2/15/2018,25
+bottled water,540,291,female,3/10/2018,25
+bottled water,789,95,female,1/17/2018,25
+bottled water,789,95,female,1/17/2018,25
+bottled water,789,95,female,1/17/2018,25
+bottled water,789,95,female,1/17/2018,25
+bottled water,292,213,male,3/12/2018,25
+bottled water,292,213,male,3/12/2018,25
+bottled water,789,95,female,1/17/2018,25
+bottled water,790,274,male,3/28/2018,25
+bottled water,790,274,male,3/28/2018,25
+bottled water,461,74,male,1/27/2018,25
+bottled water,380,244,female,3/3/2018,25
+bottled water,710,267,female,4/5/2018,25
+bottled water,791,40,male,4/6/2018,25
+bottled water,293,58,male,3/7/2018,25
+bottled water,792,272,male,3/13/2018,25
+bottled water,294,10,male,3/29/2018,25
+bottled water,544,163,female,1/9/2018,25
+bottled water,544,163,female,1/9/2018,25
+bottled water,792,272,male,3/13/2018,25
+bottled water,712,274,male,3/7/2018,25
+bottled water,793,268,male,3/13/2018,25
+bottled water,793,268,male,3/13/2018,25
+bottled water,545,156,female,1/23/2018,25
+bottled water,793,268,male,3/13/2018,25
+bottled water,793,268,male,3/13/2018,25
+bottled water,629,46,female,1/12/2018,25
+bottled water,547,46,female,3/6/2018,25
+bottled water,216,13,male,2/13/2018,25
+bottled water,794,41,female,3/10/2018,25
+bottled water,794,41,female,3/10/2018,25
+bottled water,795,166,male,3/8/2018,25
+bottled water,548,151,female,3/2/2018,25
+bottled water,549,97,female,3/11/2018,25
+bottled water,298,106,male,3/7/2018,25
+bottled water,715,15,female,3/21/2018,25
+bottled water,796,185,male,2/3/2018,25
+bottled water,797,107,female,3/18/2018,25
+bottled water,797,107,female,3/18/2018,25
+bottled water,797,107,female,3/18/2018,25
+bottled water,797,107,female,3/18/2018,25
+bottled water,798,53,male,3/10/2018,25
+bottled water,550,109,female,2/11/2018,25
+bottled water,798,53,male,3/10/2018,25
+bottled water,551,49,female,3/7/2018,25
+bottled water,798,53,male,3/10/2018,25
+bottled water,798,53,male,3/10/2018,25
+bottled water,799,283,male,3/3/2018,25
+bottled water,799,283,male,3/3/2018,25
+bottled water,552,111,female,1/29/2018,25
+bottled water,552,111,female,1/29/2018,25
+bottled water,800,296,male,2/27/2018,25
+bottled water,800,296,male,2/27/2018,25
+bottled water,718,253,female,3/31/2018,25
+bottled water,800,296,male,2/27/2018,25
+bottled water,801,167,female,1/27/2018,25
+bottled water,54,52,female,3/10/2018,25
+bottled water,801,167,female,1/27/2018,25
+bottled water,801,167,female,1/27/2018,25
+bottled water,303,55,female,3/24/2018,25
+bottled water,802,210,female,1/15/2018,25
+bottled water,802,210,female,1/15/2018,25
+bottled water,555,156,female,3/21/2018,25
+bottled water,803,160,female,1/7/2018,25
+bottled water,556,36,female,1/4/2018,25
+bottled water,803,160,female,1/7/2018,25
+bottled water,804,147,male,4/11/2018,25
+bottled water,306,94,female,2/8/2018,25
+bottled water,57,33,male,1/21/2018,25
+bottled water,306,94,female,2/8/2018,25
+bottled water,397,98,male,4/11/2018,25
+bottled water,805,13,male,2/8/2018,25
+bottled water,558,156,female,2/11/2018,25
+bottled water,805,13,male,2/8/2018,25
+bottled water,308,91,female,3/22/2018,25
+bottled water,58,73,male,2/26/2018,25
+bottled water,806,244,female,3/7/2018,25
+bottled water,806,244,female,3/7/2018,25
+bottled water,560,224,female,1/2/2018,25
+bottled water,807,147,male,3/9/2018,25
+bottled water,560,224,female,1/2/2018,25
+bottled water,561,188,female,1/3/2018,25
+bottled water,807,147,male,3/9/2018,25
+bottled water,807,147,male,3/9/2018,25
+bottled water,808,232,male,3/6/2018,25
+bottled water,808,232,male,3/6/2018,25
+bottled water,562,112,female,1/31/2018,25
+bottled water,562,112,female,1/31/2018,25
+bottled water,60,70,male,1/9/2018,25
+bottled water,562,112,female,1/31/2018,25
+bottled water,809,172,female,3/30/2018,25
+bottled water,810,110,male,2/10/2018,25
+bottled water,810,110,male,2/10/2018,25
+bottled water,229,197,female,1/12/2018,25
+bottled water,564,248,female,4/3/2018,25
+bottled water,564,248,female,4/3/2018,25
+bottled water,480,43,female,1/12/2018,25
+bottled water,810,110,male,2/10/2018,25
+bottled water,811,76,female,3/14/2018,25
+bottled water,811,76,female,3/14/2018,25
+bottled water,811,76,female,3/14/2018,25
+bottled water,811,76,female,3/14/2018,25
+bottled water,811,76,female,3/14/2018,25
+bottled water,811,76,female,3/14/2018,25
+bottled water,811,76,female,3/14/2018,25
+bottled water,812,159,male,2/14/2018,25
+bottled water,812,159,male,2/14/2018,25
+bottled water,567,275,female,2/23/2018,25
+bottled water,812,159,male,2/14/2018,25
+bottled water,813,129,female,2/16/2018,25
+bottled water,813,129,female,2/16/2018,25
+bottled water,569,68,female,3/22/2018,25
+bottled water,64,117,male,4/4/2018,25
+bottled water,813,129,female,2/16/2018,25
+bottled water,813,129,female,2/16/2018,25
+bottled water,317,69,male,4/1/2018,25
+bottled water,814,93,female,4/3/2018,25
+bottled water,235,209,male,1/19/2018,25
+bottled water,814,93,female,4/3/2018,25
+bottled water,571,182,female,4/6/2018,25
+bottled water,814,93,female,4/3/2018,25
+bottled water,814,93,female,4/3/2018,25
+bottled water,733,106,male,2/11/2018,25
+bottled water,572,87,male,3/20/2018,25
+bottled water,815,153,male,2/6/2018,25
+bottled water,815,153,male,2/6/2018,25
+bottled water,67,171,female,4/4/2018,25
+bottled water,816,82,female,2/1/2018,25
+bottled water,816,82,female,2/1/2018,25
+bottled water,816,82,female,2/1/2018,25
+bottled water,816,82,female,2/1/2018,25
+bottled water,490,47,male,2/22/2018,25
+bottled water,573,127,male,3/17/2018,25
+bottled water,817,147,male,3/12/2018,25
+bottled water,817,147,male,3/12/2018,25
+bottled water,574,224,female,2/17/2018,25
+bottled water,818,10,male,2/1/2018,25
+bottled water,69,113,male,2/27/2018,25
+bottled water,818,10,male,2/1/2018,25
+bottled water,818,10,male,2/1/2018,25
+bottled water,737,210,female,4/8/2018,25
+bottled water,323,248,female,2/24/2018,25
+bottled water,737,210,female,4/8/2018,25
+bottled water,576,22,female,2/10/2018,25
+bottled water,819,1,male,3/17/2018,25
+bottled water,654,81,female,1/4/2018,25
+bottled water,819,1,male,3/17/2018,25
+bottled water,819,1,male,3/17/2018,25
+bottled water,578,289,female,3/2/2018,25
+bottled water,159,56,male,2/28/2018,25
+bottled water,820,137,male,4/10/2018,25
+bottled water,738,94,female,1/22/2018,25
+bottled water,821,200,male,2/22/2018,25
+bottled water,821,200,male,2/22/2018,25
+bottled water,579,69,male,3/17/2018,25
+bottled water,821,200,male,2/22/2018,25
+bottled water,579,69,male,3/17/2018,25
+bottled water,579,69,male,3/17/2018,25
+bottled water,821,200,male,2/22/2018,25
+bottled water,821,200,male,2/22/2018,25
+bottled water,822,164,female,2/17/2018,25
+bottled water,580,120,female,1/10/2018,25
+bottled water,74,290,female,4/11/2018,25
+bottled water,329,270,male,2/2/2018,25
+bottled water,580,120,female,1/10/2018,25
+bottled water,822,164,female,2/17/2018,25
+bottled water,822,164,female,2/17/2018,25
+bottled water,823,244,female,1/26/2018,25
+bottled water,823,244,female,1/26/2018,25
+bottled water,330,60,male,3/27/2018,25
+bottled water,823,244,female,1/26/2018,25
+bottled water,823,244,female,1/26/2018,25
+bottled water,330,60,male,3/27/2018,25
+bottled water,501,215,male,4/9/2018,25
+bottled water,825,11,male,1/12/2018,25
+bottled water,825,11,male,1/12/2018,25
+bottled water,583,122,male,3/13/2018,25
+bottled water,584,203,male,3/3/2018,25
+bottled water,584,203,male,3/3/2018,25
+bottled water,828,50,male,4/6/2018,25
+bottled water,828,50,male,4/6/2018,25
+bottled water,828,50,male,4/6/2018,25
+bottled water,333,282,female,3/12/2018,25
+bottled water,829,188,female,1/19/2018,25
+bottled water,586,234,female,4/4/2018,25
+bottled water,829,188,female,1/19/2018,25
+bottled water,830,124,male,3/7/2018,25
+bottled water,830,124,male,3/7/2018,25
+bottled water,831,150,male,2/14/2018,25
+bottled water,588,83,male,3/13/2018,25
+bottled water,831,150,male,2/14/2018,25
+bottled water,750,184,male,1/13/2018,25
+bottled water,832,253,female,4/8/2018,25
+bottled water,833,288,male,1/9/2018,25
+bottled water,833,288,male,1/9/2018,25
+bottled water,833,288,male,1/9/2018,25
+bottled water,833,288,male,1/9/2018,25
+bottled water,834,170,female,3/21/2018,25
+bottled water,834,170,female,3/21/2018,25
+bottled water,834,170,female,3/21/2018,25
+bottled water,834,170,female,3/21/2018,25
+bottled water,835,79,male,1/5/2018,25
+bottled water,835,79,male,1/5/2018,25
+bottled water,835,79,male,1/5/2018,25
+bottled water,337,108,male,4/9/2018,25
+bottled water,591,211,female,2/5/2018,25
+bottled water,837,96,female,2/5/2018,25
+bottled water,591,211,female,2/5/2018,25
+bottled water,338,106,male,2/14/2018,25
+bottled water,591,211,female,2/5/2018,25
+bottled water,592,229,female,4/1/2018,25
+bottled water,838,191,female,1/12/2018,25
+bottled water,592,229,female,4/1/2018,25
+bottled water,838,191,female,1/12/2018,25
+bottled water,838,191,female,1/12/2018,25
+bottled water,340,163,female,3/3/2018,25
+bottled water,838,191,female,1/12/2018,25
+bottled water,839,140,female,3/25/2018,25
+bottled water,839,140,female,3/25/2018,25
+bottled water,593,6,female,2/13/2018,25
+bottled water,341,153,male,4/4/2018,25
+bottled water,839,140,female,3/25/2018,25
+bottled water,840,45,female,2/19/2018,25
+bottled water,840,45,female,2/19/2018,25
+bottled water,594,189,male,4/4/2018,25
+bottled water,759,25,female,3/23/2018,25
+bottled water,840,45,female,2/19/2018,25
+bottled water,841,204,female,2/23/2018,25
+bottled water,345,3,female,4/7/2018,25
+bottled water,841,204,female,2/23/2018,25
+bottled water,596,26,male,2/18/2018,25
+bottled water,841,204,female,2/23/2018,25
+bottled water,842,169,male,2/3/2018,25
+bottled water,842,169,male,2/3/2018,25
+bottled water,347,161,female,2/3/2018,25
+bottled water,842,169,male,2/3/2018,25
+bottled water,598,79,male,3/12/2018,25
+bottled water,843,288,male,3/14/2018,25
+bottled water,598,79,male,3/12/2018,25
+bottled water,843,288,male,3/14/2018,25
+bottled water,843,288,male,3/14/2018,25
+bottled water,844,225,female,2/22/2018,25
+bottled water,599,105,male,3/9/2018,25
+bottled water,599,105,male,3/9/2018,25
+bottled water,844,225,female,2/22/2018,25
+bottled water,844,225,female,2/22/2018,25
+bottled water,845,247,female,3/14/2018,25
+bottled water,845,247,female,3/14/2018,25
+bottled water,845,247,female,3/14/2018,25
+bottled water,845,247,female,3/14/2018,25
+bottled water,351,72,male,1/8/2018,25
+bottled water,846,24,male,1/30/2018,25
+bottled water,846,24,male,1/30/2018,25
+bottled water,847,171,female,3/23/2018,25
+bottled water,96,103,female,3/12/2018,25
+bottled water,847,171,female,3/23/2018,25
+bottled water,847,171,female,3/23/2018,25
+bottled water,848,296,male,3/12/2018,25
+bottled water,766,251,male,3/26/2018,25
+bottled water,848,296,male,3/12/2018,25
+bottled water,848,296,male,3/12/2018,25
+bottled water,604,294,female,2/14/2018,25
+bottled water,849,254,female,1/9/2018,25
+bottled water,604,294,female,2/14/2018,25
+bottled water,849,254,female,1/9/2018,25
+bottled water,849,254,female,1/9/2018,25
+bottled water,99,148,female,2/19/2018,25
+bottled water,605,298,female,2/27/2018,25
+bottled water,850,99,male,2/9/2018,25
+bottled water,850,99,male,2/9/2018,25
+bottled water,851,272,male,1/14/2018,25
+bottled water,851,272,male,1/14/2018,25
+bottled water,606,281,female,2/6/2018,25
+bottled water,851,272,male,1/14/2018,25
+bottled water,852,218,male,4/8/2018,25
+bottled water,852,218,male,4/8/2018,25
+bottled water,607,67,male,1/29/2018,25
+bottled water,852,218,male,4/8/2018,25
+bottled water,853,161,female,1/29/2018,25
+bottled water,853,161,female,1/29/2018,25
+bottled water,360,281,female,2/17/2018,25
+bottled water,853,161,female,1/29/2018,25
+bottled water,609,249,female,2/18/2018,25
+bottled water,609,249,female,2/18/2018,25
+bottled water,609,249,female,2/18/2018,25
+bottled water,361,177,female,3/13/2018,25
+bottled water,854,274,male,2/7/2018,25
+bottled water,610,113,male,3/27/2018,25
+bottled water,610,113,male,3/27/2018,25
+bottled water,855,93,female,4/4/2018,25
+bottled water,611,100,male,3/16/2018,25
+bottled water,855,93,female,4/4/2018,25
+bottled water,855,93,female,4/4/2018,25
+bottled water,364,258,female,1/12/2018,25
+bottled water,856,38,female,2/23/2018,25
+bottled water,856,38,female,2/23/2018,25
+bottled water,856,38,female,2/23/2018,25
+bottled water,775,143,female,4/11/2018,25
+bottled water,613,40,male,4/11/2018,25
+bottled water,613,40,male,4/11/2018,25
+bottled water,857,21,male,2/7/2018,25
+bottled water,613,40,male,4/11/2018,25
+bottled water,365,289,female,3/2/2018,25
+bottled water,857,21,male,2/7/2018,25
+bottled water,108,237,male,3/21/2018,25
+bottled water,777,41,female,3/8/2018,25
+bottled water,614,42,male,1/16/2018,25
+bottled water,858,295,female,1/15/2018,25
+bottled water,859,21,male,3/27/2018,25
+bottled water,859,21,male,3/27/2018,25
+bottled water,860,129,female,2/1/2018,25
+bottled water,860,129,female,2/1/2018,25
+bottled water,616,66,female,2/20/2018,25
+bottled water,860,129,female,2/1/2018,25
+bottled water,860,129,female,2/1/2018,25
+bottled water,617,196,female,1/23/2018,25
+bottled water,861,110,male,2/28/2018,25
+bottled water,861,110,male,2/28/2018,25
+bottled water,861,110,male,2/28/2018,25
+bottled water,862,18,male,2/6/2018,25
+bottled water,862,18,male,2/6/2018,25
+bottled water,618,126,male,2/18/2018,25
+bottled water,863,145,female,4/3/2018,25
+bottled water,863,145,female,4/3/2018,25
+bottled water,863,145,female,4/3/2018,25
+bottled water,368,93,female,1/27/2018,25
+bottled water,450,285,male,1/7/2018,25
+bottled water,782,119,male,4/4/2018,25
+bottled water,369,6,female,2/3/2018,25
+bottled water,865,177,female,3/28/2018,25
+bottled water,370,18,male,4/11/2018,25
+bottled water,621,248,female,2/22/2018,25
+bottled water,621,248,female,2/22/2018,25
+bottled water,866,13,male,1/24/2018,25
+bottled water,866,13,male,1/24/2018,25
+bottled water,866,13,male,1/24/2018,25
+bottled water,622,115,male,1/13/2018,25
+bottled water,866,13,male,1/24/2018,25
+bottled water,373,280,female,2/19/2018,25
+bottled water,784,293,female,1/5/2018,25
+bottled water,622,115,male,1/13/2018,25
+bottled water,623,224,female,3/11/2018,25
+bottled water,867,87,male,1/23/2018,25
+bottled water,868,83,male,2/23/2018,25
+bottled water,118,219,female,3/27/2018,25
+bottled water,868,83,male,2/23/2018,25
+bottled water,535,152,male,3/21/2018,25
+bottled water,624,275,female,1/30/2018,25
+bottled water,624,275,female,1/30/2018,25
+bottled water,624,275,female,1/30/2018,25
+bottled water,869,202,male,1/23/2018,25
+bottled water,869,202,male,1/23/2018,25
+bottled water,537,46,female,1/16/2018,25
+bottled water,624,275,female,1/30/2018,25
+bottled water,376,126,male,2/18/2018,25
+bottled water,625,211,female,1/28/2018,25
+bottled water,625,211,female,1/28/2018,25
+bottled water,870,60,male,3/18/2018,25
+bottled water,787,214,female,2/15/2018,25
+bottled water,625,211,female,1/28/2018,25
+bottled water,291,253,female,1/13/2018,25
+bottled water,625,211,female,1/28/2018,25
+bottled water,626,23,male,2/11/2018,25
+bottled water,626,23,male,2/11/2018,25
+bottled water,378,13,male,3/26/2018,25
+bottled water,626,23,male,2/11/2018,25
+bottled water,873,235,female,1/4/2018,25
+bottled water,873,235,female,1/4/2018,25
+bottled water,626,23,male,2/11/2018,25
+bottled water,874,202,male,3/27/2018,25
+bottled water,874,202,male,3/27/2018,25
+bottled water,875,235,female,1/8/2018,25
+bottled water,627,172,female,3/1/2018,25
+bottled water,875,235,female,1/8/2018,25
+bottled water,380,244,female,3/3/2018,25
+bottled water,876,294,female,3/24/2018,25
+bottled water,791,40,male,4/6/2018,25
+bottled water,876,294,female,3/24/2018,25
+bottled water,381,272,male,1/21/2018,25
+bottled water,877,91,female,3/22/2018,25
+bottled water,382,133,male,1/18/2018,25
+bottled water,877,91,female,3/22/2018,25
+bottled water,877,91,female,3/22/2018,25
+bottled water,628,65,female,2/17/2018,25
+bottled water,878,19,female,3/20/2018,25
+bottled water,879,63,male,4/9/2018,25
+bottled water,879,63,male,4/9/2018,25
+bottled water,879,63,male,4/9/2018,25
+bottled water,629,46,female,1/12/2018,25
+bottled water,880,168,female,2/15/2018,25
+bottled water,296,77,female,4/5/2018,25
+bottled water,713,15,female,2/8/2018,25
+bottled water,794,41,female,3/10/2018,25
+bottled water,882,280,female,2/5/2018,25
+bottled water,882,280,female,2/5/2018,25
+bottled water,882,280,female,2/5/2018,25
+bottled water,882,280,female,2/5/2018,25
+bottled water,882,280,female,2/5/2018,25
+bottled water,386,198,female,3/18/2018,25
+bottled water,549,97,female,3/11/2018,25
+bottled water,631,9,female,2/23/2018,25
+bottled water,883,103,female,2/27/2018,25
+bottled water,883,103,female,2/27/2018,25
+bottled water,135,26,male,1/8/2018,25
+bottled water,632,176,male,3/22/2018,25
+bottled water,884,48,female,1/27/2018,25
+bottled water,389,147,male,3/17/2018,25
+bottled water,633,218,male,2/15/2018,25
+bottled water,885,256,male,4/4/2018,25
+bottled water,885,256,male,4/4/2018,25
+bottled water,885,256,male,4/4/2018,25
+bottled water,633,218,male,2/15/2018,25
+bottled water,137,28,female,1/19/2018,25
+bottled water,885,256,male,4/4/2018,25
+bottled water,885,256,male,4/4/2018,25
+bottled water,885,256,male,4/4/2018,25
+bottled water,885,256,male,4/4/2018,25
+bottled water,800,296,male,2/27/2018,25
+bottled water,886,162,female,2/3/2018,25
+bottled water,392,106,male,3/8/2018,25
+bottled water,886,162,female,2/3/2018,25
+bottled water,636,153,male,3/31/2018,25
+bottled water,887,203,male,2/20/2018,25
+bottled water,887,203,male,2/20/2018,25
+bottled water,888,220,female,2/27/2018,25
+bottled water,888,220,female,2/27/2018,25
+bottled water,888,220,female,2/27/2018,25
+bottled water,888,220,female,2/27/2018,25
+bottled water,888,220,female,2/27/2018,25
+bottled water,889,294,female,2/8/2018,25
+bottled water,395,18,male,1/11/2018,25
+bottled water,396,264,male,3/14/2018,25
+bottled water,890,24,male,2/14/2018,25
+bottled water,890,24,male,2/14/2018,25
+bottled water,804,147,male,4/11/2018,25
+bottled water,638,224,female,3/28/2018,25
+bottled water,890,24,male,2/14/2018,25
+bottled water,891,85,female,1/21/2018,25
+bottled water,891,85,female,1/21/2018,25
+bottled water,397,98,male,4/11/2018,25
+bottled water,398,137,male,1/22/2018,25
+bottled water,892,17,female,3/2/2018,25
+bottled water,892,17,female,3/2/2018,25
+bottled water,892,17,female,3/2/2018,25
+bottled water,892,17,female,3/2/2018,25
+bottled water,893,70,male,3/25/2018,25
+bottled water,893,70,male,3/25/2018,25
+bottled water,893,70,male,3/25/2018,25
+bottled water,893,70,male,3/25/2018,25
+bottled water,893,70,male,3/25/2018,25
+bottled water,640,252,female,3/31/2018,25
+bottled water,894,165,female,3/26/2018,25
+bottled water,894,165,female,3/26/2018,25
+bottled water,145,258,female,3/18/2018,25
+bottled water,894,165,female,3/26/2018,25
+bottled water,894,165,female,3/26/2018,25
+bottled water,642,148,female,2/5/2018,25
+bottled water,810,110,male,2/10/2018,25
+bottled water,642,148,female,2/5/2018,25
+bottled water,895,127,male,1/15/2018,25
+bottled water,896,288,male,2/2/2018,25
+bottled water,896,288,male,2/2/2018,25
+bottled water,896,288,male,2/2/2018,25
+bottled water,896,288,male,2/2/2018,25
+bottled water,897,21,male,2/17/2018,25
+bottled water,897,21,male,2/17/2018,25
+bottled water,897,21,male,2/17/2018,25
+bottled water,897,21,male,2/17/2018,25
+bottled water,644,291,female,2/16/2018,25
+bottled water,644,291,female,2/16/2018,25
+bottled water,898,8,female,1/28/2018,25
+bottled water,898,8,female,1/28/2018,25
+bottled water,898,8,female,1/28/2018,25
+bottled water,405,86,female,2/18/2018,25
+bottled water,898,8,female,1/28/2018,25
+bottled water,898,8,female,1/28/2018,25
+bottled water,406,70,male,1/8/2018,25
+bottled water,406,70,male,1/8/2018,25
+bottled water,647,146,female,1/20/2018,25
+bottled water,900,7,female,3/7/2018,25
+bottled water,900,7,female,3/7/2018,25
+bottled water,814,93,female,4/3/2018,25
+bottled water,900,7,female,3/7/2018,25
+bottled water,647,146,female,1/20/2018,25
+bottled water,647,146,female,1/20/2018,25
+bottled water,901,60,male,1/9/2018,25
+bottled water,815,153,male,2/6/2018,25
+bottled water,901,60,male,1/9/2018,25
+bottled water,154,26,male,3/28/2018,25
+bottled water,901,60,male,1/9/2018,25
+bottled water,901,60,male,1/9/2018,25
+bottled water,409,270,male,3/16/2018,25
+bottled water,903,196,female,3/12/2018,25
+bottled water,409,270,male,3/16/2018,25
+bottled water,409,270,male,3/16/2018,25
+bottled water,817,147,male,3/12/2018,25
+bottled water,650,251,male,2/14/2018,25
+bottled water,650,251,male,2/14/2018,25
+bottled water,905,220,female,2/25/2018,25
+bottled water,651,176,male,3/19/2018,25
+bottled water,905,220,female,2/25/2018,25
+bottled water,652,6,female,2/14/2018,25
+bottled water,905,220,female,2/25/2018,25
+bottled water,652,6,female,2/14/2018,25
+bottled water,906,126,male,1/8/2018,25
+bottled water,907,204,female,3/3/2018,25
+bottled water,907,204,female,3/3/2018,25
+bottled water,653,160,female,1/31/2018,25
+bottled water,907,204,female,3/3/2018,25
+bottled water,577,152,male,1/2/2018,25
+bottled water,907,204,female,3/3/2018,25
+bottled water,908,58,male,2/28/2018,25
+bottled water,908,58,male,2/28/2018,25
+bottled water,909,223,female,1/6/2018,25
+bottled water,412,85,female,2/15/2018,25
+bottled water,820,137,male,4/10/2018,25
+bottled water,654,81,female,1/4/2018,25
+bottled water,413,294,female,1/24/2018,25
+bottled water,909,223,female,1/6/2018,25
+bottled water,910,264,male,2/11/2018,25
+bottled water,910,264,male,2/11/2018,25
+bottled water,655,138,female,2/25/2018,25
+bottled water,656,103,female,3/17/2018,25
+bottled water,910,264,male,2/11/2018,25
+bottled water,911,67,male,2/20/2018,25
+bottled water,911,67,male,2/20/2018,25
+bottled water,912,214,female,3/22/2018,25
+bottled water,912,214,female,3/22/2018,25
+bottled water,912,214,female,3/22/2018,25
+bottled water,417,116,female,2/21/2018,25
+bottled water,913,263,female,2/9/2018,25
+bottled water,658,83,male,3/17/2018,25
+bottled water,658,83,male,3/17/2018,25
+bottled water,417,116,female,2/21/2018,25
+bottled water,659,230,female,3/8/2018,25
+bottled water,913,263,female,2/9/2018,25
+bottled water,913,263,female,2/9/2018,25
+bottled water,914,246,male,2/27/2018,25
+bottled water,914,246,male,2/27/2018,25
+bottled water,660,237,male,3/10/2018,25
+bottled water,419,201,male,3/27/2018,25
+bottled water,660,237,male,3/10/2018,25
+bottled water,660,237,male,3/10/2018,25
+bottled water,914,246,male,2/27/2018,25
+bottled water,914,246,male,2/27/2018,25
+bottled water,661,51,male,3/14/2018,25
+bottled water,914,246,male,2/27/2018,25
+bottled water,915,164,female,2/25/2018,25
+bottled water,916,27,male,3/9/2018,25
+bottled water,916,27,male,3/9/2018,25
+bottled water,663,136,male,1/28/2018,25
+bottled water,917,190,male,3/14/2018,25
+bottled water,917,190,male,3/14/2018,25
+bottled water,917,190,male,3/14/2018,25
+bottled water,917,190,male,3/14/2018,25
+bottled water,422,134,male,3/18/2018,25
+bottled water,663,136,male,1/28/2018,25
+bottled water,918,56,male,2/17/2018,25
+bottled water,918,56,male,2/17/2018,25
+bottled water,919,31,male,1/6/2018,25
+bottled water,424,147,male,2/10/2018,25
+bottled water,919,31,male,1/6/2018,25
+bottled water,919,31,male,1/6/2018,25
+bottled water,919,31,male,1/6/2018,25
+bottled water,171,195,female,3/28/2018,25
+bottled water,919,31,male,1/6/2018,25
+bottled water,425,106,male,2/16/2018,25
+bottled water,920,112,female,3/14/2018,25
+bottled water,667,216,male,1/29/2018,25
+bottled water,667,216,male,1/29/2018,25
+bottled water,920,112,female,3/14/2018,25
+bottled water,172,53,male,3/6/2018,25
+bottled water,668,214,female,2/28/2018,25
+bottled water,921,148,female,3/5/2018,25
+bottled water,921,148,female,3/5/2018,25
+bottled water,669,157,female,2/21/2018,25
+bottled water,174,67,male,3/19/2018,25
+bottled water,921,148,female,3/5/2018,25
+bottled water,174,67,male,3/19/2018,25
+bottled water,426,241,male,1/30/2018,25
+bottled water,922,195,female,4/3/2018,25
+bottled water,671,246,male,1/19/2018,25
+bottled water,923,209,male,1/19/2018,25
+bottled water,426,241,male,1/30/2018,25
+bottled water,672,187,female,3/25/2018,25
+bottled water,427,156,female,2/24/2018,25
+bottled water,923,209,male,1/19/2018,25
+bottled water,427,156,female,2/24/2018,25
+bottled water,923,209,male,1/19/2018,25
+bottled water,923,209,male,1/19/2018,25
+bottled water,924,266,male,3/8/2018,25
+bottled water,427,156,female,2/24/2018,25
+bottled water,924,266,male,3/8/2018,25
+bottled water,924,266,male,3/8/2018,25
+bottled water,677,139,female,1/19/2018,25
+bottled water,924,266,male,3/8/2018,25
+bottled water,925,263,female,1/19/2018,25
+bottled water,677,139,female,1/19/2018,25
+bottled water,925,263,female,1/19/2018,25
+bottled water,925,263,female,1/19/2018,25
+bottled water,926,200,male,4/3/2018,25
+bottled water,927,53,male,1/13/2018,25
+bottled water,927,53,male,1/13/2018,25
+bottled water,927,53,male,1/13/2018,25
+bottled water,928,150,male,3/4/2018,25
+bottled water,928,150,male,3/4/2018,25
+bottled water,680,101,female,2/7/2018,25
+bottled water,929,23,male,2/17/2018,25
+bottled water,681,273,female,3/8/2018,25
+bottled water,929,23,male,2/17/2018,25
+bottled water,681,273,female,3/8/2018,25
+bottled water,929,23,male,2/17/2018,25
+bottled water,929,23,male,2/17/2018,25
+bottled water,682,81,female,3/29/2018,25
+bottled water,930,280,female,3/24/2018,25
+bottled water,930,280,female,3/24/2018,25
+bottled water,931,283,male,4/8/2018,25
+bottled water,931,283,male,4/8/2018,25
+bottled water,932,3,female,1/12/2018,25
+bottled water,683,227,female,2/2/2018,25
+bottled water,932,3,female,1/12/2018,25
+bottled water,683,227,female,2/2/2018,25
+bottled water,603,177,female,3/23/2018,25
+bottled water,932,3,female,1/12/2018,25
+bottled water,932,3,female,1/12/2018,25
+bottled water,932,3,female,1/12/2018,25
+bottled water,684,28,female,4/3/2018,25
+bottled water,685,198,female,2/26/2018,25
+bottled water,934,243,male,2/16/2018,25
+bottled water,934,243,male,2/16/2018,25
+bottled water,935,34,male,2/1/2018,25
+bottled water,685,198,female,2/26/2018,25
+bottled water,935,34,male,2/1/2018,25
+bottled water,935,34,male,2/1/2018,25
+bottled water,935,34,male,2/1/2018,25
+bottled water,686,14,male,3/18/2018,25
+bottled water,936,185,male,3/20/2018,25
+bottled water,936,185,male,3/20/2018,25
+bottled water,937,123,female,4/9/2018,25
+bottled water,937,123,female,4/9/2018,25
+bottled water,937,123,female,4/9/2018,25
+bottled water,938,147,male,1/10/2018,25
+bottled water,687,167,female,2/10/2018,25
+bottled water,938,147,male,1/10/2018,25
+bottled water,938,147,male,1/10/2018,25
+bottled water,938,147,male,1/10/2018,25
+bottled water,439,290,female,3/20/2018,25
+bottled water,939,65,female,2/14/2018,25
+bottled water,940,214,female,1/20/2018,25
+bottled water,689,147,male,4/2/2018,25
+bottled water,689,147,male,4/2/2018,25
+bottled water,941,268,male,1/20/2018,25
+bottled water,941,268,male,1/20/2018,25
+bottled water,690,121,female,1/5/2018,25
+bottled water,441,60,male,3/12/2018,25
+bottled water,943,295,female,2/17/2018,25
+bottled water,943,295,female,2/17/2018,25
+bottled water,690,121,female,1/5/2018,25
+bottled water,943,295,female,2/17/2018,25
+bottled water,943,295,female,2/17/2018,25
+bottled water,944,165,female,3/20/2018,25
+bottled water,856,38,female,2/23/2018,25
+bottled water,944,165,female,3/20/2018,25
+bottled water,944,165,female,3/20/2018,25
+bottled water,693,116,female,1/20/2018,25
+bottled water,944,165,female,3/20/2018,25
+bottled water,945,232,male,2/15/2018,25
+bottled water,945,232,male,2/15/2018,25
+bottled water,945,232,male,2/15/2018,25
+bottled water,945,232,male,2/15/2018,25
+bottled water,946,206,female,1/13/2018,25
+bottled water,946,206,female,1/13/2018,25
+bottled water,946,206,female,1/13/2018,25
+bottled water,946,206,female,1/13/2018,25
+bottled water,696,293,female,3/5/2018,25
+bottled water,197,232,male,2/23/2018,25
+bottled water,947,15,female,2/13/2018,25
+bottled water,947,15,female,2/13/2018,25
+bottled water,697,74,male,3/31/2018,25
+bottled water,948,282,female,1/28/2018,25
+bottled water,697,74,male,3/31/2018,25
+bottled water,948,282,female,1/28/2018,25
+bottled water,948,282,female,1/28/2018,25
+bottled water,698,117,male,3/1/2018,25
+bottled water,698,117,male,3/1/2018,25
+bottled water,448,38,female,3/26/2018,25
+bottled water,950,138,female,1/24/2018,25
+bottled water,950,138,female,1/24/2018,25
+bottled water,449,36,female,2/21/2018,25
+bottled water,699,119,male,1/16/2018,25
+bottled water,951,247,female,1/27/2018,25
+bottled water,699,119,male,1/16/2018,25
+bottled water,951,247,female,1/27/2018,25
+bottled water,951,247,female,1/27/2018,25
+bottled water,951,247,female,1/27/2018,25
+bottled water,951,247,female,1/27/2018,25
+bottled water,951,247,female,1/27/2018,25
+bottled water,700,34,male,3/15/2018,25
+bottled water,951,247,female,1/27/2018,25
+bottled water,951,247,female,1/27/2018,25
+bottled water,952,124,male,3/7/2018,25
+bottled water,701,198,female,3/19/2018,25
+bottled water,701,198,female,3/19/2018,25
+bottled water,373,280,female,2/19/2018,25
+bottled water,701,198,female,3/19/2018,25
+bottled water,953,202,male,2/10/2018,25
+bottled water,953,202,male,2/10/2018,25
+bottled water,953,202,male,2/10/2018,25
+bottled water,953,202,male,2/10/2018,25
+bottled water,954,88,female,3/4/2018,25
+bottled water,119,186,female,3/11/2018,25
+bottled water,954,88,female,3/4/2018,25
+bottled water,955,265,female,1/26/2018,25
+bottled water,955,265,female,1/26/2018,25
+bottled water,455,79,male,2/13/2018,25
+bottled water,705,289,female,4/6/2018,25
+bottled water,957,199,female,2/20/2018,25
+bottled water,705,289,female,4/6/2018,25
+bottled water,705,289,female,4/6/2018,25
+bottled water,957,199,female,2/20/2018,25
+bottled water,957,199,female,2/20/2018,25
+bottled water,457,28,female,1/2/2018,25
+bottled water,871,29,female,4/11/2018,25
+bottled water,706,225,female,3/9/2018,25
+bottled water,872,73,male,1/10/2018,25
+bottled water,958,66,female,1/20/2018,25
+bottled water,707,171,female,1/23/2018,25
+bottled water,958,66,female,1/20/2018,25
+bottled water,958,66,female,1/20/2018,25
+bottled water,959,95,female,1/30/2018,25
+bottled water,959,95,female,1/30/2018,25
+bottled water,707,171,female,1/23/2018,25
+bottled water,960,81,female,1/9/2018,25
+bottled water,960,81,female,1/9/2018,25
+bottled water,960,81,female,1/9/2018,25
+bottled water,708,281,female,1/27/2018,25
+bottled water,961,131,male,1/12/2018,25
+bottled water,961,131,male,1/12/2018,25
+bottled water,961,131,male,1/12/2018,25
+bottled water,710,267,female,4/5/2018,25
+bottled water,627,172,female,3/1/2018,25
+bottled water,962,236,female,3/20/2018,25
+bottled water,461,74,male,1/27/2018,25
+bottled water,461,74,male,1/27/2018,25
+bottled water,962,236,female,3/20/2018,25
+bottled water,962,236,female,3/20/2018,25
+bottled water,963,143,female,2/2/2018,25
+bottled water,712,274,male,3/7/2018,25
+bottled water,462,59,female,3/3/2018,25
+bottled water,964,286,female,2/12/2018,25
+bottled water,463,185,male,1/20/2018,25
+bottled water,712,274,male,3/7/2018,25
+bottled water,965,254,female,3/24/2018,25
+bottled water,965,254,female,3/24/2018,25
+bottled water,712,274,male,3/7/2018,25
+bottled water,881,215,male,2/1/2018,25
+bottled water,966,70,male,2/4/2018,25
+bottled water,966,70,male,2/4/2018,25
+bottled water,966,70,male,2/4/2018,25
+bottled water,713,15,female,2/8/2018,25
+bottled water,968,173,male,4/7/2018,25
+bottled water,968,173,male,4/7/2018,25
+bottled water,714,296,male,3/13/2018,25
+bottled water,968,173,male,4/7/2018,25
+bottled water,969,159,male,3/12/2018,25
+bottled water,969,159,male,3/12/2018,25
+bottled water,219,272,male,1/30/2018,25
+bottled water,969,159,male,3/12/2018,25
+bottled water,970,11,male,4/10/2018,25
+bottled water,970,11,male,4/10/2018,25
+bottled water,971,58,male,2/25/2018,25
+bottled water,971,58,male,2/25/2018,25
+bottled water,468,53,male,2/6/2018,25
+bottled water,971,58,male,2/25/2018,25
+bottled water,717,49,female,3/27/2018,25
+bottled water,220,123,female,4/10/2018,25
+bottled water,972,85,female,1/30/2018,25
+bottled water,220,123,female,4/10/2018,25
+bottled water,718,253,female,3/31/2018,25
+bottled water,973,267,female,2/4/2018,25
+bottled water,469,47,male,3/9/2018,25
+bottled water,392,106,male,3/8/2018,25
+bottled water,973,267,female,2/4/2018,25
+bottled water,974,139,female,2/20/2018,25
+bottled water,719,289,female,1/8/2018,25
+bottled water,974,139,female,2/20/2018,25
+bottled water,974,139,female,2/20/2018,25
+bottled water,974,139,female,2/20/2018,25
+bottled water,975,277,female,2/19/2018,25
+bottled water,975,277,female,2/19/2018,25
+bottled water,975,277,female,2/19/2018,25
+bottled water,975,277,female,2/19/2018,25
+bottled water,720,104,female,4/7/2018,25
+bottled water,720,104,female,4/7/2018,25
+bottled water,721,201,male,3/11/2018,25
+bottled water,977,39,female,3/28/2018,25
+bottled water,977,39,female,3/28/2018,25
+bottled water,977,39,female,3/28/2018,25
+bottled water,473,171,female,3/14/2018,25
+bottled water,977,39,female,3/28/2018,25
+bottled water,977,39,female,3/28/2018,25
+bottled water,978,77,female,3/4/2018,25
+bottled water,978,77,female,3/4/2018,25
+bottled water,979,118,female,1/29/2018,25
+bottled water,475,136,male,3/29/2018,25
+bottled water,475,136,male,3/29/2018,25
+bottled water,981,24,male,2/8/2018,25
+bottled water,981,24,male,2/8/2018,25
+bottled water,226,162,female,2/13/2018,25
+bottled water,981,24,male,2/8/2018,25
+bottled water,981,24,male,2/8/2018,25
+bottled water,981,24,male,2/8/2018,25
+bottled water,725,277,female,2/3/2018,25
+bottled water,982,219,female,4/6/2018,25
+bottled water,477,244,female,2/27/2018,25
+bottled water,478,19,female,1/10/2018,25
+bottled water,726,251,male,1/26/2018,25
+bottled water,983,5,male,1/17/2018,25
+bottled water,983,5,male,1/17/2018,25
+bottled water,726,251,male,1/26/2018,25
+bottled water,726,251,male,1/26/2018,25
+bottled water,727,68,female,2/19/2018,25
+bottled water,479,139,female,3/2/2018,25
+bottled water,984,116,female,4/1/2018,25
+bottled water,727,68,female,2/19/2018,25
+bottled water,727,68,female,2/19/2018,25
+bottled water,727,68,female,2/19/2018,25
+bottled water,985,290,female,2/28/2018,25
+bottled water,985,290,female,2/28/2018,25
+bottled water,986,142,female,3/23/2018,25
+bottled water,729,31,male,1/15/2018,25
+bottled water,729,31,male,1/15/2018,25
+bottled water,729,31,male,1/15/2018,25
+bottled water,987,132,male,2/15/2018,25
+bottled water,484,159,male,4/4/2018,25
+bottled water,987,132,male,2/15/2018,25
+bottled water,987,132,male,2/15/2018,25
+bottled water,987,132,male,2/15/2018,25
+bottled water,731,157,female,1/13/2018,25
+bottled water,987,132,male,2/15/2018,25
+bottled water,987,132,male,2/15/2018,25
+bottled water,987,132,male,2/15/2018,25
+bottled water,732,57,female,3/22/2018,25
+bottled water,732,57,female,3/22/2018,25
+bottled water,235,209,male,1/19/2018,25
+bottled water,988,112,female,3/20/2018,25
+bottled water,487,130,male,1/19/2018,25
+bottled water,733,106,male,2/11/2018,25
+bottled water,487,130,male,1/19/2018,25
+bottled water,487,130,male,1/19/2018,25
+bottled water,648,93,female,4/1/2018,25
+bottled water,988,112,female,3/20/2018,25
+bottled water,988,112,female,3/20/2018,25
+bottled water,237,298,female,2/26/2018,25
+bottled water,734,197,female,1/15/2018,25
+bottled water,989,179,male,1/27/2018,25
+bottled water,989,179,male,1/27/2018,25
+bottled water,990,141,female,1/3/2018,25
+bottled water,990,141,female,1/3/2018,25
+bottled water,990,141,female,1/3/2018,25
+bottled water,990,141,female,1/3/2018,25
+bottled water,990,141,female,1/3/2018,25
+bottled water,990,141,female,1/3/2018,25
+bottled water,991,264,male,2/1/2018,25
+bottled water,239,15,female,3/15/2018,25
+bottled water,736,262,male,2/23/2018,25
+bottled water,991,264,male,2/1/2018,25
+bottled water,736,262,male,2/23/2018,25
+bottled water,992,67,male,1/15/2018,25
+bottled water,992,67,male,1/15/2018,25
+bottled water,992,67,male,1/15/2018,25
+bottled water,992,67,male,1/15/2018,25
+bottled water,737,210,female,4/8/2018,25
+bottled water,411,237,male,4/7/2018,25
+bottled water,737,210,female,4/8/2018,25
+bottled water,993,201,male,4/7/2018,25
+bottled water,993,201,male,4/7/2018,25
+bottled water,993,201,male,4/7/2018,25
+bottled water,738,94,female,1/22/2018,25
+bottled water,994,87,male,2/1/2018,25
+bottled water,994,87,male,2/1/2018,25
+bottled water,739,105,male,3/27/2018,25
+bottled water,995,22,female,2/15/2018,25
+bottled water,995,22,female,2/15/2018,25
+bottled water,995,22,female,2/15/2018,25
+bottled water,739,105,male,3/27/2018,25
+bottled water,739,105,male,3/27/2018,25
+bottled water,996,48,female,2/5/2018,25
+bottled water,496,107,female,3/9/2018,25
+bottled water,996,48,female,2/5/2018,25
+bottled water,996,48,female,2/5/2018,25
+bottled water,246,193,male,2/9/2018,25
+bottled water,997,115,male,2/25/2018,25
+bottled water,997,115,male,2/25/2018,25
+bottled water,997,115,male,2/25/2018,25
+bottled water,997,115,male,2/25/2018,25
+bottled water,499,94,female,4/3/2018,25
+bottled water,998,42,male,3/20/2018,25
+bottled water,998,42,male,3/20/2018,25
+bottled water,999,16,female,3/20/2018,25
+bottled water,745,141,female,2/11/2018,25
+bottled water,999,16,female,3/20/2018,25
+bottled water,999,16,female,3/20/2018,25
+bottled water,999,16,female,3/20/2018,25
+bottled water,501,215,male,4/9/2018,25
+bottled water,1000,273,female,1/6/2018,25
+bottled water,502,13,male,3/13/2018,25
+bottled water,502,13,male,3/13/2018,25
+bottled water,502,13,male,3/13/2018,25
