@@ -3,7 +3,7 @@
 # STP 行銷策略之 Python 商業應用實戰｜網路爬蟲x機器學習x數據分析
 這是[《STP 行銷策略之 Python 商業應用實戰｜網路爬蟲x機器學習x數據分析》](https://www.tenlong.com.tw/products/9789865025878?list_name=b-r7-zh_tw)的章節程式碼，並且以Jupyter notebook的方式呈現，讓讀者在執行程式碼前能先更好理解每一步程式碼的意涵。
 
-# 有關本書
+## 有關本書
 本書將透過行銷資料科學技術，配合行銷管理學的理論，進行品牌定位實務專案的執行。章節內容涵蓋「概論篇」、「實務篇」、「技術篇」到「專案篇」，包含與定位相關之理論、實務故事、實戰專案案例，以及程式介紹，適合行銷人員、經理人、資訊人員、學生、數據分析師，以及想學習定位理論與實務的人士。
 
 透過本書，您將可以了解：
@@ -16,7 +16,7 @@
 - 透過STP行銷策略程式實作，學習業界專案執行方式。
 - 解析程式實作成果，洞悉STP行銷策略的管理意涵。
 
-# 內容
+## 內容
 本repo包含章節3、5、7與8之「技術篇」與「專案篇」Python實作內容
 - Chapter 1｜行銷策略與行銷資料科學 
 - Chapter 2｜市場區隔 
@@ -35,7 +35,7 @@
   - [ch8-7_目標選擇](https://bit.ly/32vwppG)
   - [ch8-8_確認在市場上的定位](https://bit.ly/2ZB3gr6)
 
-# 環境安裝與實作
+## 環境安裝與實作
 1. 下載本[repo資料](https://github.com/HowardNTUST/Python-with-STP-Marketing-Strategy/archive/master.zip)然後解壓縮
   或直接git clone repo
    ```python
@@ -47,4 +47,12 @@
    cd Python-with-STP-Marketing-Strategy && pip install -r requirements.txt
    ```
 
+## 更新
+本書code會持續更新
 
+## Issue
+有任何bug或者是疑問，歡迎開issue
+
+歡迎pull requests
+
+Happy Coding!
