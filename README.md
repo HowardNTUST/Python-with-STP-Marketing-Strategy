@@ -36,6 +36,8 @@
   - [ch8-8_確認在市場上的定位](https://bit.ly/2ZB3gr6)
 
 ## 環境安裝與實作
+0. 可以先查看各章節[notebook內容演示](https://github.com/HowardNTUST/Python-with-STP-Marketing-Strategy#%E5%85%A7%E5%AE%B9)
+
 1. 下載本[repo資料](https://github.com/HowardNTUST/Python-with-STP-Marketing-Strategy/archive/master.zip)然後解壓縮
   或直接git clone repo
    ```python
