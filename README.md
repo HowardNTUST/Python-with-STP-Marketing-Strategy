@@ -7,22 +7,22 @@
 本書將透過行銷資料科學技術，配合行銷管理學的理論，進行品牌定位實務專案的執行。章節內容涵蓋「概論篇」、「實務篇」、「技術篇」到「專案篇」，包含與定位相關之理論、實務故事、實戰專案案例，以及程式介紹，適合行銷人員、經理人、資訊人員、學生、數據分析師，以及想學習定位理論與實務的人士。
 
 透過本書，您將可以了解：
-．何謂STP行銷策略？行銷策略與行銷資料科學之關係。
-．市場區隔變數的類型、市場區隔分析技術，包括多變量分析與機器學習。
-．學界與實務界如何進行市場區隔。
-．企業如何選擇目標市場，以及進行精準行銷。
-．何謂定位？定位的方式、工具、技術與執行。
-．瞭解如何以電商網站爬蟲技法一步步建立STP行銷策略所需的資料。
-．透過STP行銷策略程式實作，學習業界專案執行方式。
-．解析程式實作成果，洞悉STP行銷策略的管理意涵。
+- 何謂STP行銷策略？行銷策略與行銷資料科學之關係。
+- 市場區隔變數的類型、市場區隔分析技術，包括多變量分析與機器學習。
+- 學界與實務界如何進行市場區隔。
+- 企業如何選擇目標市場，以及進行精準行銷。
+- 何謂定位？定位的方式、工具、技術與執行。
+- 瞭解如何以電商網站爬蟲技法一步步建立STP行銷策略所需的資料。
+- 透過STP行銷策略程式實作，學習業界專案執行方式。
+- 解析程式實作成果，洞悉STP行銷策略的管理意涵。
 
 # 內容
 本repo包含章節3、5、7與8之「技術篇」與「專案篇」Python實作內容
 - Chapter 1｜行銷策略與行銷資料科學 
 - Chapter 2｜市場區隔 
-- [**Chapter 3｜市場區隔程式實作【技術篇】**](https://bit.ly/35JeKN4)
+- [**Chapter 3｜市場區隔程式實作【技術篇】**](https://nbviewer.jupyter.org/github/HowardNTUST/competitive-analysis/blob/master/ch3_%E5%B8%82%E5%A0%B4%E5%8D%80%E9%9A%94%E7%A8%8B%E5%BC%8F%E5%AF%A6%E4%BD%9C/01%20-%20RFM%E6%A8%A1%E5%9E%8BPython%E5%AF%A6%E6%88%B0.ipynb)
 - Chapter 4｜選擇目標市場 
-- [**Chapter 5｜選擇目標市場程式實作【技術篇】**](https://bit.ly/3huq4za)
+- [**Chapter 5｜選擇目標市場程式實作【技術篇】**](https://nbviewer.jupyter.org/github/HowardNTUST/competitive-analysis/blob/master/Ch5_%E9%81%B8%E6%93%87%E7%9B%AE%E6%A8%99%E5%B8%82%E5%A0%B4%E7%A8%8B%E5%BC%8F%E5%AF%A6%E4%BD%9C/%E9%81%B8%E6%93%87%E7%9B%AE%E6%A8%99%E5%B8%82%E5%A0%B4%E7%A8%8B%E5%BC%8F%E5%AF%A6%E4%BD%9C.ipynb)
 - Chapter 6｜定位 
 - [**Chapter 7｜定位程式實作【技術篇】**](https://bit.ly/3bYxtFG)
 
@@ -35,8 +35,16 @@
   - [ch8-7_目標選擇](https://bit.ly/32vwppG)
   - [ch8-8_確認在市場上的定位](https://bit.ly/2ZB3gr6)
 
-# 版本更新與相容性
-當前Python與程式碼套件版本如下：
-- python 3 或以上
-- 
+# 環境安裝與實作
+1. 下載本[repo資料](https://github.com/HowardNTUST/Python-with-STP-Marketing-Strategy/archive/master.zip)然後解壓縮
+  或直接git clone repo
+   ```python
+   git clone https://github.com/HowardNTUST/Python-with-STP-Marketing-Strategy.git
+   ```
+   
+2. 安裝套件
+   ```python
+   cd Python-with-STP-Marketing-Strategy && pip install -r requirements.txt
+   ```
+
 
