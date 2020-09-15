@@ -24,7 +24,7 @@
 - Chapter 4｜選擇目標市場 【概論篇】
 - [**Chapter 5｜選擇目標市場程式實作【技術篇】**](https://nbviewer.jupyter.org/github/HowardNTUST/competitive-analysis/blob/master/Ch5_%E9%81%B8%E6%93%87%E7%9B%AE%E6%A8%99%E5%B8%82%E5%A0%B4%E7%A8%8B%E5%BC%8F%E5%AF%A6%E4%BD%9C/%E9%81%B8%E6%93%87%E7%9B%AE%E6%A8%99%E5%B8%82%E5%A0%B4%E7%A8%8B%E5%BC%8F%E5%AF%A6%E4%BD%9C.ipynb)
 - Chapter 6｜定位 【概論篇】
-- [**Chapter 7｜定位程式實作【技術篇】**](https://bit.ly/3bYxtFG)
+- [**Chapter 7｜定位程式實作【技術篇】**](https://nbviewer.jupyter.org/github/HowardNTUST/competitive-analysis/blob/master/CH7_%E5%AE%9A%E4%BD%8D%E7%A8%8B%E5%BC%8F%E5%AF%A6%E4%BD%9C/02_ptt_%E6%88%90%E6%9C%AC%E6%95%88%E7%9B%8A%E8%88%87%E6%83%85%E7%B7%92%E8%A9%95%E4%BC%B0%E5%88%86%E6%9E%90.ipynb)
 
 - **Chapter 8｜STP 行銷策略程式實作【專案篇】**
   - [ch8-2_到蝦皮網站爬文](https://bit.ly/35B7NO9)
