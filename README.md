@@ -36,25 +36,24 @@
   - [ch8-8_確認在市場上的定位](https://bit.ly/2ZB3gr6)
 
 ## 環境安裝與實作
-0. 可以先查看各章節[notebook內容演示](https://github.com/HowardNTUST/Python-with-STP-Marketing-Strategy#%E5%85%A7%E5%AE%B9)
+1. 可以先查看各章節[notebook內容演示](https://github.com/HowardNTUST/Python-with-STP-Marketing-Strategy#%E5%85%A7%E5%AE%B9)
 
-1. 下載本[repo資料](https://github.com/HowardNTUST/Python-with-STP-Marketing-Strategy/archive/master.zip)然後解壓縮
-  或直接git clone repo
+2. 有需要coding時，下載本[repo資料](https://github.com/HowardNTUST/Python-with-STP-Marketing-Strategy/archive/master.zip)然後解壓縮
+  或直接git clone repo解壓縮
    ```python
    git clone https://github.com/HowardNTUST/Python-with-STP-Marketing-Strategy.git
    ```
    
-2. 安裝套件
+3. 安裝套件
    ```python
    cd Python-with-STP-Marketing-Strategy && pip install -r requirements.txt
    ```
+4. 實作程式碼
 
 ## 更新
 本書code會持續更新
 
 ## Issue
-有任何bug或者是疑問，歡迎開issue
+有任何bug或者是疑問，歡迎開issue，將由書作者之一的[鍾皓軒（Howard）](https://tmrmds.co/about/)主要執行維護
 
-歡迎pull requests
-
-Happy Coding!
+歡迎pull requests~！
