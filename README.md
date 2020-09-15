@@ -1,5 +1,6 @@
-# STP 行銷策略之 Python 商業應用實戰｜網路爬蟲x機器學習x數據分析
+
 ![封面](img/stp.jpg)
+# STP 行銷策略之 Python 商業應用實戰｜網路爬蟲x機器學習x數據分析
 這是[《STP 行銷策略之 Python 商業應用實戰｜網路爬蟲x機器學習x數據分析》](https://www.tenlong.com.tw/products/9789865025878?list_name=b-r7-zh_tw)的章節程式碼，並且以Jupyter notebook的方式呈現，讓讀者在執行程式碼前能先更好理解每一步程式碼的意涵。
 
 # 有關本書
