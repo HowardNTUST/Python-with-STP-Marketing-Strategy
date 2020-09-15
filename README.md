@@ -18,21 +18,22 @@
 
 # 內容
 本repo包含章節3、5、7與8之「技術篇」與「專案篇」Python實作內容
-Chapter 1｜行銷策略與行銷資料科學 
-Chapter 2｜市場區隔 
-Chapter 3｜市場區隔程式實作 
-Chapter 4｜選擇目標市場 
-Chapter 5｜選擇目標市場程式實作 
-Chapter 6｜定位 
-Chapter 7｜定位程式實作 
-**Chapter 8｜STP 行銷策略程式實作**
-- [ch8-2_到蝦皮網站爬文](https://bit.ly/35B7NO9)
-- [ch8-3_初探蝦皮網站內容](https://bit.ly/2ZCA6Ii)
-- [ch8-4_採購數據分析](https://bit.ly/2RvCGv2)
-- [ch8-5_蝦皮市場區隔](https://bit.ly/35AWZQf)
-- [ch8-6_PTT市場的初步探勘](https://bit.ly/3iwR5mB)
-- [ch8-7_目標選擇](https://bit.ly/32vwppG)
-- [ch8-8_確認在市場上的定位](https://bit.ly/2ZB3gr6)
+- Chapter 1｜行銷策略與行銷資料科學 
+- Chapter 2｜市場區隔 
+- [**Chapter 3｜市場區隔程式實作【技術篇】**](https://bit.ly/35JeKN4)
+- Chapter 4｜選擇目標市場 
+- [**Chapter 5｜選擇目標市場程式實作【技術篇】**](https://bit.ly/3huq4za)
+- Chapter 6｜定位 
+- [**Chapter 7｜定位程式實作【技術篇】**](https://bit.ly/3bYxtFG)
+
+- **Chapter 8｜STP 行銷策略程式實作【專案篇】**
+  - [ch8-2_到蝦皮網站爬文](https://bit.ly/35B7NO9)
+  - [ch8-3_初探蝦皮網站內容](https://bit.ly/2ZCA6Ii)
+  - [ch8-4_採購數據分析](https://bit.ly/2RvCGv2)
+  - [ch8-5_蝦皮市場區隔](https://bit.ly/35AWZQf)
+  - [ch8-6_PTT市場的初步探勘](https://bit.ly/3iwR5mB)
+  - [ch8-7_目標選擇](https://bit.ly/32vwppG)
+  - [ch8-8_確認在市場上的定位](https://bit.ly/2ZB3gr6)
 
 # 版本更新與相容性
 當前Python與程式碼套件版本如下：
