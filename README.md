@@ -17,13 +17,13 @@
 - 解析程式實作成果，洞悉STP行銷策略的管理意涵。
 
 ## 內容
-本repo包含章節3、5、7與8之「技術篇」與「專案篇」Python實作內容
-- Chapter 1｜行銷策略與行銷資料科學 
-- Chapter 2｜市場區隔 
+本repo包含章節3、5、7與8之「技術篇」與「專案篇」Python實作內容，其中「概論篇」將會在書中呈現。
+- Chapter 1｜行銷策略與行銷資料科學【概論篇】
+- Chapter 2｜市場區隔 【概論篇】
 - [**Chapter 3｜市場區隔程式實作【技術篇】**](https://nbviewer.jupyter.org/github/HowardNTUST/competitive-analysis/blob/master/ch3_%E5%B8%82%E5%A0%B4%E5%8D%80%E9%9A%94%E7%A8%8B%E5%BC%8F%E5%AF%A6%E4%BD%9C/01%20-%20RFM%E6%A8%A1%E5%9E%8BPython%E5%AF%A6%E6%88%B0.ipynb)
-- Chapter 4｜選擇目標市場 
+- Chapter 4｜選擇目標市場 【概論篇】
 - [**Chapter 5｜選擇目標市場程式實作【技術篇】**](https://nbviewer.jupyter.org/github/HowardNTUST/competitive-analysis/blob/master/Ch5_%E9%81%B8%E6%93%87%E7%9B%AE%E6%A8%99%E5%B8%82%E5%A0%B4%E7%A8%8B%E5%BC%8F%E5%AF%A6%E4%BD%9C/%E9%81%B8%E6%93%87%E7%9B%AE%E6%A8%99%E5%B8%82%E5%A0%B4%E7%A8%8B%E5%BC%8F%E5%AF%A6%E4%BD%9C.ipynb)
-- Chapter 6｜定位 
+- Chapter 6｜定位 【概論篇】
 - [**Chapter 7｜定位程式實作【技術篇】**](https://bit.ly/3bYxtFG)
 
 - **Chapter 8｜STP 行銷策略程式實作【專案篇】**
@@ -32,7 +32,7 @@
   - [ch8-4_採購數據分析](https://bit.ly/2RvCGv2)
   - [ch8-5_蝦皮市場區隔](https://bit.ly/35AWZQf)
   - [ch8-6_PTT市場的初步探勘](https://bit.ly/3iwR5mB)
-  - [ch8-7_目標選擇](https://bit.ly/32vwppG)
+  - [ch8-7_目標選擇](https://github.com/HowardNTUST/Python-with-STP-Marketing-Strategy/blob/master/ch8-7_%E7%9B%AE%E6%A8%99%E9%81%B8%E6%93%87/%E7%9B%AE%E6%A8%99%E9%81%B8%E6%93%87.ipynb)
   - [ch8-8_確認在市場上的定位](https://bit.ly/2ZB3gr6)
 
 ## 環境安裝與實作
