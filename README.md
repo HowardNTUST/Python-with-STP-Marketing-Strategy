@@ -20,9 +20,9 @@
 本repo包含章節3、5、7與8之「技術篇」與「專案篇」Python實作內容，其中「概論篇」將會在書中呈現。
 - Chapter 1｜行銷策略與行銷資料科學【概論篇】
 - Chapter 2｜市場區隔 【概論篇】
-- [**Chapter 3｜市場區隔程式實作【技術篇】**](https://nbviewer.jupyter.org/github/HowardNTUST/competitive-analysis/blob/master/ch3_%E5%B8%82%E5%A0%B4%E5%8D%80%E9%9A%94%E7%A8%8B%E5%BC%8F%E5%AF%A6%E4%BD%9C/01%20-%20RFM%E6%A8%A1%E5%9E%8BPython%E5%AF%A6%E6%88%B0.ipynb)
+- [**Chapter 3｜市場區隔程式實作【技術篇】**](https://nbviewer.jupyter.org/github/HowardNTUST/Python-with-STP-Marketing-Strategy/blob/master/ch3_%E5%B8%82%E5%A0%B4%E5%8D%80%E9%9A%94%E7%A8%8B%E5%BC%8F%E5%AF%A6%E4%BD%9C/01%20-%20RFM%E6%A8%A1%E5%9E%8BPython%E5%AF%A6%E6%88%B0.ipynb)
 - Chapter 4｜選擇目標市場 【概論篇】
-- [**Chapter 5｜選擇目標市場程式實作【技術篇】**](https://nbviewer.jupyter.org/github/HowardNTUST/competitive-analysis/blob/master/Ch5_%E9%81%B8%E6%93%87%E7%9B%AE%E6%A8%99%E5%B8%82%E5%A0%B4%E7%A8%8B%E5%BC%8F%E5%AF%A6%E4%BD%9C/%E9%81%B8%E6%93%87%E7%9B%AE%E6%A8%99%E5%B8%82%E5%A0%B4%E7%A8%8B%E5%BC%8F%E5%AF%A6%E4%BD%9C.ipynb)
+- [**Chapter 5｜選擇目標市場程式實作【技術篇】**](https://nbviewer.jupyter.org/github/HowardNTUST/Python-with-STP-Marketing-Strategy/blob/master/Ch5_%E9%81%B8%E6%93%87%E7%9B%AE%E6%A8%99%E5%B8%82%E5%A0%B4%E7%A8%8B%E5%BC%8F%E5%AF%A6%E4%BD%9C/%E9%81%B8%E6%93%87%E7%9B%AE%E6%A8%99%E5%B8%82%E5%A0%B4%E7%A8%8B%E5%BC%8F%E5%AF%A6%E4%BD%9C.ipynb)
 - Chapter 6｜定位 【概論篇】
 - [**Chapter 7｜定位程式實作【技術篇】**](https://nbviewer.jupyter.org/github/HowardNTUST/competitive-analysis/blob/master/CH7_%E5%AE%9A%E4%BD%8D%E7%A8%8B%E5%BC%8F%E5%AF%A6%E4%BD%9C/02_ptt_%E6%88%90%E6%9C%AC%E6%95%88%E7%9B%8A%E8%88%87%E6%83%85%E7%B7%92%E8%A9%95%E4%BC%B0%E5%88%86%E6%9E%90.ipynb)
 
