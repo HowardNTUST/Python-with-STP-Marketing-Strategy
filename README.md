@@ -54,7 +54,7 @@
 本書code會持續更新
 
 ## Issue
-有任何bug或者是疑問，歡迎開issue，將由書作者之一的[鍾皓軒（Howard）](https://tmrmds.co/about/)主要執行維護
+有任何bug或者是疑問，歡迎開issue
 
 歡迎pull requests~！
 
