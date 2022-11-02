@@ -35,3 +35,4 @@ def cut_dataframe(df, cut = 6, cutColumn = '你想切割的欄位'):
     return pd.cut(df[cutColumn] , cut, labels=label), label #切割後的分類內容
 
 
+# fdsafdsa
