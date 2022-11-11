@@ -53,8 +53,10 @@
 ## 更新
 本書code會持續更新
 
-## Issue
-有任何bug或者是疑問，歡迎開issue
+## Issues與書籍修改
+- 書籍上的錯誤或bug，大家可以先參考[本鏈接](https://docs.google.com/document/d/1F_zuubXeGvGasxSHrj40ZuGSXzEghu_3ezd4VdXyNbc/edit#)，看一下您的問題有無在上面已經被解決囉~
+- 這裡也有之前closed的issues，歡迎參考[本鏈接](https://github.com/HowardNTUST/Python-with-STP-Marketing-Strategy/issues?q=is%3Aissue+is%3Aclosed)，說不定也能先解決您的問題哦！
+- 有任何bug或者是疑問，歡迎開issue
 
 歡迎pull requests~！
 
